@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788800563.1892285,
+  "generated_at": 1788814868.0168588,
   "signals": [
     {
       "id": "tether",
@@ -7,49 +7,49 @@
       "name": "Tether",
       "direction": "long",
       "entry": 0.999858,
-      "tp": 0.999882,
-      "sl": 0.999842,
-      "generated_at": 1788800563.1890078
+      "tp": 0.99989,
+      "sl": 0.999837,
+      "generated_at": 1788814868.0166209
     },
     {
       "id": "paypal-usd",
       "symbol": "PYUSD",
       "name": "PayPal USD",
       "direction": "long",
-      "entry": 0.999932,
-      "tp": 0.999981,
-      "sl": 0.9999,
-      "generated_at": 1788800563.189019
+      "entry": 0.99983,
+      "tp": 0.999887,
+      "sl": 0.999792,
+      "generated_at": 1788814868.0166302
+    },
+    {
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
+      "direction": "long",
+      "entry": 0.450804,
+      "tp": 0.455953,
+      "sl": 0.447372,
+      "generated_at": 1788814868.016639
     },
     {
       "id": "lighter",
       "symbol": "LIT",
       "name": "Lighter",
       "direction": "long",
-      "entry": 4.449793,
-      "tp": 4.514031,
-      "sl": 4.406967,
-      "generated_at": 1788800563.1890292
+      "entry": 4.784026,
+      "tp": 4.862371,
+      "sl": 4.731796,
+      "generated_at": 1788814868.016645
     },
     {
       "id": "pi-network",
       "symbol": "PI",
       "name": "Pi Network",
       "direction": "long",
-      "entry": 0.094339,
-      "tp": 0.094694,
-      "sl": 0.094102,
-      "generated_at": 1788800563.1890352
-    },
-    {
-      "id": "arbitrum",
-      "symbol": "ARB",
-      "name": "Arbitrum",
-      "direction": "short",
-      "entry": 0.165044,
-      "tp": 0.160324,
-      "sl": 0.168191,
-      "generated_at": 1788800563.189041
+      "entry": 0.094286,
+      "tp": 0.094601,
+      "sl": 0.094077,
+      "generated_at": 1788814868.01665
     }
   ]
 }
