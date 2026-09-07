@@ -1,0 +1,28 @@
+name: Crypto Signal Bot
+
+on:
+  schedule:
+    # هر ۱۲ ساعت (ساعت ۰۰:۰۰ و ۱۲:۰۰ UTC) - می‌تونی زمانش رو تغییر بدی
+    - cron: "0 0,12 * * *"
+  workflow_dispatch: {}   # این باعث میشه بتونی از تب Actions دستی هم اجراش کنی
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
