@@ -1,55 +1,35 @@
 {
-  "generated_at": 1788744410.4168212,
+  "generated_at": 1788779916.7690165,
   "signals": [
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "kaspa",
+      "symbol": "KAS",
+      "name": "Kaspa",
       "direction": "long",
-      "entry": 79914.34738,
-      "tp": 80123.758957,
-      "sl": 79774.739662,
-      "generated_at": 1788744410.416581
+      "entry": 0.03524,
+      "tp": 0.035971,
+      "sl": 0.034753,
+      "generated_at": 1788779916.768811
     },
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "tether",
+      "symbol": "USDT",
+      "name": "Tether",
       "direction": "long",
-      "entry": 2505.110578,
-      "tp": 2513.444971,
-      "sl": 2499.554316,
-      "generated_at": 1788744410.4165895
+      "entry": 0.999907,
+      "tp": 0.999931,
+      "sl": 0.999891,
+      "generated_at": 1788779916.7688205
     },
     {
-      "id": "blackrock-usd-institutional-digital-liquidity-fund",
-      "symbol": "BUIDL",
-      "name": "BlackRock USD Institutional Digital Liquidity Fund",
-      "direction": "long",
-      "entry": 1.0,
-      "tp": 1.0,
-      "sl": 1.0,
-      "generated_at": 1788744410.416598
-    },
-    {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
-      "direction": "long",
-      "entry": 4390.944162,
-      "tp": 4396.819176,
-      "sl": 4387.027486,
-      "generated_at": 1788744410.4166028
-    },
-    {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
-      "direction": "long",
-      "entry": 9.145868,
-      "tp": 9.198719,
-      "sl": 9.110635,
-      "generated_at": 1788744410.4166079
+      "id": "crypto-com-chain",
+      "symbol": "CRO",
+      "name": "Cronos",
+      "direction": "short",
+      "entry": 0.057499,
+      "tp": 0.057129,
+      "sl": 0.057746,
+      "generated_at": 1788779916.768827
     }
   ]
 }
