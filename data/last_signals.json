@@ -1,35 +1,55 @@
 {
-  "generated_at": 1788779916.7690165,
+  "generated_at": 1788800563.1892285,
   "signals": [
-    {
-      "id": "kaspa",
-      "symbol": "KAS",
-      "name": "Kaspa",
-      "direction": "long",
-      "entry": 0.03524,
-      "tp": 0.035971,
-      "sl": 0.034753,
-      "generated_at": 1788779916.768811
-    },
     {
       "id": "tether",
       "symbol": "USDT",
       "name": "Tether",
       "direction": "long",
-      "entry": 0.999907,
-      "tp": 0.999931,
-      "sl": 0.999891,
-      "generated_at": 1788779916.7688205
+      "entry": 0.999858,
+      "tp": 0.999882,
+      "sl": 0.999842,
+      "generated_at": 1788800563.1890078
     },
     {
-      "id": "crypto-com-chain",
-      "symbol": "CRO",
-      "name": "Cronos",
+      "id": "paypal-usd",
+      "symbol": "PYUSD",
+      "name": "PayPal USD",
+      "direction": "long",
+      "entry": 0.999932,
+      "tp": 0.999981,
+      "sl": 0.9999,
+      "generated_at": 1788800563.189019
+    },
+    {
+      "id": "lighter",
+      "symbol": "LIT",
+      "name": "Lighter",
+      "direction": "long",
+      "entry": 4.449793,
+      "tp": 4.514031,
+      "sl": 4.406967,
+      "generated_at": 1788800563.1890292
+    },
+    {
+      "id": "pi-network",
+      "symbol": "PI",
+      "name": "Pi Network",
+      "direction": "long",
+      "entry": 0.094339,
+      "tp": 0.094694,
+      "sl": 0.094102,
+      "generated_at": 1788800563.1890352
+    },
+    {
+      "id": "arbitrum",
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "direction": "short",
-      "entry": 0.057499,
-      "tp": 0.057129,
-      "sl": 0.057746,
-      "generated_at": 1788779916.768827
+      "entry": 0.165044,
+      "tp": 0.160324,
+      "sl": 0.168191,
+      "generated_at": 1788800563.189041
     }
   ]
 }
