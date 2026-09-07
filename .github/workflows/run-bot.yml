@@ -2,9 +2,12 @@ name: Crypto Signal Bot
 
 on:
   schedule:
-    # هر ۱۲ ساعت (ساعت ۰۰:۰۰ و ۱۲:۰۰ UTC) - می‌تونی زمانش رو تغییر بدی
-    - cron: "0 0,12 * * *"
+    # هر ۶ ساعت (۰۰:۰۰ - ۰۶:۰۰ - ۱۲:۰۰ - ۱۸:۰۰ UTC) - می‌تونی زمانش رو تغییر بدی
+    - cron: "0 */6 * * *"
   workflow_dispatch: {}   # این باعث میشه بتونی از تب Actions دستی هم اجراش کنی
+
+permissions:
+  contents: write   # لازمه تا ربات بتونه فایل تاریخچه سیگنال‌ها رو تو ریپو ذخیره (commit) کنه
 
 jobs:
   run-bot:
@@ -26,3 +29,11 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python main.py
+
+      - name: Save signal history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/last_signals.json
+          git diff --staged --quiet || git commit -m "Update signal history [skip ci]"
+          git push
