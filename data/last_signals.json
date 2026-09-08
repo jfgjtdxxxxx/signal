@@ -1,55 +1,55 @@
 {
-  "generated_at": 1788834696.0942929,
+  "generated_at": 1788863231.9515495,
   "signals": [
     {
-      "id": "hedera-hashgraph",
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "id": "ethereum-classic",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "direction": "long",
-      "entry": 0.082896,
-      "tp": 0.083712,
-      "sl": 0.082352,
-      "generated_at": 1788834696.094082
+      "entry": 8.242324,
+      "tp": 8.333856,
+      "sl": 8.181303,
+      "generated_at": 1788863231.9513264
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 79398.587676,
-      "tp": 79638.656766,
-      "sl": 79238.541616,
-      "generated_at": 1788834696.094092
+      "entry": 2.321293,
+      "tp": 2.354932,
+      "sl": 2.298867,
+      "generated_at": 1788863231.951334
     },
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "tether",
+      "symbol": "USDT",
+      "name": "Tether",
       "direction": "long",
-      "entry": 2503.413573,
-      "tp": 2516.082969,
-      "sl": 2494.967309,
-      "generated_at": 1788834696.0941002
+      "entry": 0.999633,
+      "tp": 0.999677,
+      "sl": 0.999603,
+      "generated_at": 1788863231.951341
     },
     {
-      "id": "internet-computer",
-      "symbol": "ICP",
-      "name": "Internet Computer",
+      "id": "shiba-inu",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "direction": "long",
-      "entry": 3.044445,
-      "tp": 3.09996,
-      "sl": 3.007435,
-      "generated_at": 1788834696.0941062
+      "entry": 5e-06,
+      "tp": 6e-06,
+      "sl": 5e-06,
+      "generated_at": 1788863231.951345
     },
     {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
+      "id": "global-dollar",
+      "symbol": "USDG",
+      "name": "Global Dollar",
       "direction": "long",
-      "entry": 0.167119,
-      "tp": 0.169481,
-      "sl": 0.165544,
-      "generated_at": 1788834696.0941114
+      "entry": 1.000063,
+      "tp": 1.000154,
+      "sl": 1.000003,
+      "generated_at": 1788863231.9513493
     }
   ]
 }
