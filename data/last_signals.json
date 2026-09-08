@@ -1,55 +1,55 @@
 {
-  "generated_at": 1788863231.9515495,
+  "generated_at": 1788882650.429432,
   "signals": [
     {
-      "id": "ethereum-classic",
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "id": "crypto-com-chain",
+      "symbol": "CRO",
+      "name": "Cronos",
       "direction": "long",
-      "entry": 8.242324,
-      "tp": 8.333856,
-      "sl": 8.181303,
-      "generated_at": 1788863231.9513264
+      "entry": 0.060889,
+      "tp": 0.061847,
+      "sl": 0.060251,
+      "generated_at": 1788882650.4292119
+    },
+    {
+      "id": "cosmos",
+      "symbol": "ATOM",
+      "name": "Cosmos Hub",
+      "direction": "long",
+      "entry": 1.796782,
+      "tp": 1.826169,
+      "sl": 1.777191,
+      "generated_at": 1788882650.4292188
+    },
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "direction": "long",
+      "entry": 78677.889673,
+      "tp": 79009.489778,
+      "sl": 78456.822936,
+      "generated_at": 1788882650.429228
     },
     {
       "id": "near",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 2.321293,
-      "tp": 2.354932,
-      "sl": 2.298867,
-      "generated_at": 1788863231.951334
-    },
-    {
-      "id": "tether",
-      "symbol": "USDT",
-      "name": "Tether",
-      "direction": "long",
-      "entry": 0.999633,
-      "tp": 0.999677,
-      "sl": 0.999603,
-      "generated_at": 1788863231.951341
+      "entry": 2.392554,
+      "tp": 2.427979,
+      "sl": 2.368937,
+      "generated_at": 1788882650.4292321
     },
     {
       "id": "shiba-inu",
       "symbol": "SHIB",
       "name": "Shiba Inu",
       "direction": "long",
-      "entry": 5e-06,
+      "entry": 6e-06,
       "tp": 6e-06,
       "sl": 5e-06,
-      "generated_at": 1788863231.951345
-    },
-    {
-      "id": "global-dollar",
-      "symbol": "USDG",
-      "name": "Global Dollar",
-      "direction": "long",
-      "entry": 1.000063,
-      "tp": 1.000154,
-      "sl": 1.000003,
-      "generated_at": 1788863231.9513493
+      "generated_at": 1788882650.429236
     }
   ]
 }
