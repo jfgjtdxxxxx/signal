@@ -1,55 +1,55 @@
 {
-  "generated_at": 1788882650.429432,
+  "generated_at": 1788899793.6522338,
   "signals": [
     {
-      "id": "crypto-com-chain",
-      "symbol": "CRO",
-      "name": "Cronos",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 0.060889,
-      "tp": 0.061847,
-      "sl": 0.060251,
-      "generated_at": 1788882650.4292119
+      "entry": 24.244346,
+      "tp": 25.555417,
+      "sl": 23.370299,
+      "generated_at": 1788899793.6519978
     },
     {
-      "id": "cosmos",
-      "symbol": "ATOM",
-      "name": "Cosmos Hub",
+      "id": "memecore",
+      "symbol": "M",
+      "name": "MemeCore",
       "direction": "long",
-      "entry": 1.796782,
-      "tp": 1.826169,
-      "sl": 1.777191,
-      "generated_at": 1788882650.4292188
+      "entry": 1.213806,
+      "tp": 1.226974,
+      "sl": 1.205028,
+      "generated_at": 1788899793.652006
     },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 78677.889673,
-      "tp": 79009.489778,
-      "sl": 78456.822936,
-      "generated_at": 1788882650.429228
+      "entry": 78508.536846,
+      "tp": 78798.686726,
+      "sl": 78315.103593,
+      "generated_at": 1788899793.6520147
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "direction": "long",
+      "entry": 2483.677138,
+      "tp": 2495.840231,
+      "sl": 2475.568409,
+      "generated_at": 1788899793.6520197
     },
     {
       "id": "near",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 2.392554,
-      "tp": 2.427979,
-      "sl": 2.368937,
-      "generated_at": 1788882650.4292321
-    },
-    {
-      "id": "shiba-inu",
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
-      "direction": "long",
-      "entry": 6e-06,
-      "tp": 6e-06,
-      "sl": 5e-06,
-      "generated_at": 1788882650.429236
+      "entry": 2.309118,
+      "tp": 2.348661,
+      "sl": 2.282756,
+      "generated_at": 1788899793.6520238
     }
   ]
 }
