@@ -1,55 +1,55 @@
 {
-  "generated_at": 1788979775.452574,
+  "generated_at": 1788996662.4935982,
   "signals": [
+    {
+      "id": "kaspa",
+      "symbol": "KAS",
+      "name": "Kaspa",
+      "direction": "long",
+      "entry": 0.036289,
+      "tp": 0.036885,
+      "sl": 0.035891,
+      "generated_at": 1788996662.4933724
+    },
     {
       "id": "zcash",
       "symbol": "ZEC",
       "name": "Zcash",
       "direction": "long",
-      "entry": 1268.180713,
-      "tp": 1284.068485,
-      "sl": 1257.588864,
-      "generated_at": 1788979775.452276
+      "entry": 1242.723108,
+      "tp": 1256.675955,
+      "sl": 1233.421211,
+      "generated_at": 1788996662.4933822
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 2.603267,
-      "tp": 2.657111,
-      "sl": 2.567372,
-      "generated_at": 1788979775.4522853
+      "entry": 510.597572,
+      "tp": 516.420906,
+      "sl": 506.715349,
+      "generated_at": 1788996662.493392
     },
     {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 0.004731,
-      "tp": 0.004819,
-      "sl": 0.004672,
-      "generated_at": 1788979775.4522958
+      "entry": 9.183541,
+      "tp": 9.195784,
+      "sl": 9.175379,
+      "generated_at": 1788996662.4933975
     },
     {
-      "id": "algorand",
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "id": "stellar",
+      "symbol": "XLM",
+      "name": "Stellar",
       "direction": "long",
-      "entry": 0.101357,
-      "tp": 0.102432,
-      "sl": 0.10064,
-      "generated_at": 1788979775.4523017
-    },
-    {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
-      "direction": "long",
-      "entry": 0.340221,
-      "tp": 0.340829,
-      "sl": 0.339815,
-      "generated_at": 1788979775.4523075
+      "entry": 0.180773,
+      "tp": 0.182577,
+      "sl": 0.17957,
+      "generated_at": 1788996662.4934032
     }
   ]
 }
