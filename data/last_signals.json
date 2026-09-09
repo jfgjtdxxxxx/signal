@@ -1,55 +1,55 @@
 {
-  "generated_at": 1788921195.1807022,
+  "generated_at": 1788950197.2094998,
   "signals": [
     {
-      "id": "crypto-com-chain",
-      "symbol": "CRO",
-      "name": "Cronos",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 0.060762,
-      "tp": 0.061913,
-      "sl": 0.059994,
-      "generated_at": 1788921195.1804454
+      "entry": 2.524526,
+      "tp": 2.574942,
+      "sl": 2.490915,
+      "generated_at": 1788950197.2092597
     },
     {
       "id": "lighter",
       "symbol": "LIT",
       "name": "Lighter",
       "direction": "long",
-      "entry": 4.923017,
-      "tp": 5.001971,
-      "sl": 4.870381,
-      "generated_at": 1788921195.1804552
+      "entry": 5.141635,
+      "tp": 5.232574,
+      "sl": 5.081009,
+      "generated_at": 1788950197.2092679
+    },
+    {
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
+      "direction": "long",
+      "entry": 25.683364,
+      "tp": 26.772516,
+      "sl": 24.957262,
+      "generated_at": 1788950197.209277
     },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 78778.254213,
-      "tp": 79052.669987,
-      "sl": 78595.310363,
-      "generated_at": 1788921195.1804647
-    },
-    {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "direction": "long",
-      "entry": 2495.393786,
-      "tp": 2505.583596,
-      "sl": 2488.600578,
-      "generated_at": 1788921195.18047
+      "entry": 79094.651198,
+      "tp": 79436.311586,
+      "sl": 78866.877605,
+      "generated_at": 1788950197.2092824
     },
     {
       "id": "tether",
       "symbol": "USDT",
       "name": "Tether",
       "direction": "long",
-      "entry": 0.99978,
-      "tp": 0.999831,
-      "sl": 0.999746,
-      "generated_at": 1788921195.1804755
+      "entry": 0.999898,
+      "tp": 0.999964,
+      "sl": 0.999854,
+      "generated_at": 1788950197.209287
     }
   ]
 }
