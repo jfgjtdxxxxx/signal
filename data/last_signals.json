@@ -1,55 +1,55 @@
 {
-  "generated_at": 1788960903.4224372,
+  "generated_at": 1788979775.452574,
   "signals": [
     {
       "id": "zcash",
       "symbol": "ZEC",
       "name": "Zcash",
       "direction": "long",
-      "entry": 1263.814131,
-      "tp": 1283.594699,
-      "sl": 1250.627085,
-      "generated_at": 1788960903.4222178
+      "entry": 1268.180713,
+      "tp": 1284.068485,
+      "sl": 1257.588864,
+      "generated_at": 1788979775.452276
     },
     {
-      "id": "bittensor",
-      "symbol": "TAO",
-      "name": "Bittensor",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 268.307083,
-      "tp": 271.613235,
-      "sl": 266.102981,
-      "generated_at": 1788960903.4222264
+      "entry": 2.603267,
+      "tp": 2.657111,
+      "sl": 2.567372,
+      "generated_at": 1788979775.4522853
     },
     {
       "id": "pump-fun",
       "symbol": "PUMP",
       "name": "Pump.fun",
       "direction": "long",
-      "entry": 0.004633,
-      "tp": 0.004719,
-      "sl": 0.004576,
-      "generated_at": 1788960903.4222355
+      "entry": 0.004731,
+      "tp": 0.004819,
+      "sl": 0.004672,
+      "generated_at": 1788979775.4522958
     },
     {
-      "id": "cosmos",
-      "symbol": "ATOM",
-      "name": "Cosmos Hub",
+      "id": "algorand",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "direction": "long",
-      "entry": 1.957216,
-      "tp": 2.005961,
-      "sl": 1.924719,
-      "generated_at": 1788960903.4222405
+      "entry": 0.101357,
+      "tp": 0.102432,
+      "sl": 0.10064,
+      "generated_at": 1788979775.4523017
     },
     {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 9.367559,
-      "tp": 9.422598,
-      "sl": 9.330866,
-      "generated_at": 1788960903.422245
+      "entry": 0.340221,
+      "tp": 0.340829,
+      "sl": 0.339815,
+      "generated_at": 1788979775.4523075
     }
   ]
 }
