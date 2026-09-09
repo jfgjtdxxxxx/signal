@@ -1,55 +1,55 @@
 {
-  "generated_at": 1788899793.6522338,
+  "generated_at": 1788921195.1807022,
   "signals": [
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "crypto-com-chain",
+      "symbol": "CRO",
+      "name": "Cronos",
       "direction": "long",
-      "entry": 24.244346,
-      "tp": 25.555417,
-      "sl": 23.370299,
-      "generated_at": 1788899793.6519978
+      "entry": 0.060762,
+      "tp": 0.061913,
+      "sl": 0.059994,
+      "generated_at": 1788921195.1804454
     },
     {
-      "id": "memecore",
-      "symbol": "M",
-      "name": "MemeCore",
+      "id": "lighter",
+      "symbol": "LIT",
+      "name": "Lighter",
       "direction": "long",
-      "entry": 1.213806,
-      "tp": 1.226974,
-      "sl": 1.205028,
-      "generated_at": 1788899793.652006
+      "entry": 4.923017,
+      "tp": 5.001971,
+      "sl": 4.870381,
+      "generated_at": 1788921195.1804552
     },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 78508.536846,
-      "tp": 78798.686726,
-      "sl": 78315.103593,
-      "generated_at": 1788899793.6520147
+      "entry": 78778.254213,
+      "tp": 79052.669987,
+      "sl": 78595.310363,
+      "generated_at": 1788921195.1804647
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "direction": "long",
-      "entry": 2483.677138,
-      "tp": 2495.840231,
-      "sl": 2475.568409,
-      "generated_at": 1788899793.6520197
+      "entry": 2495.393786,
+      "tp": 2505.583596,
+      "sl": 2488.600578,
+      "generated_at": 1788921195.18047
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "tether",
+      "symbol": "USDT",
+      "name": "Tether",
       "direction": "long",
-      "entry": 2.309118,
-      "tp": 2.348661,
-      "sl": 2.282756,
-      "generated_at": 1788899793.6520238
+      "entry": 0.99978,
+      "tp": 0.999831,
+      "sl": 0.999746,
+      "generated_at": 1788921195.1804755
     }
   ]
 }
