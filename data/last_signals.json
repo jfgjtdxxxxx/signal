@@ -1,55 +1,55 @@
 {
-  "generated_at": 1788950197.2094998,
+  "generated_at": 1788960903.4224372,
   "signals": [
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 2.524526,
-      "tp": 2.574942,
-      "sl": 2.490915,
-      "generated_at": 1788950197.2092597
+      "entry": 1263.814131,
+      "tp": 1283.594699,
+      "sl": 1250.627085,
+      "generated_at": 1788960903.4222178
     },
     {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
+      "id": "bittensor",
+      "symbol": "TAO",
+      "name": "Bittensor",
       "direction": "long",
-      "entry": 5.141635,
-      "tp": 5.232574,
-      "sl": 5.081009,
-      "generated_at": 1788950197.2092679
+      "entry": 268.307083,
+      "tp": 271.613235,
+      "sl": 266.102981,
+      "generated_at": 1788960903.4222264
     },
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
       "direction": "long",
-      "entry": 25.683364,
-      "tp": 26.772516,
-      "sl": 24.957262,
-      "generated_at": 1788950197.209277
+      "entry": 0.004633,
+      "tp": 0.004719,
+      "sl": 0.004576,
+      "generated_at": 1788960903.4222355
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "cosmos",
+      "symbol": "ATOM",
+      "name": "Cosmos Hub",
       "direction": "long",
-      "entry": 79094.651198,
-      "tp": 79436.311586,
-      "sl": 78866.877605,
-      "generated_at": 1788950197.2092824
+      "entry": 1.957216,
+      "tp": 2.005961,
+      "sl": 1.924719,
+      "generated_at": 1788960903.4222405
     },
     {
-      "id": "tether",
-      "symbol": "USDT",
-      "name": "Tether",
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
       "direction": "long",
-      "entry": 0.999898,
-      "tp": 0.999964,
-      "sl": 0.999854,
-      "generated_at": 1788950197.209287
+      "entry": 9.367559,
+      "tp": 9.422598,
+      "sl": 9.330866,
+      "generated_at": 1788960903.422245
     }
   ]
 }
