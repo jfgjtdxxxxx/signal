@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789058195.9360619,
+  "generated_at": 1789074419.6057062,
   "signals": [
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "direction": "long",
+      "entry": 2.508264,
+      "tp": 2.542792,
+      "sl": 2.485246,
+      "generated_at": 1789074419.6054602
+    },
+    {
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
+      "direction": "long",
+      "entry": 512.753399,
+      "tp": 516.809871,
+      "sl": 510.049085,
+      "generated_at": 1789074419.6054707
+    },
+    {
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
+      "direction": "long",
+      "entry": 9.197579,
+      "tp": 9.211179,
+      "sl": 9.188512,
+      "generated_at": 1789074419.6054811
+    },
     {
       "id": "bitway",
       "symbol": "BTW",
       "name": "Bitway",
       "direction": "long",
-      "entry": 0.46255,
-      "tp": 0.469524,
-      "sl": 0.457901,
-      "generated_at": 1789058195.9358459
+      "entry": 0.493281,
+      "tp": 0.502455,
+      "sl": 0.487165,
+      "generated_at": 1789074419.6054878
     },
     {
-      "id": "stable-2",
-      "symbol": "STABLE",
-      "name": "​​Stable",
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
       "direction": "long",
-      "entry": 0.030227,
-      "tp": 0.030452,
-      "sl": 0.030077,
-      "generated_at": 1789058195.935855
-    },
-    {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
-      "direction": "long",
-      "entry": 0.176372,
-      "tp": 0.177306,
-      "sl": 0.175749,
-      "generated_at": 1789058195.935864
-    },
-    {
-      "id": "avalanche-2",
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "direction": "long",
-      "entry": 7.530076,
-      "tp": 7.593849,
-      "sl": 7.487561,
-      "generated_at": 1789058195.9358695
-    },
-    {
-      "id": "morpho",
-      "symbol": "MORPHO",
-      "name": "Morpho",
-      "direction": "long",
-      "entry": 2.269645,
-      "tp": 2.295072,
-      "sl": 2.252693,
-      "generated_at": 1789058195.9358745
+      "entry": 9.436658,
+      "tp": 9.502962,
+      "sl": 9.392455,
+      "generated_at": 1789074419.6054935
     }
   ]
 }
