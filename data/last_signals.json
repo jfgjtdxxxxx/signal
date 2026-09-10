@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789074419.6057062,
+  "generated_at": 1789082788.43614,
   "signals": [
-    {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
-      "direction": "long",
-      "entry": 2.508264,
-      "tp": 2.542792,
-      "sl": 2.485246,
-      "generated_at": 1789074419.6054602
-    },
-    {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
-      "direction": "long",
-      "entry": 512.753399,
-      "tp": 516.809871,
-      "sl": 510.049085,
-      "generated_at": 1789074419.6054707
-    },
-    {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
-      "direction": "long",
-      "entry": 9.197579,
-      "tp": 9.211179,
-      "sl": 9.188512,
-      "generated_at": 1789074419.6054811
-    },
     {
       "id": "bitway",
       "symbol": "BTW",
       "name": "Bitway",
       "direction": "long",
-      "entry": 0.493281,
-      "tp": 0.502455,
-      "sl": 0.487165,
-      "generated_at": 1789074419.6054878
+      "entry": 0.495093,
+      "tp": 0.504286,
+      "sl": 0.488965,
+      "generated_at": 1789082788.4358745
     },
     {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 9.436658,
-      "tp": 9.502962,
-      "sl": 9.392455,
-      "generated_at": 1789074419.6054935
+      "entry": 0.340381,
+      "tp": 0.341046,
+      "sl": 0.339937,
+      "generated_at": 1789082788.435884
+    },
+    {
+      "id": "dogecoin",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "direction": "long",
+      "entry": 0.08336,
+      "tp": 0.083812,
+      "sl": 0.083058,
+      "generated_at": 1789082788.4358933
+    },
+    {
+      "id": "world-liberty-financial",
+      "symbol": "WLFI",
+      "name": "World Liberty Financial",
+      "direction": "long",
+      "entry": 0.056201,
+      "tp": 0.056693,
+      "sl": 0.055872,
+      "generated_at": 1789082788.4358983
+    },
+    {
+      "id": "ondo-finance",
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "direction": "long",
+      "entry": 0.343096,
+      "tp": 0.34533,
+      "sl": 0.341606,
+      "generated_at": 1789082788.4359035
     }
   ]
 }
