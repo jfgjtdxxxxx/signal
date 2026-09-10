@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789039623.806449,
+  "generated_at": 1789058195.9360619,
   "signals": [
-    {
-      "id": "kaspa",
-      "symbol": "KAS",
-      "name": "Kaspa",
-      "direction": "long",
-      "entry": 0.038813,
-      "tp": 0.039463,
-      "sl": 0.038381,
-      "generated_at": 1789039623.8062353
-    },
-    {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
-      "direction": "long",
-      "entry": 0.340245,
-      "tp": 0.340897,
-      "sl": 0.33981,
-      "generated_at": 1789039623.8062427
-    },
     {
       "id": "bitway",
       "symbol": "BTW",
       "name": "Bitway",
       "direction": "long",
-      "entry": 0.464837,
-      "tp": 0.468573,
-      "sl": 0.462346,
-      "generated_at": 1789039623.806251
+      "entry": 0.46255,
+      "tp": 0.469524,
+      "sl": 0.457901,
+      "generated_at": 1789058195.9358459
     },
     {
       "id": "stable-2",
       "symbol": "STABLE",
       "name": "​​Stable",
       "direction": "long",
-      "entry": 0.029315,
-      "tp": 0.029584,
-      "sl": 0.029136,
-      "generated_at": 1789039623.8062556
+      "entry": 0.030227,
+      "tp": 0.030452,
+      "sl": 0.030077,
+      "generated_at": 1789058195.935855
     },
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "stellar",
+      "symbol": "XLM",
+      "name": "Stellar",
       "direction": "long",
-      "entry": 0.016137,
-      "tp": 0.016243,
-      "sl": 0.016067,
-      "generated_at": 1789039623.8062594
+      "entry": 0.176372,
+      "tp": 0.177306,
+      "sl": 0.175749,
+      "generated_at": 1789058195.935864
+    },
+    {
+      "id": "avalanche-2",
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "direction": "long",
+      "entry": 7.530076,
+      "tp": 7.593849,
+      "sl": 7.487561,
+      "generated_at": 1789058195.9358695
+    },
+    {
+      "id": "morpho",
+      "symbol": "MORPHO",
+      "name": "Morpho",
+      "direction": "long",
+      "entry": 2.269645,
+      "tp": 2.295072,
+      "sl": 2.252693,
+      "generated_at": 1789058195.9358745
     }
   ]
 }
