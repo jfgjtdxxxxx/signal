@@ -1,55 +1,55 @@
 {
-  "generated_at": 1788996662.4935982,
+  "generated_at": 1789014988.225502,
   "signals": [
-    {
-      "id": "kaspa",
-      "symbol": "KAS",
-      "name": "Kaspa",
-      "direction": "long",
-      "entry": 0.036289,
-      "tp": 0.036885,
-      "sl": 0.035891,
-      "generated_at": 1788996662.4933724
-    },
-    {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "direction": "long",
-      "entry": 1242.723108,
-      "tp": 1256.675955,
-      "sl": 1233.421211,
-      "generated_at": 1788996662.4933822
-    },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 510.597572,
-      "tp": 516.420906,
-      "sl": 506.715349,
-      "generated_at": 1788996662.493392
+      "entry": 514.984582,
+      "tp": 519.957322,
+      "sl": 511.669421,
+      "generated_at": 1789014988.2252846
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 9.183541,
-      "tp": 9.195784,
-      "sl": 9.175379,
-      "generated_at": 1788996662.4933975
+      "entry": 4408.992976,
+      "tp": 4420.099895,
+      "sl": 4401.588364,
+      "generated_at": 1789014988.2252939
     },
     {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
+      "id": "pax-gold",
+      "symbol": "PAXG",
+      "name": "PAX Gold",
       "direction": "long",
-      "entry": 0.180773,
-      "tp": 0.182577,
-      "sl": 0.17957,
-      "generated_at": 1788996662.4934032
+      "entry": 4412.795979,
+      "tp": 4424.3502,
+      "sl": 4405.093165,
+      "generated_at": 1789014988.2253034
+    },
+    {
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
+      "direction": "long",
+      "entry": 1.00021,
+      "tp": 1.000271,
+      "sl": 1.00017,
+      "generated_at": 1789014988.2253098
+    },
+    {
+      "id": "polygon-ecosystem-token",
+      "symbol": "POL",
+      "name": "POL (ex-MATIC)",
+      "direction": "long",
+      "entry": 0.097608,
+      "tp": 0.098478,
+      "sl": 0.097028,
+      "generated_at": 1789014988.2253149
     }
   ]
 }
