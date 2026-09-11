@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789161178.7539115,
+  "generated_at": 1789169562.4789863,
   "signals": [
     {
-      "id": "jupiter-exchange-solana",
-      "symbol": "JUP",
-      "name": "Jupiter",
+      "id": "polygon-ecosystem-token",
+      "symbol": "POL",
+      "name": "POL (ex-MATIC)",
       "direction": "long",
-      "entry": 0.2443,
-      "tp": 0.249863,
-      "sl": 0.240591,
-      "generated_at": 1789161178.753697
+      "entry": 0.097109,
+      "tp": 0.098618,
+      "sl": 0.096103,
+      "generated_at": 1789169562.4787412
     },
     {
       "id": "solana",
       "symbol": "SOL",
       "name": "Solana",
       "direction": "long",
-      "entry": 102.245813,
-      "tp": 103.643559,
-      "sl": 101.313982,
-      "generated_at": 1789161178.7537062
+      "entry": 102.045765,
+      "tp": 103.488953,
+      "sl": 101.08364,
+      "generated_at": 1789169562.4787495
     },
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 2528.971526,
-      "tp": 2565.186438,
-      "sl": 2504.828251,
-      "generated_at": 1789161178.7537153
+      "entry": 1159.566007,
+      "tp": 1186.003485,
+      "sl": 1141.941022,
+      "generated_at": 1789169562.4787564
+    },
+    {
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
+      "direction": "long",
+      "entry": 0.061224,
+      "tp": 0.062114,
+      "sl": 0.060631,
+      "generated_at": 1789169562.4787605
     },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 517.810318,
-      "tp": 521.341658,
-      "sl": 515.456091,
-      "generated_at": 1789161178.7537203
-    },
-    {
-      "id": "litecoin",
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "direction": "long",
-      "entry": 53.462626,
-      "tp": 54.096251,
-      "sl": 53.04021,
-      "generated_at": 1789161178.7537248
+      "entry": 516.580878,
+      "tp": 519.459726,
+      "sl": 514.661647,
+      "generated_at": 1789169562.4787638
     }
   ]
 }
