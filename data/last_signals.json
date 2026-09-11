@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789144835.3144872,
+  "generated_at": 1789161178.7539115,
   "signals": [
-    {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "direction": "long",
-      "entry": 2564.151516,
-      "tp": 2595.292517,
-      "sl": 2543.39085,
-      "generated_at": 1789144835.3142502
-    },
-    {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
-      "direction": "long",
-      "entry": 2.580133,
-      "tp": 2.627368,
-      "sl": 2.548644,
-      "generated_at": 1789144835.3142586
-    },
-    {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
-      "direction": "long",
-      "entry": 24.490339,
-      "tp": 25.323243,
-      "sl": 23.935069,
-      "generated_at": 1789144835.314267
-    },
     {
       "id": "jupiter-exchange-solana",
       "symbol": "JUP",
       "name": "Jupiter",
       "direction": "long",
-      "entry": 0.248582,
-      "tp": 0.254169,
-      "sl": 0.244857,
-      "generated_at": 1789144835.3142712
+      "entry": 0.2443,
+      "tp": 0.249863,
+      "sl": 0.240591,
+      "generated_at": 1789161178.753697
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 64.699024,
-      "tp": 65.200576,
-      "sl": 64.364656,
-      "generated_at": 1789144835.3142753
+      "entry": 102.245813,
+      "tp": 103.643559,
+      "sl": 101.313982,
+      "generated_at": 1789161178.7537062
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "direction": "long",
+      "entry": 2528.971526,
+      "tp": 2565.186438,
+      "sl": 2504.828251,
+      "generated_at": 1789161178.7537153
+    },
+    {
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
+      "direction": "long",
+      "entry": 517.810318,
+      "tp": 521.341658,
+      "sl": 515.456091,
+      "generated_at": 1789161178.7537203
+    },
+    {
+      "id": "litecoin",
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "direction": "long",
+      "entry": 53.462626,
+      "tp": 54.096251,
+      "sl": 53.04021,
+      "generated_at": 1789161178.7537248
     }
   ]
 }
