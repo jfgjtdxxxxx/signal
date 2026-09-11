@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789101311.8656707,
+  "generated_at": 1789125875.326388,
   "signals": [
     {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
+      "id": "stellar",
+      "symbol": "XLM",
+      "name": "Stellar",
       "direction": "long",
-      "entry": 0.339776,
-      "tp": 0.340365,
-      "sl": 0.339384,
-      "generated_at": 1789101311.8654199
+      "entry": 0.173906,
+      "tp": 0.174722,
+      "sl": 0.173362,
+      "generated_at": 1789125875.32615
     },
     {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
+      "id": "sui",
+      "symbol": "SUI",
+      "name": "Sui",
       "direction": "long",
-      "entry": 0.499915,
-      "tp": 0.508104,
-      "sl": 0.494455,
-      "generated_at": 1789101311.8654292
+      "entry": 0.717089,
+      "tp": 0.722369,
+      "sl": 0.71357,
+      "generated_at": 1789125875.3261583
+    },
+    {
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
+      "direction": "long",
+      "entry": 9.329214,
+      "tp": 9.426486,
+      "sl": 9.264365,
+      "generated_at": 1789125875.3261678
+    },
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "direction": "long",
+      "entry": 76943.210577,
+      "tp": 77182.142295,
+      "sl": 76783.922765,
+      "generated_at": 1789125875.326174
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "direction": "long",
-      "entry": 2448.482177,
-      "tp": 2458.908523,
-      "sl": 2441.53128,
-      "generated_at": 1789101311.8654392
-    },
-    {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
-      "direction": "long",
-      "entry": 99.433726,
-      "tp": 99.853593,
-      "sl": 99.153814,
-      "generated_at": 1789101311.8654447
-    },
-    {
-      "id": "dogecoin",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "direction": "long",
-      "entry": 0.083843,
-      "tp": 0.084213,
-      "sl": 0.083596,
-      "generated_at": 1789101311.86545
+      "entry": 2460.554466,
+      "tp": 2471.2447,
+      "sl": 2453.427644,
+      "generated_at": 1789125875.3261795
     }
   ]
 }
