@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789246145.4404716,
+  "generated_at": 1789255135.1573489,
   "signals": [
     {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
       "direction": "long",
-      "entry": 0.549605,
-      "tp": 0.561334,
-      "sl": 0.541787,
-      "generated_at": 1789246145.440224
+      "entry": 0.003801,
+      "tp": 0.003858,
+      "sl": 0.003763,
+      "generated_at": 1789255135.157128
+    },
+    {
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
+      "direction": "long",
+      "entry": 538.580699,
+      "tp": 542.805987,
+      "sl": 535.763841,
+      "generated_at": 1789255135.1571352
     },
     {
       "id": "the-open-network",
       "symbol": "GRAM",
       "name": "Gram (prev. Toncoin)",
       "direction": "long",
-      "entry": 1.382979,
-      "tp": 1.387948,
-      "sl": 1.379666,
-      "generated_at": 1789246145.4402328
+      "entry": 1.382508,
+      "tp": 1.385866,
+      "sl": 1.38027,
+      "generated_at": 1789255135.1571434
+    },
+    {
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
+      "direction": "long",
+      "entry": 4350.027228,
+      "tp": 4351.119106,
+      "sl": 4349.29931,
+      "generated_at": 1789255135.1571481
     },
     {
       "id": "world-liberty-financial",
       "symbol": "WLFI",
       "name": "World Liberty Financial",
       "direction": "long",
-      "entry": 0.058165,
-      "tp": 0.058982,
-      "sl": 0.05762,
-      "generated_at": 1789246145.4402418
-    },
-    {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
-      "direction": "long",
-      "entry": 0.003841,
-      "tp": 0.003897,
-      "sl": 0.003803,
-      "generated_at": 1789246145.440247
-    },
-    {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
-      "direction": "long",
-      "entry": 3e-06,
-      "tp": 3e-06,
-      "sl": 3e-06,
-      "generated_at": 1789246145.4402518
+      "entry": 0.057343,
+      "tp": 0.058173,
+      "sl": 0.05679,
+      "generated_at": 1789255135.1571517
     }
   ]
 }
