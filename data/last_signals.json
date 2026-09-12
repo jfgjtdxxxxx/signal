@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789187764.6531274,
+  "generated_at": 1789210395.5004618,
   "signals": [
-    {
-      "id": "okb",
-      "symbol": "OKB",
-      "name": "OKB",
-      "direction": "long",
-      "entry": 114.847773,
-      "tp": 115.747787,
-      "sl": 114.247764,
-      "generated_at": 1789187764.6529088
-    },
     {
       "id": "sky",
       "symbol": "SKY",
       "name": "Sky",
       "direction": "long",
-      "entry": 0.062461,
-      "tp": 0.063236,
-      "sl": 0.061944,
-      "generated_at": 1789187764.6529174
+      "entry": 0.063373,
+      "tp": 0.063662,
+      "sl": 0.063181,
+      "generated_at": 1789210395.5002387
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
       "direction": "long",
-      "entry": 527.832437,
-      "tp": 530.986319,
-      "sl": 525.729849,
-      "generated_at": 1789187764.6529262
+      "entry": 6.353681,
+      "tp": 6.402139,
+      "sl": 6.321375,
+      "generated_at": 1789210395.5002472
     },
     {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 0.18108,
-      "tp": 0.182599,
-      "sl": 0.180067,
-      "generated_at": 1789187764.6529317
+      "entry": 77362.070607,
+      "tp": 77439.387166,
+      "sl": 77310.526234,
+      "generated_at": 1789210395.5002575
     },
     {
-      "id": "litecoin",
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "id": "dogecoin",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "direction": "long",
-      "entry": 53.729556,
-      "tp": 54.223848,
-      "sl": 53.400028,
-      "generated_at": 1789187764.6529362
+      "entry": 0.084972,
+      "tp": 0.085196,
+      "sl": 0.084822,
+      "generated_at": 1789210395.500263
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
+      "direction": "long",
+      "entry": 1.37152,
+      "tp": 1.376124,
+      "sl": 1.368451,
+      "generated_at": 1789210395.500268
     }
   ]
 }
