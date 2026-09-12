@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789210395.5004618,
+  "generated_at": 1789227974.7757306,
   "signals": [
     {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
       "direction": "long",
-      "entry": 0.063373,
-      "tp": 0.063662,
-      "sl": 0.063181,
-      "generated_at": 1789210395.5002387
+      "entry": 0.550811,
+      "tp": 0.562479,
+      "sl": 0.543032,
+      "generated_at": 1789227974.7755113
     },
     {
-      "id": "uniswap",
-      "symbol": "UNI",
-      "name": "Uniswap",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 6.353681,
-      "tp": 6.402139,
-      "sl": 6.321375,
-      "generated_at": 1789210395.5002472
-    },
-    {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "direction": "long",
-      "entry": 77362.070607,
-      "tp": 77439.387166,
-      "sl": 77310.526234,
-      "generated_at": 1789210395.5002575
+      "entry": 0.108679,
+      "tp": 0.109052,
+      "sl": 0.108431,
+      "generated_at": 1789227974.7755198
     },
     {
       "id": "dogecoin",
       "symbol": "DOGE",
       "name": "Dogecoin",
       "direction": "long",
-      "entry": 0.084972,
-      "tp": 0.085196,
-      "sl": 0.084822,
-      "generated_at": 1789210395.500263
+      "entry": 0.085067,
+      "tp": 0.085192,
+      "sl": 0.084984,
+      "generated_at": 1789227974.7755282
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "direction": "long",
+      "entry": 2539.912416,
+      "tp": 2544.800201,
+      "sl": 2536.653894,
+      "generated_at": 1789227974.7755342
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "name": "XRP",
       "direction": "long",
-      "entry": 1.37152,
-      "tp": 1.376124,
-      "sl": 1.368451,
-      "generated_at": 1789210395.500268
+      "entry": 1.369814,
+      "tp": 1.372849,
+      "sl": 1.367791,
+      "generated_at": 1789227974.7755384
     }
   ]
 }
