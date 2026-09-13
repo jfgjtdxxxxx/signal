@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789300607.8506324,
+  "generated_at": 1789316695.142289,
   "signals": [
-    {
-      "id": "hedera-hashgraph",
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "direction": "long",
-      "entry": 0.075178,
-      "tp": 0.07554,
-      "sl": 0.074936,
-      "generated_at": 1789300607.8503995
-    },
     {
       "id": "bitway",
       "symbol": "BTW",
       "name": "Bitway",
       "direction": "long",
-      "entry": 0.666967,
-      "tp": 0.686643,
-      "sl": 0.65385,
-      "generated_at": 1789300607.850409
+      "entry": 0.669167,
+      "tp": 0.704231,
+      "sl": 0.645791,
+      "generated_at": 1789316695.1420395
     },
     {
-      "id": "stable-2",
-      "symbol": "STABLE",
-      "name": "​​Stable",
+      "id": "filecoin",
+      "symbol": "FIL",
+      "name": "Filecoin",
       "direction": "long",
-      "entry": 0.028076,
-      "tp": 0.028301,
-      "sl": 0.027926,
-      "generated_at": 1789300607.8504179
+      "entry": 0.963033,
+      "tp": 0.982655,
+      "sl": 0.949952,
+      "generated_at": 1789316695.1420474
     },
     {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
+      "id": "aster-2",
+      "symbol": "ASTER",
+      "name": "Aster",
       "direction": "long",
-      "entry": 0.340718,
-      "tp": 0.34115,
-      "sl": 0.34043,
-      "generated_at": 1789300607.8504233
+      "entry": 0.698338,
+      "tp": 0.701307,
+      "sl": 0.696359,
+      "generated_at": 1789316695.1420543
     },
     {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
+      "id": "litecoin",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "direction": "long",
-      "entry": 77.317782,
-      "tp": 77.720381,
-      "sl": 77.049382,
-      "generated_at": 1789300607.8504283
+      "entry": 54.43158,
+      "tp": 54.775153,
+      "sl": 54.202531,
+      "generated_at": 1789316695.1420588
+    },
+    {
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "direction": "long",
+      "entry": 0.075763,
+      "tp": 0.076249,
+      "sl": 0.075439,
+      "generated_at": 1789316695.142063
     }
   ]
 }
