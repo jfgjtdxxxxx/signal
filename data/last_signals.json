@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789255135.1573489,
+  "generated_at": 1789274829.7780778,
   "signals": [
     {
       "id": "pump-fun",
       "symbol": "PUMP",
       "name": "Pump.fun",
       "direction": "long",
-      "entry": 0.003801,
-      "tp": 0.003858,
-      "sl": 0.003763,
-      "generated_at": 1789255135.157128
+      "entry": 0.003804,
+      "tp": 0.003869,
+      "sl": 0.003761,
+      "generated_at": 1789274829.7778616
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "okb",
+      "symbol": "OKB",
+      "name": "OKB",
       "direction": "long",
-      "entry": 538.580699,
-      "tp": 542.805987,
-      "sl": 535.763841,
-      "generated_at": 1789255135.1571352
+      "entry": 114.303585,
+      "tp": 114.774951,
+      "sl": 113.989342,
+      "generated_at": 1789274829.777869
     },
     {
-      "id": "the-open-network",
-      "symbol": "GRAM",
-      "name": "Gram (prev. Toncoin)",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1.382508,
-      "tp": 1.385866,
-      "sl": 1.38027,
-      "generated_at": 1789255135.1571434
+      "entry": 1.144798,
+      "tp": 1.146156,
+      "sl": 1.143892,
+      "generated_at": 1789274829.7778769
     },
     {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
+      "id": "aave",
+      "symbol": "AAVE",
+      "name": "Aave",
       "direction": "long",
-      "entry": 4350.027228,
-      "tp": 4351.119106,
-      "sl": 4349.29931,
-      "generated_at": 1789255135.1571481
+      "entry": 127.016503,
+      "tp": 127.568784,
+      "sl": 126.648315,
+      "generated_at": 1789274829.7778814
     },
     {
-      "id": "world-liberty-financial",
-      "symbol": "WLFI",
-      "name": "World Liberty Financial",
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
       "direction": "long",
-      "entry": 0.057343,
-      "tp": 0.058173,
-      "sl": 0.05679,
-      "generated_at": 1789255135.1571517
+      "entry": 3e-06,
+      "tp": 3e-06,
+      "sl": 3e-06,
+      "generated_at": 1789274829.7778854
     }
   ]
 }
