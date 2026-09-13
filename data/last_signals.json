@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789333228.940062,
+  "generated_at": 1789342009.580516,
   "signals": [
-    {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "direction": "long",
-      "entry": 0.702593,
-      "tp": 0.742788,
-      "sl": 0.675796,
-      "generated_at": 1789333228.939847
-    },
     {
       "id": "filecoin",
       "symbol": "FIL",
       "name": "Filecoin",
       "direction": "long",
-      "entry": 0.9883,
-      "tp": 1.014782,
-      "sl": 0.970646,
-      "generated_at": 1789333228.939856
+      "entry": 0.942864,
+      "tp": 0.973016,
+      "sl": 0.922762,
+      "generated_at": 1789342009.580296
     },
     {
-      "id": "aster-2",
-      "symbol": "ASTER",
-      "name": "Aster",
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
       "direction": "long",
-      "entry": 0.698162,
-      "tp": 0.70085,
-      "sl": 0.696369,
-      "generated_at": 1789333228.9398649
+      "entry": 0.733728,
+      "tp": 0.776225,
+      "sl": 0.705397,
+      "generated_at": 1789342009.5803046
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 64.47927,
-      "tp": 64.856374,
-      "sl": 64.227867,
-      "generated_at": 1789333228.93987
+      "entry": 1.000314,
+      "tp": 1.000476,
+      "sl": 1.000206,
+      "generated_at": 1789342009.5803137
     },
     {
-      "id": "hedera-hashgraph",
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 0.076517,
-      "tp": 0.07714,
-      "sl": 0.076102,
-      "generated_at": 1789333228.939875
+      "entry": 76699.682521,
+      "tp": 76890.618444,
+      "sl": 76572.391906,
+      "generated_at": 1789342009.580319
+    },
+    {
+      "id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "direction": "long",
+      "entry": 77.460213,
+      "tp": 78.048338,
+      "sl": 77.06813,
+      "generated_at": 1789342009.580324
     }
   ]
 }
