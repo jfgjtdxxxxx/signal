@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789390248.461697,
+  "generated_at": 1789416635.4823253,
   "signals": [
     {
       "id": "stellar",
       "symbol": "XLM",
       "name": "Stellar",
       "direction": "long",
-      "entry": 0.191462,
-      "tp": 0.19327,
-      "sl": 0.190256,
-      "generated_at": 1789390248.461452
+      "entry": 0.193854,
+      "tp": 0.196216,
+      "sl": 0.192279,
+      "generated_at": 1789416635.4821095
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
+      "direction": "long",
+      "entry": 1.460088,
+      "tp": 1.475458,
+      "sl": 1.449841,
+      "generated_at": 1789416635.4821181
     },
     {
       "id": "near",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 2.426325,
-      "tp": 2.446894,
-      "sl": 2.412612,
-      "generated_at": 1789390248.4614606
-    },
-    {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
-      "direction": "long",
-      "entry": 4.5048,
-      "tp": 4.598128,
-      "sl": 4.442581,
-      "generated_at": 1789390248.461469
-    },
-    {
-      "id": "kucoin-shares",
-      "symbol": "KCS",
-      "name": "KuCoin",
-      "direction": "long",
-      "entry": 6.992412,
-      "tp": 7.032138,
-      "sl": 6.965928,
-      "generated_at": 1789390248.4614732
+      "entry": 2.538438,
+      "tp": 2.575184,
+      "sl": 2.513941,
+      "generated_at": 1789416635.4821272
     },
     {
       "id": "pancakeswap-token",
       "symbol": "CAKE",
       "name": "PancakeSwap",
       "direction": "long",
-      "entry": 2.364591,
-      "tp": 2.389463,
-      "sl": 2.348009,
-      "generated_at": 1789390248.461478
+      "entry": 2.37714,
+      "tp": 2.396106,
+      "sl": 2.364496,
+      "generated_at": 1789416635.4821327
+    },
+    {
+      "id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "direction": "long",
+      "entry": 81.281404,
+      "tp": 81.809229,
+      "sl": 80.929521,
+      "generated_at": 1789416635.482138
     }
   ]
 }
