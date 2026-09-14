@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789361670.4792507,
+  "generated_at": 1789390248.461697,
   "signals": [
     {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
+      "id": "stellar",
+      "symbol": "XLM",
+      "name": "Stellar",
       "direction": "long",
-      "entry": 1.000226,
-      "tp": 1.000419,
-      "sl": 1.000098,
-      "generated_at": 1789361670.478994
+      "entry": 0.191462,
+      "tp": 0.19327,
+      "sl": 0.190256,
+      "generated_at": 1789390248.461452
     },
     {
-      "id": "whitebit",
-      "symbol": "WBT",
-      "name": "WhiteBIT Coin",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 80.407043,
-      "tp": 80.675635,
-      "sl": 80.227982,
-      "generated_at": 1789361670.479002
+      "entry": 2.426325,
+      "tp": 2.446894,
+      "sl": 2.412612,
+      "generated_at": 1789390248.4614606
     },
     {
-      "id": "bittensor",
-      "symbol": "TAO",
-      "name": "Bittensor",
+      "id": "lighter",
+      "symbol": "LIT",
+      "name": "Lighter",
       "direction": "long",
-      "entry": 235.319793,
-      "tp": 237.538294,
-      "sl": 233.840793,
-      "generated_at": 1789361670.47901
+      "entry": 4.5048,
+      "tp": 4.598128,
+      "sl": 4.442581,
+      "generated_at": 1789390248.461469
     },
     {
-      "id": "world-liberty-financial",
-      "symbol": "WLFI",
-      "name": "World Liberty Financial",
+      "id": "kucoin-shares",
+      "symbol": "KCS",
+      "name": "KuCoin",
       "direction": "long",
-      "entry": 0.057521,
-      "tp": 0.057716,
-      "sl": 0.057391,
-      "generated_at": 1789361670.4790146
+      "entry": 6.992412,
+      "tp": 7.032138,
+      "sl": 6.965928,
+      "generated_at": 1789390248.4614732
     },
     {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
+      "id": "pancakeswap-token",
+      "symbol": "CAKE",
+      "name": "PancakeSwap",
       "direction": "long",
-      "entry": 3e-06,
-      "tp": 3e-06,
-      "sl": 3e-06,
-      "generated_at": 1789361670.4790184
+      "entry": 2.364591,
+      "tp": 2.389463,
+      "sl": 2.348009,
+      "generated_at": 1789390248.461478
     }
   ]
 }
