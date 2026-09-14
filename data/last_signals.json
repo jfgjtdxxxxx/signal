@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789342009.580516,
+  "generated_at": 1789361670.4792507,
   "signals": [
-    {
-      "id": "filecoin",
-      "symbol": "FIL",
-      "name": "Filecoin",
-      "direction": "long",
-      "entry": 0.942864,
-      "tp": 0.973016,
-      "sl": 0.922762,
-      "generated_at": 1789342009.580296
-    },
-    {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "direction": "long",
-      "entry": 0.733728,
-      "tp": 0.776225,
-      "sl": 0.705397,
-      "generated_at": 1789342009.5803046
-    },
     {
       "id": "usdgo",
       "symbol": "USDGO",
       "name": "USDGO",
       "direction": "long",
-      "entry": 1.000314,
-      "tp": 1.000476,
-      "sl": 1.000206,
-      "generated_at": 1789342009.5803137
+      "entry": 1.000226,
+      "tp": 1.000419,
+      "sl": 1.000098,
+      "generated_at": 1789361670.478994
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "whitebit",
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
       "direction": "long",
-      "entry": 76699.682521,
-      "tp": 76890.618444,
-      "sl": 76572.391906,
-      "generated_at": 1789342009.580319
+      "entry": 80.407043,
+      "tp": 80.675635,
+      "sl": 80.227982,
+      "generated_at": 1789361670.479002
     },
     {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
+      "id": "bittensor",
+      "symbol": "TAO",
+      "name": "Bittensor",
       "direction": "long",
-      "entry": 77.460213,
-      "tp": 78.048338,
-      "sl": 77.06813,
-      "generated_at": 1789342009.580324
+      "entry": 235.319793,
+      "tp": 237.538294,
+      "sl": 233.840793,
+      "generated_at": 1789361670.47901
+    },
+    {
+      "id": "world-liberty-financial",
+      "symbol": "WLFI",
+      "name": "World Liberty Financial",
+      "direction": "long",
+      "entry": 0.057521,
+      "tp": 0.057716,
+      "sl": 0.057391,
+      "generated_at": 1789361670.4790146
+    },
+    {
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "direction": "long",
+      "entry": 3e-06,
+      "tp": 3e-06,
+      "sl": 3e-06,
+      "generated_at": 1789361670.4790184
     }
   ]
 }
