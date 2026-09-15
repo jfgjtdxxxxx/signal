@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789416635.4823253,
+  "generated_at": 1789430955.5983422,
   "signals": [
-    {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
-      "direction": "long",
-      "entry": 0.193854,
-      "tp": 0.196216,
-      "sl": 0.192279,
-      "generated_at": 1789416635.4821095
-    },
     {
       "id": "ripple",
       "symbol": "XRP",
       "name": "XRP",
       "direction": "long",
-      "entry": 1.460088,
-      "tp": 1.475458,
-      "sl": 1.449841,
-      "generated_at": 1789416635.4821181
+      "entry": 1.422273,
+      "tp": 1.438149,
+      "sl": 1.411689,
+      "generated_at": 1789430955.5981255
     },
     {
       "id": "near",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 2.538438,
-      "tp": 2.575184,
-      "sl": 2.513941,
-      "generated_at": 1789416635.4821272
+      "entry": 2.465649,
+      "tp": 2.50473,
+      "sl": 2.439595,
+      "generated_at": 1789430955.5981324
     },
     {
-      "id": "pancakeswap-token",
-      "symbol": "CAKE",
-      "name": "PancakeSwap",
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
       "direction": "long",
-      "entry": 2.37714,
-      "tp": 2.396106,
-      "sl": 2.364496,
-      "generated_at": 1789416635.4821327
+      "entry": 6.521267,
+      "tp": 6.600148,
+      "sl": 6.46868,
+      "generated_at": 1789430955.598139
     },
     {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 81.281404,
-      "tp": 81.809229,
-      "sl": 80.929521,
-      "generated_at": 1789416635.482138
+      "entry": 102.542089,
+      "tp": 103.123391,
+      "sl": 102.154554,
+      "generated_at": 1789430955.5981433
+    },
+    {
+      "id": "stellar",
+      "symbol": "XLM",
+      "name": "Stellar",
+      "direction": "long",
+      "entry": 0.191176,
+      "tp": 0.193506,
+      "sl": 0.189623,
+      "generated_at": 1789430955.5981467
     }
   ]
 }
