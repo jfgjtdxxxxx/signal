@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789430955.5983422,
+  "generated_at": 1789448082.8091807,
   "signals": [
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1.422273,
-      "tp": 1.438149,
-      "sl": 1.411689,
-      "generated_at": 1789430955.5981255
+      "entry": 1.145505,
+      "tp": 1.147868,
+      "sl": 1.143929,
+      "generated_at": 1789448082.808955
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 2.465649,
-      "tp": 2.50473,
-      "sl": 2.439595,
-      "generated_at": 1789430955.5981324
+      "entry": 0.114986,
+      "tp": 0.115449,
+      "sl": 0.114677,
+      "generated_at": 1789448082.8089633
     },
     {
       "id": "uniswap",
       "symbol": "UNI",
       "name": "Uniswap",
       "direction": "long",
-      "entry": 6.521267,
-      "tp": 6.600148,
-      "sl": 6.46868,
-      "generated_at": 1789430955.598139
+      "entry": 6.575337,
+      "tp": 6.670961,
+      "sl": 6.511587,
+      "generated_at": 1789448082.8089726
     },
     {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
+      "id": "pi-network",
+      "symbol": "PI",
+      "name": "Pi Network",
       "direction": "long",
-      "entry": 102.542089,
-      "tp": 103.123391,
-      "sl": 102.154554,
-      "generated_at": 1789430955.5981433
+      "entry": 0.097951,
+      "tp": 0.098308,
+      "sl": 0.097712,
+      "generated_at": 1789448082.8089778
     },
     {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
+      "id": "kaspa",
+      "symbol": "KAS",
+      "name": "Kaspa",
       "direction": "long",
-      "entry": 0.191176,
-      "tp": 0.193506,
-      "sl": 0.189623,
-      "generated_at": 1789430955.5981467
+      "entry": 0.034806,
+      "tp": 0.035156,
+      "sl": 0.034573,
+      "generated_at": 1789448082.8089826
     }
   ]
 }
