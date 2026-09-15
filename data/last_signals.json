@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789448082.8091807,
+  "generated_at": 1789473284.2327182,
   "signals": [
-    {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
-      "direction": "long",
-      "entry": 1.145505,
-      "tp": 1.147868,
-      "sl": 1.143929,
-      "generated_at": 1789448082.808955
-    },
     {
       "id": "just",
       "symbol": "JST",
       "name": "JUST",
       "direction": "long",
-      "entry": 0.114986,
-      "tp": 0.115449,
-      "sl": 0.114677,
-      "generated_at": 1789448082.8089633
+      "entry": 0.11578,
+      "tp": 0.116336,
+      "sl": 0.11541,
+      "generated_at": 1789473284.2324898
     },
     {
       "id": "uniswap",
       "symbol": "UNI",
       "name": "Uniswap",
       "direction": "long",
-      "entry": 6.575337,
-      "tp": 6.670961,
-      "sl": 6.511587,
-      "generated_at": 1789448082.8089726
+      "entry": 6.682838,
+      "tp": 6.777027,
+      "sl": 6.620046,
+      "generated_at": 1789473284.2324991
     },
     {
-      "id": "pi-network",
-      "symbol": "PI",
-      "name": "Pi Network",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 0.097951,
-      "tp": 0.098308,
-      "sl": 0.097712,
-      "generated_at": 1789448082.8089778
+      "entry": 515.363811,
+      "tp": 517.453445,
+      "sl": 513.970721,
+      "generated_at": 1789473284.2325082
     },
     {
-      "id": "kaspa",
-      "symbol": "KAS",
-      "name": "Kaspa",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 0.034806,
-      "tp": 0.035156,
-      "sl": 0.034573,
-      "generated_at": 1789448082.8089826
+      "entry": 9.001067,
+      "tp": 9.011444,
+      "sl": 8.99415,
+      "generated_at": 1789473284.2325134
+    },
+    {
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
+      "direction": "long",
+      "entry": 0.72705,
+      "tp": 0.776772,
+      "sl": 0.693903,
+      "generated_at": 1789473284.2325184
     }
   ]
 }
