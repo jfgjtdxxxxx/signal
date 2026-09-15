@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789492036.1576831,
+  "generated_at": 1789507659.3355148,
   "signals": [
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "arbitrum",
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "direction": "long",
-      "entry": 2418.673069,
-      "tp": 2436.385352,
-      "sl": 2406.864879,
-      "generated_at": 1789492036.1574244
+      "entry": 0.145932,
+      "tp": 0.149803,
+      "sl": 0.143352,
+      "generated_at": 1789507659.3352869
     },
     {
       "id": "figure-heloc",
       "symbol": "FIGR_HELOC",
       "name": "Figure Heloc",
       "direction": "long",
-      "entry": 1.04444,
-      "tp": 1.046633,
-      "sl": 1.042977,
-      "generated_at": 1789492036.157433
+      "entry": 1.036595,
+      "tp": 1.040156,
+      "sl": 1.034221,
+      "generated_at": 1789507659.3352947
     },
     {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 0.143647,
-      "tp": 0.145254,
-      "sl": 0.142575,
-      "generated_at": 1789492036.1574423
+      "entry": 1.145977,
+      "tp": 1.14684,
+      "sl": 1.145402,
+      "generated_at": 1789507659.3353026
     },
     {
-      "id": "arbitrum",
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 0.149987,
-      "tp": 0.153045,
-      "sl": 0.147948,
-      "generated_at": 1789492036.1574473
+      "entry": 1.000183,
+      "tp": 1.000327,
+      "sl": 1.000088,
+      "generated_at": 1789507659.3353076
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
       "direction": "long",
-      "entry": 511.353559,
-      "tp": 514.960364,
-      "sl": 508.949022,
-      "generated_at": 1789492036.1574523
+      "entry": 0.014111,
+      "tp": 0.014398,
+      "sl": 0.01392,
+      "generated_at": 1789507659.3353117
     }
   ]
 }
