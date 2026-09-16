@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789507659.3355148,
+  "generated_at": 1789534240.2888029,
   "signals": [
     {
       "id": "arbitrum",
       "symbol": "ARB",
       "name": "Arbitrum",
       "direction": "long",
-      "entry": 0.145932,
-      "tp": 0.149803,
-      "sl": 0.143352,
-      "generated_at": 1789507659.3352869
-    },
-    {
-      "id": "figure-heloc",
-      "symbol": "FIGR_HELOC",
-      "name": "Figure Heloc",
-      "direction": "long",
-      "entry": 1.036595,
-      "tp": 1.040156,
-      "sl": 1.034221,
-      "generated_at": 1789507659.3352947
+      "entry": 0.158278,
+      "tp": 0.163029,
+      "sl": 0.155111,
+      "generated_at": 1789534240.288586
     },
     {
       "id": "ondo-us-dollar-yield",
       "symbol": "USDY",
       "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1.145977,
-      "tp": 1.14684,
-      "sl": 1.145402,
-      "generated_at": 1789507659.3353026
+      "entry": 1.146099,
+      "tp": 1.147539,
+      "sl": 1.145138,
+      "generated_at": 1789534240.2885933
+    },
+    {
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
+      "direction": "long",
+      "entry": 0.761959,
+      "tp": 0.778626,
+      "sl": 0.750847,
+      "generated_at": 1789534240.2886016
     },
     {
       "id": "usdgo",
       "symbol": "USDGO",
       "name": "USDGO",
       "direction": "long",
-      "entry": 1.000183,
+      "entry": 1.000215,
       "tp": 1.000327,
-      "sl": 1.000088,
-      "generated_at": 1789507659.3353076
+      "sl": 1.000141,
+      "generated_at": 1789534240.2886066
     },
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 0.014111,
-      "tp": 0.014398,
-      "sl": 0.01392,
-      "generated_at": 1789507659.3353117
+      "entry": 75910.576331,
+      "tp": 76441.260303,
+      "sl": 75556.787017,
+      "generated_at": 1789534240.2886117
     }
   ]
 }
