@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789558876.8800552,
+  "generated_at": 1789577783.9188666,
   "signals": [
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "direction": "long",
+      "entry": 1268.866037,
+      "tp": 1289.565931,
+      "sl": 1255.066108,
+      "generated_at": 1789577783.9186125
+    },
     {
       "id": "tether-gold",
       "symbol": "XAUT",
       "name": "Tether Gold",
       "direction": "long",
-      "entry": 4343.872544,
-      "tp": 4354.593503,
-      "sl": 4336.725237,
-      "generated_at": 1789558876.8798885
+      "entry": 4343.047569,
+      "tp": 4352.396219,
+      "sl": 4336.815136,
+      "generated_at": 1789577783.9186196
     },
     {
       "id": "ondo-us-dollar-yield",
       "symbol": "USDY",
       "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1.146289,
-      "tp": 1.148223,
-      "sl": 1.144999,
-      "generated_at": 1789558876.8798947
-    },
-    {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "direction": "long",
-      "entry": 0.784163,
-      "tp": 0.804665,
-      "sl": 0.770496,
-      "generated_at": 1789558876.8799014
+      "entry": 1.146353,
+      "tp": 1.148323,
+      "sl": 1.14504,
+      "generated_at": 1789577783.9186273
     },
     {
       "id": "pax-gold",
       "symbol": "PAXG",
       "name": "PAX Gold",
       "direction": "long",
-      "entry": 4350.476955,
-      "tp": 4361.431202,
-      "sl": 4343.174125,
-      "generated_at": 1789558876.8799047
+      "entry": 4347.838382,
+      "tp": 4357.274327,
+      "sl": 4341.547751,
+      "generated_at": 1789577783.918632
     },
     {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 0.115801,
-      "tp": 0.116116,
-      "sl": 0.115592,
-      "generated_at": 1789558876.8799074
+      "entry": 1.000321,
+      "tp": 1.000439,
+      "sl": 1.000242,
+      "generated_at": 1789577783.9186363
     }
   ]
 }
