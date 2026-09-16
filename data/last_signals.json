@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789534240.2888029,
+  "generated_at": 1789558876.8800552,
   "signals": [
     {
-      "id": "arbitrum",
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 0.158278,
-      "tp": 0.163029,
-      "sl": 0.155111,
-      "generated_at": 1789534240.288586
+      "entry": 4343.872544,
+      "tp": 4354.593503,
+      "sl": 4336.725237,
+      "generated_at": 1789558876.8798885
     },
     {
       "id": "ondo-us-dollar-yield",
       "symbol": "USDY",
       "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1.146099,
-      "tp": 1.147539,
-      "sl": 1.145138,
-      "generated_at": 1789534240.2885933
+      "entry": 1.146289,
+      "tp": 1.148223,
+      "sl": 1.144999,
+      "generated_at": 1789558876.8798947
     },
     {
       "id": "bitway",
       "symbol": "BTW",
       "name": "Bitway",
       "direction": "long",
-      "entry": 0.761959,
-      "tp": 0.778626,
-      "sl": 0.750847,
-      "generated_at": 1789534240.2886016
+      "entry": 0.784163,
+      "tp": 0.804665,
+      "sl": 0.770496,
+      "generated_at": 1789558876.8799014
     },
     {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
+      "id": "pax-gold",
+      "symbol": "PAXG",
+      "name": "PAX Gold",
       "direction": "long",
-      "entry": 1.000215,
-      "tp": 1.000327,
-      "sl": 1.000141,
-      "generated_at": 1789534240.2886066
+      "entry": 4350.476955,
+      "tp": 4361.431202,
+      "sl": 4343.174125,
+      "generated_at": 1789558876.8799047
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 75910.576331,
-      "tp": 76441.260303,
-      "sl": 75556.787017,
-      "generated_at": 1789534240.2886117
+      "entry": 0.115801,
+      "tp": 0.116116,
+      "sl": 0.115592,
+      "generated_at": 1789558876.8799074
     }
   ]
 }
