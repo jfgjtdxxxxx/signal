@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789620955.1670356,
+  "generated_at": 1789645755.2201254,
   "signals": [
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
       "direction": "long",
-      "entry": 1352.786836,
-      "tp": 1392.926442,
-      "sl": 1326.027099,
-      "generated_at": 1789620955.1667974
+      "entry": 6.872702,
+      "tp": 7.006478,
+      "sl": 6.783517,
+      "generated_at": 1789645755.219904
     },
     {
       "id": "canton-network",
       "symbol": "CC",
       "name": "Canton",
       "direction": "long",
-      "entry": 0.097148,
-      "tp": 0.09905,
-      "sl": 0.09588,
-      "generated_at": 1789620955.1668065
-    },
-    {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
-      "direction": "long",
-      "entry": 2.664553,
-      "tp": 2.710654,
-      "sl": 2.63382,
-      "generated_at": 1789620955.1668158
+      "entry": 0.100287,
+      "tp": 0.101854,
+      "sl": 0.099243,
+      "generated_at": 1789645755.2199123
     },
     {
       "id": "pump-fun",
       "symbol": "PUMP",
       "name": "Pump.fun",
       "direction": "long",
-      "entry": 0.003815,
-      "tp": 0.003867,
-      "sl": 0.003781,
-      "generated_at": 1789620955.1668215
+      "entry": 0.003887,
+      "tp": 0.003933,
+      "sl": 0.003856,
+      "generated_at": 1789645755.219921
     },
     {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
+      "id": "ondo-finance",
+      "symbol": "ONDO",
+      "name": "Ondo",
       "direction": "long",
-      "entry": 0.15051,
-      "tp": 0.152837,
-      "sl": 0.14896,
-      "generated_at": 1789620955.166826
+      "entry": 0.348013,
+      "tp": 0.351447,
+      "sl": 0.345723,
+      "generated_at": 1789645755.2199266
+    },
+    {
+      "id": "lighter",
+      "symbol": "LIT",
+      "name": "Lighter",
+      "direction": "long",
+      "entry": 4.857817,
+      "tp": 4.971743,
+      "sl": 4.781866,
+      "generated_at": 1789645755.2199314
     }
   ]
 }
