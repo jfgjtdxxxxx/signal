@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789645755.2201254,
+  "generated_at": 1789664651.5581412,
   "signals": [
     {
-      "id": "uniswap",
-      "symbol": "UNI",
-      "name": "Uniswap",
+      "id": "sui",
+      "symbol": "SUI",
+      "name": "Sui",
       "direction": "long",
-      "entry": 6.872702,
-      "tp": 7.006478,
-      "sl": 6.783517,
-      "generated_at": 1789645755.219904
+      "entry": 0.729701,
+      "tp": 0.734001,
+      "sl": 0.726835,
+      "generated_at": 1789664651.557861
+    },
+    {
+      "id": "chainlink",
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "direction": "long",
+      "entry": 11.335295,
+      "tp": 11.397668,
+      "sl": 11.293713,
+      "generated_at": 1789664651.5578704
+    },
+    {
+      "id": "cardano",
+      "symbol": "ADA",
+      "name": "Cardano",
+      "direction": "long",
+      "entry": 0.201828,
+      "tp": 0.203064,
+      "sl": 0.201005,
+      "generated_at": 1789664651.557878
+    },
+    {
+      "id": "stellar",
+      "symbol": "XLM",
+      "name": "Stellar",
+      "direction": "long",
+      "entry": 0.185716,
+      "tp": 0.186864,
+      "sl": 0.184951,
+      "generated_at": 1789664651.5578823
     },
     {
       "id": "canton-network",
       "symbol": "CC",
       "name": "Canton",
       "direction": "long",
-      "entry": 0.100287,
-      "tp": 0.101854,
-      "sl": 0.099243,
-      "generated_at": 1789645755.2199123
-    },
-    {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
-      "direction": "long",
-      "entry": 0.003887,
-      "tp": 0.003933,
-      "sl": 0.003856,
-      "generated_at": 1789645755.219921
-    },
-    {
-      "id": "ondo-finance",
-      "symbol": "ONDO",
-      "name": "Ondo",
-      "direction": "long",
-      "entry": 0.348013,
-      "tp": 0.351447,
-      "sl": 0.345723,
-      "generated_at": 1789645755.2199266
-    },
-    {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
-      "direction": "long",
-      "entry": 4.857817,
-      "tp": 4.971743,
-      "sl": 4.781866,
-      "generated_at": 1789645755.2199314
+      "entry": 0.101016,
+      "tp": 0.102025,
+      "sl": 0.100344,
+      "generated_at": 1789664651.5578873
     }
   ]
 }
