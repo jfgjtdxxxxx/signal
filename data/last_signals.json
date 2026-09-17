@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789594097.975846,
+  "generated_at": 1789620955.1670356,
   "signals": [
     {
       "id": "zcash",
       "symbol": "ZEC",
       "name": "Zcash",
       "direction": "long",
-      "entry": 1325.790168,
-      "tp": 1359.887471,
-      "sl": 1303.058633,
-      "generated_at": 1789594097.9756265
+      "entry": 1352.786836,
+      "tp": 1392.926442,
+      "sl": 1326.027099,
+      "generated_at": 1789620955.1667974
+    },
+    {
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
+      "direction": "long",
+      "entry": 0.097148,
+      "tp": 0.09905,
+      "sl": 0.09588,
+      "generated_at": 1789620955.1668065
+    },
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "direction": "long",
+      "entry": 2.664553,
+      "tp": 2.710654,
+      "sl": 2.63382,
+      "generated_at": 1789620955.1668158
+    },
+    {
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
+      "direction": "long",
+      "entry": 0.003815,
+      "tp": 0.003867,
+      "sl": 0.003781,
+      "generated_at": 1789620955.1668215
     },
     {
       "id": "ethena",
       "symbol": "ENA",
       "name": "Ethena",
       "direction": "long",
-      "entry": 0.146569,
-      "tp": 0.148554,
-      "sl": 0.145245,
-      "generated_at": 1789594097.9756358
-    },
-    {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
-      "direction": "long",
-      "entry": 4.543219,
-      "tp": 4.624193,
-      "sl": 4.489235,
-      "generated_at": 1789594097.9756455
-    },
-    {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
-      "direction": "long",
-      "entry": 23.176078,
-      "tp": 23.658775,
-      "sl": 22.85428,
-      "generated_at": 1789594097.9756513
-    },
-    {
-      "id": "dash",
-      "symbol": "DASH",
-      "name": "Dash",
-      "direction": "long",
-      "entry": 55.50848,
-      "tp": 56.900394,
-      "sl": 54.580537,
-      "generated_at": 1789594097.9756563
+      "entry": 0.15051,
+      "tp": 0.152837,
+      "sl": 0.14896,
+      "generated_at": 1789620955.166826
     }
   ]
 }
