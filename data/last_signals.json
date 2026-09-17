@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789664651.5581412,
+  "generated_at": 1789680858.897887,
   "signals": [
     {
-      "id": "sui",
-      "symbol": "SUI",
-      "name": "Sui",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 0.729701,
-      "tp": 0.734001,
-      "sl": 0.726835,
-      "generated_at": 1789664651.557861
+      "entry": 1472.421888,
+      "tp": 1505.129555,
+      "sl": 1450.616777,
+      "generated_at": 1789680858.897666
     },
     {
-      "id": "chainlink",
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 11.335295,
-      "tp": 11.397668,
-      "sl": 11.293713,
-      "generated_at": 1789664651.5578704
+      "entry": 3.000766,
+      "tp": 3.06925,
+      "sl": 2.95511,
+      "generated_at": 1789680858.8976748
     },
     {
-      "id": "cardano",
-      "symbol": "ADA",
-      "name": "Cardano",
+      "id": "memecore",
+      "symbol": "M",
+      "name": "MemeCore",
       "direction": "long",
-      "entry": 0.201828,
-      "tp": 0.203064,
-      "sl": 0.201005,
-      "generated_at": 1789664651.557878
+      "entry": 1.178912,
+      "tp": 1.193146,
+      "sl": 1.169423,
+      "generated_at": 1789680858.8976834
     },
     {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
+      "id": "aave",
+      "symbol": "AAVE",
+      "name": "Aave",
       "direction": "long",
-      "entry": 0.185716,
-      "tp": 0.186864,
-      "sl": 0.184951,
-      "generated_at": 1789664651.5578823
+      "entry": 128.329094,
+      "tp": 129.727841,
+      "sl": 127.396596,
+      "generated_at": 1789680858.8976889
     },
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "polkadot",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "direction": "long",
-      "entry": 0.101016,
-      "tp": 0.102025,
-      "sl": 0.100344,
-      "generated_at": 1789664651.5578873
+      "entry": 1.066643,
+      "tp": 1.078198,
+      "sl": 1.058939,
+      "generated_at": 1789680858.8976936
     }
   ]
 }
