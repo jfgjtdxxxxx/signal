@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789680858.897887,
+  "generated_at": 1789706472.4318755,
   "signals": [
-    {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "direction": "long",
-      "entry": 1472.421888,
-      "tp": 1505.129555,
-      "sl": 1450.616777,
-      "generated_at": 1789680858.897666
-    },
     {
       "id": "near",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 3.000766,
-      "tp": 3.06925,
-      "sl": 2.95511,
-      "generated_at": 1789680858.8976748
+      "entry": 3.489841,
+      "tp": 3.58328,
+      "sl": 3.427548,
+      "generated_at": 1789706472.4316044
     },
     {
-      "id": "memecore",
-      "symbol": "M",
-      "name": "MemeCore",
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
       "direction": "long",
-      "entry": 1.178912,
-      "tp": 1.193146,
-      "sl": 1.169423,
-      "generated_at": 1789680858.8976834
+      "entry": 0.004085,
+      "tp": 0.004132,
+      "sl": 0.004053,
+      "generated_at": 1789706472.4316125
     },
     {
-      "id": "aave",
-      "symbol": "AAVE",
-      "name": "Aave",
+      "id": "ethena",
+      "symbol": "ENA",
+      "name": "Ethena",
       "direction": "long",
-      "entry": 128.329094,
-      "tp": 129.727841,
-      "sl": 127.396596,
-      "generated_at": 1789680858.8976889
+      "entry": 0.161593,
+      "tp": 0.164777,
+      "sl": 0.15947,
+      "generated_at": 1789706472.4316213
     },
     {
-      "id": "polkadot",
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
       "direction": "long",
-      "entry": 1.066643,
-      "tp": 1.078198,
-      "sl": 1.058939,
-      "generated_at": 1789680858.8976936
+      "entry": 0.061396,
+      "tp": 0.062008,
+      "sl": 0.060989,
+      "generated_at": 1789706472.4316273
+    },
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "direction": "long",
+      "entry": 77236.581329,
+      "tp": 77417.781064,
+      "sl": 77115.781506,
+      "generated_at": 1789706472.4316328
     }
   ]
 }
