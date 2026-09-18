@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789730567.5502315,
+  "generated_at": 1789749272.619867,
   "signals": [
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
       "direction": "long",
-      "entry": 0.108077,
-      "tp": 0.109584,
-      "sl": 0.107073,
-      "generated_at": 1789730567.5499485
+      "entry": 0.070393,
+      "tp": 0.072109,
+      "sl": 0.069248,
+      "generated_at": 1789749272.6196349
     },
     {
-      "id": "shiba-inu",
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 5e-06,
-      "tp": 5e-06,
-      "sl": 5e-06,
-      "generated_at": 1789730567.5499575
+      "entry": 27.326763,
+      "tp": 27.995131,
+      "sl": 26.881185,
+      "generated_at": 1789749272.6196418
     },
     {
-      "id": "aave",
-      "symbol": "AAVE",
-      "name": "Aave",
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
       "direction": "long",
-      "entry": 133.797308,
-      "tp": 135.518616,
-      "sl": 132.649769,
-      "generated_at": 1789730567.5499668
+      "entry": 9.902525,
+      "tp": 10.013632,
+      "sl": 9.828454,
+      "generated_at": 1789749272.6196501
     },
     {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 0.004229,
-      "tp": 0.004286,
-      "sl": 0.00419,
-      "generated_at": 1789730567.5499725
+      "entry": 80836.682961,
+      "tp": 81371.942612,
+      "sl": 80479.843194,
+      "generated_at": 1789749272.619654
     },
     {
-      "id": "polkadot",
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
       "direction": "long",
-      "entry": 1.1283,
-      "tp": 1.146305,
-      "sl": 1.116297,
-      "generated_at": 1789730567.5499775
+      "entry": 1.381716,
+      "tp": 1.398017,
+      "sl": 1.370849,
+      "generated_at": 1789749272.6196578
     }
   ]
 }
