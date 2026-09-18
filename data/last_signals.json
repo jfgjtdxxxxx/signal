@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789765706.3786798,
+  "generated_at": 1789774359.3973806,
   "signals": [
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
+      "direction": "long",
+      "entry": 1.397264,
+      "tp": 1.413928,
+      "sl": 1.386155,
+      "generated_at": 1789774359.3971782
+    },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 563.235987,
-      "tp": 572.361994,
-      "sl": 557.151983,
-      "generated_at": 1789765706.3784726
+      "entry": 566.072169,
+      "tp": 574.26233,
+      "sl": 560.612062,
+      "generated_at": 1789774359.3971856
     },
     {
       "id": "rain",
       "symbol": "RAIN",
       "name": "Rain",
       "direction": "long",
-      "entry": 0.013545,
-      "tp": 0.01372,
-      "sl": 0.013428,
-      "generated_at": 1789765706.3784823
+      "entry": 0.01344,
+      "tp": 0.013603,
+      "sl": 0.013332,
+      "generated_at": 1789774359.3971925
     },
     {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
+      "id": "avalanche-2",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "direction": "long",
-      "entry": 0.070418,
-      "tp": 0.071948,
-      "sl": 0.069399,
-      "generated_at": 1789765706.3784919
+      "entry": 8.190847,
+      "tp": 8.267587,
+      "sl": 8.139687,
+      "generated_at": 1789774359.3971958
     },
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "direction": "long",
-      "entry": 27.573703,
-      "tp": 28.147866,
-      "sl": 27.190928,
-      "generated_at": 1789765706.3784986
-    },
-    {
-      "id": "pi-network",
-      "symbol": "PI",
-      "name": "Pi Network",
-      "direction": "long",
-      "entry": 0.086119,
-      "tp": 0.086696,
-      "sl": 0.085734,
-      "generated_at": 1789765706.3785045
+      "entry": 0.079355,
+      "tp": 0.079894,
+      "sl": 0.078997,
+      "generated_at": 1789774359.397199
     }
   ]
 }
