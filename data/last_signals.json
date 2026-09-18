@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789749272.619867,
+  "generated_at": 1789765706.3786798,
   "signals": [
+    {
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
+      "direction": "long",
+      "entry": 563.235987,
+      "tp": 572.361994,
+      "sl": 557.151983,
+      "generated_at": 1789765706.3784726
+    },
+    {
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
+      "direction": "long",
+      "entry": 0.013545,
+      "tp": 0.01372,
+      "sl": 0.013428,
+      "generated_at": 1789765706.3784823
+    },
     {
       "id": "sky",
       "symbol": "SKY",
       "name": "Sky",
       "direction": "long",
-      "entry": 0.070393,
-      "tp": 0.072109,
-      "sl": 0.069248,
-      "generated_at": 1789749272.6196349
+      "entry": 0.070418,
+      "tp": 0.071948,
+      "sl": 0.069399,
+      "generated_at": 1789765706.3784919
     },
     {
       "id": "venice-token",
       "symbol": "VVV",
       "name": "Venice Token",
       "direction": "long",
-      "entry": 27.326763,
-      "tp": 27.995131,
-      "sl": 26.881185,
-      "generated_at": 1789749272.6196418
+      "entry": 27.573703,
+      "tp": 28.147866,
+      "sl": 27.190928,
+      "generated_at": 1789765706.3784986
     },
     {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
+      "id": "pi-network",
+      "symbol": "PI",
+      "name": "Pi Network",
       "direction": "long",
-      "entry": 9.902525,
-      "tp": 10.013632,
-      "sl": 9.828454,
-      "generated_at": 1789749272.6196501
-    },
-    {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "direction": "long",
-      "entry": 80836.682961,
-      "tp": 81371.942612,
-      "sl": 80479.843194,
-      "generated_at": 1789749272.619654
-    },
-    {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
-      "direction": "long",
-      "entry": 1.381716,
-      "tp": 1.398017,
-      "sl": 1.370849,
-      "generated_at": 1789749272.6196578
+      "entry": 0.086119,
+      "tp": 0.086696,
+      "sl": 0.085734,
+      "generated_at": 1789765706.3785045
     }
   ]
 }
