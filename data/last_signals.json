@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789834068.6365592,
+  "generated_at": 1789850961.7324603,
   "signals": [
-    {
-      "id": "mantle",
-      "symbol": "MNT",
-      "name": "Mantle",
-      "direction": "long",
-      "entry": 0.635704,
-      "tp": 0.643376,
-      "sl": 0.630589,
-      "generated_at": 1789834068.6363342
-    },
-    {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
-      "direction": "long",
-      "entry": 5.153816,
-      "tp": 5.268111,
-      "sl": 5.07762,
-      "generated_at": 1789834068.6363425
-    },
     {
       "id": "ondo-finance",
       "symbol": "ONDO",
       "name": "Ondo",
       "direction": "long",
-      "entry": 0.433786,
-      "tp": 0.440738,
-      "sl": 0.429152,
-      "generated_at": 1789834068.6363513
+      "entry": 0.421151,
+      "tp": 0.428785,
+      "sl": 0.416062,
+      "generated_at": 1789850961.7322476
     },
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 0.013935,
-      "tp": 0.01402,
-      "sl": 0.013878,
-      "generated_at": 1789834068.636357
+      "entry": 0.118023,
+      "tp": 0.118919,
+      "sl": 0.117426,
+      "generated_at": 1789850961.732256
     },
     {
       "id": "leo-token",
       "symbol": "LEO",
       "name": "LEO Token",
       "direction": "long",
-      "entry": 8.933634,
-      "tp": 8.94533,
-      "sl": 8.925837,
-      "generated_at": 1789834068.636362
+      "entry": 8.904429,
+      "tp": 8.915471,
+      "sl": 8.897068,
+      "generated_at": 1789850961.732265
+    },
+    {
+      "id": "stellar",
+      "symbol": "XLM",
+      "name": "Stellar",
+      "direction": "long",
+      "entry": 0.199003,
+      "tp": 0.200996,
+      "sl": 0.197674,
+      "generated_at": 1789850961.73227
+    },
+    {
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "direction": "long",
+      "entry": 254.312203,
+      "tp": 256.052597,
+      "sl": 253.151941,
+      "generated_at": 1789850961.7322752
     }
   ]
 }
