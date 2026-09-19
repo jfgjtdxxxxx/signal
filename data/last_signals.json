@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789850961.7324603,
+  "generated_at": 1789859616.4140017,
   "signals": [
+    {
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "direction": "long",
+      "entry": 4e-06,
+      "tp": 4e-06,
+      "sl": 4e-06,
+      "generated_at": 1789859616.4138107
+    },
+    {
+      "id": "avalanche-2",
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "direction": "long",
+      "entry": 9.781749,
+      "tp": 9.934324,
+      "sl": 9.680032,
+      "generated_at": 1789859616.4138181
+    },
+    {
+      "id": "memecore",
+      "symbol": "M",
+      "name": "MemeCore",
+      "direction": "long",
+      "entry": 1.486611,
+      "tp": 1.546081,
+      "sl": 1.446965,
+      "generated_at": 1789859616.4138255
+    },
     {
       "id": "ondo-finance",
       "symbol": "ONDO",
       "name": "Ondo",
       "direction": "long",
-      "entry": 0.421151,
-      "tp": 0.428785,
-      "sl": 0.416062,
-      "generated_at": 1789850961.7322476
+      "entry": 0.42145,
+      "tp": 0.429381,
+      "sl": 0.416162,
+      "generated_at": 1789859616.4138298
     },
     {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 0.118023,
-      "tp": 0.118919,
-      "sl": 0.117426,
-      "generated_at": 1789850961.732256
-    },
-    {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
-      "direction": "long",
-      "entry": 8.904429,
-      "tp": 8.915471,
-      "sl": 8.897068,
-      "generated_at": 1789850961.732265
-    },
-    {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
-      "direction": "long",
-      "entry": 0.199003,
-      "tp": 0.200996,
-      "sl": 0.197674,
-      "generated_at": 1789850961.73227
-    },
-    {
-      "id": "bitcoin-cash",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "direction": "long",
-      "entry": 254.312203,
-      "tp": 256.052597,
-      "sl": 253.151941,
-      "generated_at": 1789850961.7322752
+      "entry": 1.000015,
+      "tp": 1.000346,
+      "sl": 0.999795,
+      "generated_at": 1789859616.4138336
     }
   ]
 }
