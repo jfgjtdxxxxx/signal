@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789774359.3973806,
+  "generated_at": 1789792607.8536236,
   "signals": [
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "cardano",
+      "symbol": "ADA",
+      "name": "Cardano",
       "direction": "long",
-      "entry": 1.397264,
-      "tp": 1.413928,
-      "sl": 1.386155,
-      "generated_at": 1789774359.3971782
+      "entry": 0.230327,
+      "tp": 0.233208,
+      "sl": 0.228406,
+      "generated_at": 1789792607.8534088
     },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 566.072169,
-      "tp": 574.26233,
-      "sl": 560.612062,
-      "generated_at": 1789774359.3971856
+      "entry": 573.310922,
+      "tp": 582.971663,
+      "sl": 566.870428,
+      "generated_at": 1789792607.8534157
     },
     {
       "id": "rain",
       "symbol": "RAIN",
       "name": "Rain",
       "direction": "long",
-      "entry": 0.01344,
-      "tp": 0.013603,
-      "sl": 0.013332,
-      "generated_at": 1789774359.3971925
+      "entry": 0.013415,
+      "tp": 0.013568,
+      "sl": 0.013312,
+      "generated_at": 1789792607.8534238
     },
     {
       "id": "avalanche-2",
       "symbol": "AVAX",
       "name": "Avalanche",
       "direction": "long",
-      "entry": 8.190847,
-      "tp": 8.267587,
-      "sl": 8.139687,
-      "generated_at": 1789774359.3971958
+      "entry": 8.488483,
+      "tp": 8.606053,
+      "sl": 8.410102,
+      "generated_at": 1789792607.8534276
     },
     {
-      "id": "hedera-hashgraph",
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "id": "bittensor",
+      "symbol": "TAO",
+      "name": "Bittensor",
       "direction": "long",
-      "entry": 0.079355,
-      "tp": 0.079894,
-      "sl": 0.078997,
-      "generated_at": 1789774359.397199
+      "entry": 256.154889,
+      "tp": 258.386476,
+      "sl": 254.667165,
+      "generated_at": 1789792607.8534315
     }
   ]
 }
