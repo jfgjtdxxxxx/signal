@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789859616.4140017,
+  "generated_at": 1789880152.8516345,
   "signals": [
     {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
+      "id": "memecore",
+      "symbol": "M",
+      "name": "MemeCore",
       "direction": "long",
-      "entry": 4e-06,
-      "tp": 4e-06,
-      "sl": 4e-06,
-      "generated_at": 1789859616.4138107
+      "entry": 1.704327,
+      "tp": 1.78462,
+      "sl": 1.650798,
+      "generated_at": 1789880152.8514209
     },
     {
       "id": "avalanche-2",
       "symbol": "AVAX",
       "name": "Avalanche",
       "direction": "long",
-      "entry": 9.781749,
-      "tp": 9.934324,
-      "sl": 9.680032,
-      "generated_at": 1789859616.4138181
+      "entry": 9.632424,
+      "tp": 9.880026,
+      "sl": 9.467356,
+      "generated_at": 1789880152.8514276
     },
     {
-      "id": "memecore",
-      "symbol": "M",
-      "name": "MemeCore",
+      "id": "akedo",
+      "symbol": "AKE",
+      "name": "Akedo",
       "direction": "long",
-      "entry": 1.486611,
-      "tp": 1.546081,
-      "sl": 1.446965,
-      "generated_at": 1789859616.4138255
+      "entry": 0.066097,
+      "tp": 0.068545,
+      "sl": 0.064464,
+      "generated_at": 1789880152.851434
     },
     {
-      "id": "ondo-finance",
-      "symbol": "ONDO",
-      "name": "Ondo",
+      "id": "algorand",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "direction": "long",
-      "entry": 0.42145,
-      "tp": 0.429381,
-      "sl": 0.416162,
-      "generated_at": 1789859616.4138298
+      "entry": 0.101877,
+      "tp": 0.104049,
+      "sl": 0.100429,
+      "generated_at": 1789880152.8514373
     },
     {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 1.000015,
-      "tp": 1.000346,
-      "sl": 0.999795,
-      "generated_at": 1789859616.4138336
+      "entry": 0.33995,
+      "tp": 0.340584,
+      "sl": 0.339527,
+      "generated_at": 1789880152.8514402
     }
   ]
 }
