@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789938060.2015696,
+  "generated_at": 1789947034.4063506,
   "signals": [
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 28.517484,
-      "tp": 29.267032,
-      "sl": 28.017785,
-      "generated_at": 1789938060.2013514
+      "entry": 4.115695,
+      "tp": 4.258477,
+      "sl": 4.020508,
+      "generated_at": 1789947034.4061317
     },
     {
-      "id": "algorand",
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "direction": "long",
-      "entry": 0.110203,
-      "tp": 0.112037,
-      "sl": 0.108981,
-      "generated_at": 1789938060.2013586
+      "entry": 0.086293,
+      "tp": 0.087883,
+      "sl": 0.085233,
+      "generated_at": 1789947034.4061403
+    },
+    {
+      "id": "ethena",
+      "symbol": "ENA",
+      "name": "Ethena",
+      "direction": "long",
+      "entry": 0.218995,
+      "tp": 0.224953,
+      "sl": 0.215023,
+      "generated_at": 1789947034.4061491
+    },
+    {
+      "id": "arbitrum",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "direction": "long",
+      "entry": 0.220362,
+      "tp": 0.225129,
+      "sl": 0.217185,
+      "generated_at": 1789947034.4061542
     },
     {
       "id": "pancakeswap-token",
       "symbol": "CAKE",
       "name": "PancakeSwap",
       "direction": "long",
-      "entry": 2.594437,
-      "tp": 2.643623,
-      "sl": 2.561646,
-      "generated_at": 1789938060.2013671
-    },
-    {
-      "id": "render-token",
-      "symbol": "RENDER",
-      "name": "Render",
-      "direction": "long",
-      "entry": 1.687365,
-      "tp": 1.726264,
-      "sl": 1.661432,
-      "generated_at": 1789938060.201371
-    },
-    {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
-      "direction": "long",
-      "entry": 4.210577,
-      "tp": 4.350714,
-      "sl": 4.117152,
-      "generated_at": 1789938060.2013748
+      "entry": 2.574227,
+      "tp": 2.608333,
+      "sl": 2.551489,
+      "generated_at": 1789947034.406159
     }
   ]
 }
