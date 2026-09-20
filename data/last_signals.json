@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789903803.5330455,
+  "generated_at": 1789920922.4037058,
   "signals": [
+    {
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "direction": "long",
+      "entry": 0.086478,
+      "tp": 0.087983,
+      "sl": 0.085474,
+      "generated_at": 1789920922.403461
+    },
+    {
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
+      "direction": "long",
+      "entry": 0.719323,
+      "tp": 0.750121,
+      "sl": 0.698792,
+      "generated_at": 1789920922.4034688
+    },
+    {
+      "id": "htx-dao",
+      "symbol": "HTX",
+      "name": "HTX DAO",
+      "direction": "long",
+      "entry": 2e-06,
+      "tp": 2e-06,
+      "sl": 2e-06,
+      "generated_at": 1789920922.4034767
+    },
     {
       "id": "leo-token",
       "symbol": "LEO",
       "name": "LEO Token",
       "direction": "long",
-      "entry": 8.947744,
-      "tp": 8.958353,
-      "sl": 8.940671,
-      "generated_at": 1789903803.5328207
-    },
-    {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
-      "direction": "long",
-      "entry": 3.569306,
-      "tp": 3.61308,
-      "sl": 3.540122,
-      "generated_at": 1789903803.5328279
+      "entry": 8.923809,
+      "tp": 8.939529,
+      "sl": 8.913328,
+      "generated_at": 1789920922.4034812
     },
     {
       "id": "avalanche-2",
       "symbol": "AVAX",
       "name": "Avalanche",
       "direction": "long",
-      "entry": 9.801812,
-      "tp": 10.032077,
-      "sl": 9.648302,
-      "generated_at": 1789903803.5328362
-    },
-    {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
-      "direction": "long",
-      "entry": 0.2038,
-      "tp": 0.209112,
-      "sl": 0.200258,
-      "generated_at": 1789903803.532841
-    },
-    {
-      "id": "uniswap",
-      "symbol": "UNI",
-      "name": "Uniswap",
-      "direction": "long",
-      "entry": 8.792366,
-      "tp": 8.932523,
-      "sl": 8.698928,
-      "generated_at": 1789903803.5328448
+      "entry": 11.330222,
+      "tp": 11.602184,
+      "sl": 11.148914,
+      "generated_at": 1789920922.403486
     }
   ]
 }
