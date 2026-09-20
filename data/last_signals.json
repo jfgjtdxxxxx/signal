@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789920922.4037058,
+  "generated_at": 1789938060.2015696,
   "signals": [
     {
-      "id": "hedera-hashgraph",
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 0.086478,
-      "tp": 0.087983,
-      "sl": 0.085474,
-      "generated_at": 1789920922.403461
+      "entry": 28.517484,
+      "tp": 29.267032,
+      "sl": 28.017785,
+      "generated_at": 1789938060.2013514
     },
     {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
+      "id": "algorand",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "direction": "long",
-      "entry": 0.719323,
-      "tp": 0.750121,
-      "sl": 0.698792,
-      "generated_at": 1789920922.4034688
+      "entry": 0.110203,
+      "tp": 0.112037,
+      "sl": 0.108981,
+      "generated_at": 1789938060.2013586
     },
     {
-      "id": "htx-dao",
-      "symbol": "HTX",
-      "name": "HTX DAO",
+      "id": "pancakeswap-token",
+      "symbol": "CAKE",
+      "name": "PancakeSwap",
       "direction": "long",
-      "entry": 2e-06,
-      "tp": 2e-06,
-      "sl": 2e-06,
-      "generated_at": 1789920922.4034767
+      "entry": 2.594437,
+      "tp": 2.643623,
+      "sl": 2.561646,
+      "generated_at": 1789938060.2013671
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "render-token",
+      "symbol": "RENDER",
+      "name": "Render",
       "direction": "long",
-      "entry": 8.923809,
-      "tp": 8.939529,
-      "sl": 8.913328,
-      "generated_at": 1789920922.4034812
+      "entry": 1.687365,
+      "tp": 1.726264,
+      "sl": 1.661432,
+      "generated_at": 1789938060.201371
     },
     {
-      "id": "avalanche-2",
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 11.330222,
-      "tp": 11.602184,
-      "sl": 11.148914,
-      "generated_at": 1789920922.403486
+      "entry": 4.210577,
+      "tp": 4.350714,
+      "sl": 4.117152,
+      "generated_at": 1789938060.2013748
     }
   ]
 }
