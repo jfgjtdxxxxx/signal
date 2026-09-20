@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789880152.8516345,
+  "generated_at": 1789903803.5330455,
   "signals": [
     {
-      "id": "memecore",
-      "symbol": "M",
-      "name": "MemeCore",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 1.704327,
-      "tp": 1.78462,
-      "sl": 1.650798,
-      "generated_at": 1789880152.8514209
+      "entry": 8.947744,
+      "tp": 8.958353,
+      "sl": 8.940671,
+      "generated_at": 1789903803.5328207
+    },
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "direction": "long",
+      "entry": 3.569306,
+      "tp": 3.61308,
+      "sl": 3.540122,
+      "generated_at": 1789903803.5328279
     },
     {
       "id": "avalanche-2",
       "symbol": "AVAX",
       "name": "Avalanche",
       "direction": "long",
-      "entry": 9.632424,
-      "tp": 9.880026,
-      "sl": 9.467356,
-      "generated_at": 1789880152.8514276
+      "entry": 9.801812,
+      "tp": 10.032077,
+      "sl": 9.648302,
+      "generated_at": 1789903803.5328362
     },
     {
-      "id": "akedo",
-      "symbol": "AKE",
-      "name": "Akedo",
+      "id": "ethena",
+      "symbol": "ENA",
+      "name": "Ethena",
       "direction": "long",
-      "entry": 0.066097,
-      "tp": 0.068545,
-      "sl": 0.064464,
-      "generated_at": 1789880152.851434
+      "entry": 0.2038,
+      "tp": 0.209112,
+      "sl": 0.200258,
+      "generated_at": 1789903803.532841
     },
     {
-      "id": "algorand",
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
       "direction": "long",
-      "entry": 0.101877,
-      "tp": 0.104049,
-      "sl": 0.100429,
-      "generated_at": 1789880152.8514373
-    },
-    {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
-      "direction": "long",
-      "entry": 0.33995,
-      "tp": 0.340584,
-      "sl": 0.339527,
-      "generated_at": 1789880152.8514402
+      "entry": 8.792366,
+      "tp": 8.932523,
+      "sl": 8.698928,
+      "generated_at": 1789903803.5328448
     }
   ]
 }
