@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789995392.0892534,
+  "generated_at": 1790021937.180634,
   "signals": [
-    {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
-      "direction": "long",
-      "entry": 0.115931,
-      "tp": 0.117437,
-      "sl": 0.114927,
-      "generated_at": 1789995392.0889897
-    },
     {
       "id": "gatechain-token",
       "symbol": "GT",
       "name": "Gate",
       "direction": "long",
-      "entry": 10.966411,
-      "tp": 11.118251,
-      "sl": 10.865185,
-      "generated_at": 1789995392.0889974
+      "entry": 11.21132,
+      "tp": 11.404876,
+      "sl": 11.082283,
+      "generated_at": 1790021937.180419
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "dogecoin",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "direction": "long",
-      "entry": 85196.121693,
-      "tp": 85815.703743,
-      "sl": 84783.066993,
-      "generated_at": 1789995392.0890355
+      "entry": 0.098288,
+      "tp": 0.099808,
+      "sl": 0.097275,
+      "generated_at": 1790021937.1804266
     },
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "cardano",
+      "symbol": "ADA",
+      "name": "Cardano",
       "direction": "long",
-      "entry": 1542.164841,
-      "tp": 1566.273093,
-      "sl": 1526.092672,
-      "generated_at": 1789995392.0890393
+      "entry": 0.244581,
+      "tp": 0.247214,
+      "sl": 0.242826,
+      "generated_at": 1790021937.180434
     },
     {
-      "id": "whitebit",
-      "symbol": "WBT",
-      "name": "WhiteBIT Coin",
+      "id": "stellar",
+      "symbol": "XLM",
+      "name": "Stellar",
       "direction": "long",
-      "entry": 86.433702,
-      "tp": 87.031249,
-      "sl": 86.035338,
-      "generated_at": 1789995392.0890431
+      "entry": 0.21174,
+      "tp": 0.214628,
+      "sl": 0.209814,
+      "generated_at": 1790021937.1804383
+    },
+    {
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "direction": "long",
+      "entry": 266.910976,
+      "tp": 269.919444,
+      "sl": 264.905331,
+      "generated_at": 1790021937.1804419
     }
   ]
 }
