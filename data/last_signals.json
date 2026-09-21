@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789966478.282263,
+  "generated_at": 1789995392.0892534,
   "signals": [
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 4.400198,
-      "tp": 4.57759,
-      "sl": 4.281937,
-      "generated_at": 1789966478.2820377
+      "entry": 0.115931,
+      "tp": 0.117437,
+      "sl": 0.114927,
+      "generated_at": 1789995392.0889897
     },
     {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
       "direction": "long",
-      "entry": 0.004491,
-      "tp": 0.004581,
-      "sl": 0.004432,
-      "generated_at": 1789966478.2820468
+      "entry": 10.966411,
+      "tp": 11.118251,
+      "sl": 10.865185,
+      "generated_at": 1789995392.0889974
     },
     {
-      "id": "polkadot",
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 1.152247,
-      "tp": 1.176556,
-      "sl": 1.136041,
-      "generated_at": 1789966478.2820554
+      "entry": 85196.121693,
+      "tp": 85815.703743,
+      "sl": 84783.066993,
+      "generated_at": 1789995392.0890355
     },
     {
-      "id": "morpho",
-      "symbol": "MORPHO",
-      "name": "Morpho",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 2.807946,
-      "tp": 2.86686,
-      "sl": 2.76867,
-      "generated_at": 1789966478.282061
+      "entry": 1542.164841,
+      "tp": 1566.273093,
+      "sl": 1526.092672,
+      "generated_at": 1789995392.0890393
     },
     {
-      "id": "internet-computer",
-      "symbol": "ICP",
-      "name": "Internet Computer",
+      "id": "whitebit",
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
       "direction": "long",
-      "entry": 2.974007,
-      "tp": 3.021825,
-      "sl": 2.942128,
-      "generated_at": 1789966478.282066
+      "entry": 86.433702,
+      "tp": 87.031249,
+      "sl": 86.035338,
+      "generated_at": 1789995392.0890431
     }
   ]
 }
