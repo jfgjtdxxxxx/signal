@@ -1,55 +1,55 @@
 {
-  "generated_at": 1789947034.4063506,
+  "generated_at": 1789966478.282263,
   "signals": [
     {
       "id": "near",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 4.115695,
-      "tp": 4.258477,
-      "sl": 4.020508,
-      "generated_at": 1789947034.4061317
+      "entry": 4.400198,
+      "tp": 4.57759,
+      "sl": 4.281937,
+      "generated_at": 1789966478.2820377
     },
     {
-      "id": "hedera-hashgraph",
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
       "direction": "long",
-      "entry": 0.086293,
-      "tp": 0.087883,
-      "sl": 0.085233,
-      "generated_at": 1789947034.4061403
+      "entry": 0.004491,
+      "tp": 0.004581,
+      "sl": 0.004432,
+      "generated_at": 1789966478.2820468
     },
     {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
+      "id": "polkadot",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "direction": "long",
-      "entry": 0.218995,
-      "tp": 0.224953,
-      "sl": 0.215023,
-      "generated_at": 1789947034.4061491
+      "entry": 1.152247,
+      "tp": 1.176556,
+      "sl": 1.136041,
+      "generated_at": 1789966478.2820554
     },
     {
-      "id": "arbitrum",
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "id": "morpho",
+      "symbol": "MORPHO",
+      "name": "Morpho",
       "direction": "long",
-      "entry": 0.220362,
-      "tp": 0.225129,
-      "sl": 0.217185,
-      "generated_at": 1789947034.4061542
+      "entry": 2.807946,
+      "tp": 2.86686,
+      "sl": 2.76867,
+      "generated_at": 1789966478.282061
     },
     {
-      "id": "pancakeswap-token",
-      "symbol": "CAKE",
-      "name": "PancakeSwap",
+      "id": "internet-computer",
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "direction": "long",
-      "entry": 2.574227,
-      "tp": 2.608333,
-      "sl": 2.551489,
-      "generated_at": 1789947034.406159
+      "entry": 2.974007,
+      "tp": 3.021825,
+      "sl": 2.942128,
+      "generated_at": 1789966478.282066
     }
   ]
 }
