@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790021937.180634,
+  "generated_at": 1790036522.87526,
   "signals": [
     {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
       "direction": "long",
-      "entry": 11.21132,
-      "tp": 11.404876,
-      "sl": 11.082283,
-      "generated_at": 1790021937.180419
+      "entry": 5e-06,
+      "tp": 5e-06,
+      "sl": 5e-06,
+      "generated_at": 1790036522.8751185
+    },
+    {
+      "id": "ondo-finance",
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "direction": "long",
+      "entry": 0.453964,
+      "tp": 0.461373,
+      "sl": 0.449025,
+      "generated_at": 1790036522.8751252
     },
     {
       "id": "dogecoin",
       "symbol": "DOGE",
       "name": "Dogecoin",
       "direction": "long",
-      "entry": 0.098288,
-      "tp": 0.099808,
-      "sl": 0.097275,
-      "generated_at": 1790021937.1804266
+      "entry": 0.099802,
+      "tp": 0.101327,
+      "sl": 0.098786,
+      "generated_at": 1790036522.8751333
     },
     {
-      "id": "cardano",
-      "symbol": "ADA",
-      "name": "Cardano",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 0.244581,
-      "tp": 0.247214,
-      "sl": 0.242826,
-      "generated_at": 1790021937.180434
-    },
-    {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
-      "direction": "long",
-      "entry": 0.21174,
-      "tp": 0.214628,
-      "sl": 0.209814,
-      "generated_at": 1790021937.1804383
+      "entry": 8.975517,
+      "tp": 9.006952,
+      "sl": 8.954561,
+      "generated_at": 1790036522.8751378
     },
     {
       "id": "bitcoin-cash",
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "direction": "long",
-      "entry": 266.910976,
-      "tp": 269.919444,
-      "sl": 264.905331,
-      "generated_at": 1790021937.1804419
+      "entry": 268.110131,
+      "tp": 270.918952,
+      "sl": 266.237583,
+      "generated_at": 1790036522.875142
     }
   ]
 }
