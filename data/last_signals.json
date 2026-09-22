@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790036522.87526,
+  "generated_at": 1790053586.483173,
   "signals": [
     {
       "id": "pepe",
@@ -9,47 +9,47 @@
       "entry": 5e-06,
       "tp": 5e-06,
       "sl": 5e-06,
-      "generated_at": 1790036522.8751185
-    },
-    {
-      "id": "ondo-finance",
-      "symbol": "ONDO",
-      "name": "Ondo",
-      "direction": "long",
-      "entry": 0.453964,
-      "tp": 0.461373,
-      "sl": 0.449025,
-      "generated_at": 1790036522.8751252
-    },
-    {
-      "id": "dogecoin",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "direction": "long",
-      "entry": 0.099802,
-      "tp": 0.101327,
-      "sl": 0.098786,
-      "generated_at": 1790036522.8751333
+      "generated_at": 1790053586.4829516
     },
     {
       "id": "leo-token",
       "symbol": "LEO",
       "name": "LEO Token",
       "direction": "long",
-      "entry": 8.975517,
-      "tp": 9.006952,
-      "sl": 8.954561,
-      "generated_at": 1790036522.8751378
+      "entry": 8.962926,
+      "tp": 8.990761,
+      "sl": 8.944369,
+      "generated_at": 1790053586.48296
     },
     {
-      "id": "bitcoin-cash",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "id": "bittensor",
+      "symbol": "TAO",
+      "name": "Bittensor",
       "direction": "long",
-      "entry": 268.110131,
-      "tp": 270.918952,
-      "sl": 266.237583,
-      "generated_at": 1790036522.875142
+      "entry": 311.201177,
+      "tp": 318.165711,
+      "sl": 306.558154,
+      "generated_at": 1790053586.4829686
+    },
+    {
+      "id": "dogecoin",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "direction": "long",
+      "entry": 0.101696,
+      "tp": 0.103384,
+      "sl": 0.100571,
+      "generated_at": 1790053586.4829733
+    },
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "direction": "long",
+      "entry": 4.333314,
+      "tp": 4.457163,
+      "sl": 4.250748,
+      "generated_at": 1790053586.4829776
     }
   ]
 }
