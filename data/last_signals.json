@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790096769.239123,
+  "generated_at": 1790112675.579825,
   "signals": [
     {
       "id": "bitcoin-cash",
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "direction": "long",
-      "entry": 323.653993,
-      "tp": 332.950276,
-      "sl": 317.456471,
-      "generated_at": 1790096769.2386906
-    },
-    {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
-      "direction": "long",
-      "entry": 1.554911,
-      "tp": 1.572427,
-      "sl": 1.543234,
-      "generated_at": 1790096769.238699
-    },
-    {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
-      "direction": "long",
-      "entry": 95.305612,
-      "tp": 95.886792,
-      "sl": 94.918159,
-      "generated_at": 1790096769.2387083
-    },
-    {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
-      "direction": "long",
-      "entry": 4.418701,
-      "tp": 4.531594,
-      "sl": 4.343438,
-      "generated_at": 1790096769.2387137
+      "entry": 341.579551,
+      "tp": 352.179143,
+      "sl": 334.513156,
+      "generated_at": 1790112675.5796125
     },
     {
       "id": "uniswap",
       "symbol": "UNI",
       "name": "Uniswap",
       "direction": "long",
-      "entry": 9.175153,
-      "tp": 9.479199,
-      "sl": 8.972455,
-      "generated_at": 1790096769.2387185
+      "entry": 9.369605,
+      "tp": 9.659039,
+      "sl": 9.176648,
+      "generated_at": 1790112675.5796196
+    },
+    {
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "direction": "long",
+      "entry": 0.099212,
+      "tp": 0.101155,
+      "sl": 0.097916,
+      "generated_at": 1790112675.5796275
+    },
+    {
+      "id": "ethereum-classic",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "direction": "long",
+      "entry": 9.37375,
+      "tp": 9.566886,
+      "sl": 9.244992,
+      "generated_at": 1790112675.5796318
+    },
+    {
+      "id": "dash",
+      "symbol": "DASH",
+      "name": "Dash",
+      "direction": "long",
+      "entry": 63.509321,
+      "tp": 64.571749,
+      "sl": 62.801035,
+      "generated_at": 1790112675.5796359
     }
   ]
 }
