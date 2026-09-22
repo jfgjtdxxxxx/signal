@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790053586.483173,
+  "generated_at": 1790077493.440918,
   "signals": [
     {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 5e-06,
-      "tp": 5e-06,
-      "sl": 5e-06,
-      "generated_at": 1790053586.4829516
+      "entry": 4.526511,
+      "tp": 4.648736,
+      "sl": 4.445028,
+      "generated_at": 1790077493.4406853
+    },
+    {
+      "id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "direction": "long",
+      "entry": 95.249354,
+      "tp": 95.773659,
+      "sl": 94.899818,
+      "generated_at": 1790077493.440694
     },
     {
       "id": "leo-token",
       "symbol": "LEO",
       "name": "LEO Token",
       "direction": "long",
-      "entry": 8.962926,
-      "tp": 8.990761,
-      "sl": 8.944369,
-      "generated_at": 1790053586.48296
+      "entry": 8.977097,
+      "tp": 8.991606,
+      "sl": 8.967424,
+      "generated_at": 1790077493.440704
     },
     {
-      "id": "bittensor",
-      "symbol": "TAO",
-      "name": "Bittensor",
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
       "direction": "long",
-      "entry": 311.201177,
-      "tp": 318.165711,
-      "sl": 306.558154,
-      "generated_at": 1790053586.4829686
+      "entry": 0.004564,
+      "tp": 0.00463,
+      "sl": 0.004519,
+      "generated_at": 1790077493.4407096
     },
     {
-      "id": "dogecoin",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 0.101696,
-      "tp": 0.103384,
-      "sl": 0.100571,
-      "generated_at": 1790053586.4829733
-    },
-    {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
-      "direction": "long",
-      "entry": 4.333314,
-      "tp": 4.457163,
-      "sl": 4.250748,
-      "generated_at": 1790053586.4829776
+      "entry": 32.355868,
+      "tp": 32.789537,
+      "sl": 32.066756,
+      "generated_at": 1790077493.4407148
     }
   ]
 }
