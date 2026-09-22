@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790077493.440918,
+  "generated_at": 1790096769.239123,
   "signals": [
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "direction": "long",
-      "entry": 4.526511,
-      "tp": 4.648736,
-      "sl": 4.445028,
-      "generated_at": 1790077493.4406853
+      "entry": 323.653993,
+      "tp": 332.950276,
+      "sl": 317.456471,
+      "generated_at": 1790096769.2386906
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
+      "direction": "long",
+      "entry": 1.554911,
+      "tp": 1.572427,
+      "sl": 1.543234,
+      "generated_at": 1790096769.238699
     },
     {
       "id": "hyperliquid",
       "symbol": "HYPE",
       "name": "Hyperliquid",
       "direction": "long",
-      "entry": 95.249354,
-      "tp": 95.773659,
-      "sl": 94.899818,
-      "generated_at": 1790077493.440694
+      "entry": 95.305612,
+      "tp": 95.886792,
+      "sl": 94.918159,
+      "generated_at": 1790096769.2387083
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 8.977097,
-      "tp": 8.991606,
-      "sl": 8.967424,
-      "generated_at": 1790077493.440704
+      "entry": 4.418701,
+      "tp": 4.531594,
+      "sl": 4.343438,
+      "generated_at": 1790096769.2387137
     },
     {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
       "direction": "long",
-      "entry": 0.004564,
-      "tp": 0.00463,
-      "sl": 0.004519,
-      "generated_at": 1790077493.4407096
-    },
-    {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
-      "direction": "long",
-      "entry": 32.355868,
-      "tp": 32.789537,
-      "sl": 32.066756,
-      "generated_at": 1790077493.4407148
+      "entry": 9.175153,
+      "tp": 9.479199,
+      "sl": 8.972455,
+      "generated_at": 1790096769.2387185
     }
   ]
 }
