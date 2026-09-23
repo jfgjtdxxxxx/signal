@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790182957.4130497,
+  "generated_at": 1790199989.296452,
   "signals": [
     {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
+      "id": "falcon-finance",
+      "symbol": "USDF",
+      "name": "Falcon USD",
       "direction": "long",
-      "entry": 0.073111,
-      "tp": 0.074241,
-      "sl": 0.072357,
-      "generated_at": 1790182957.4128208
+      "entry": 0.995811,
+      "tp": 0.995889,
+      "sl": 0.99576,
+      "generated_at": 1790199989.2962325
     },
     {
       "id": "lighter",
       "symbol": "LIT",
       "name": "Lighter",
       "direction": "long",
-      "entry": 5.288662,
-      "tp": 5.377655,
-      "sl": 5.229334,
-      "generated_at": 1790182957.412829
+      "entry": 5.297529,
+      "tp": 5.419402,
+      "sl": 5.21628,
+      "generated_at": 1790199989.29624
     },
     {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
+      "id": "bfusd",
+      "symbol": "BFUSD",
+      "name": "BFUSD",
       "direction": "long",
-      "entry": 0.987538,
-      "tp": 1.008832,
-      "sl": 0.973342,
-      "generated_at": 1790182957.4128377
+      "entry": 0.999841,
+      "tp": 0.999939,
+      "sl": 0.999776,
+      "generated_at": 1790199989.296247
     },
     {
-      "id": "bitcoin-cash",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 349.239634,
-      "tp": 358.632666,
-      "sl": 342.977613,
-      "generated_at": 1790182957.412843
+      "entry": 8.969169,
+      "tp": 8.989441,
+      "sl": 8.955654,
+      "generated_at": 1790199989.296251
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "direction": "long",
-      "entry": 84191.125778,
-      "tp": 84676.969904,
-      "sl": 83867.229695,
-      "generated_at": 1790182957.4128482
+      "id": "memecore",
+      "symbol": "M",
+      "name": "MemeCore",
+      "direction": "short",
+      "entry": 1.214477,
+      "tp": 1.197153,
+      "sl": 1.226027,
+      "generated_at": 1790199989.2962549
     }
   ]
 }
