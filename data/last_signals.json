@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790112675.579825,
+  "generated_at": 1790138358.9761553,
   "signals": [
     {
-      "id": "bitcoin-cash",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 341.579551,
-      "tp": 352.179143,
-      "sl": 334.513156,
-      "generated_at": 1790112675.5796125
-    },
-    {
-      "id": "uniswap",
-      "symbol": "UNI",
-      "name": "Uniswap",
-      "direction": "long",
-      "entry": 9.369605,
-      "tp": 9.659039,
-      "sl": 9.176648,
-      "generated_at": 1790112675.5796196
+      "entry": 1605.46884,
+      "tp": 1627.199911,
+      "sl": 1590.981459,
+      "generated_at": 1790138358.9759233
     },
     {
       "id": "hedera-hashgraph",
       "symbol": "HBAR",
       "name": "Hedera",
       "direction": "long",
-      "entry": 0.099212,
-      "tp": 0.101155,
-      "sl": 0.097916,
-      "generated_at": 1790112675.5796275
+      "entry": 0.100446,
+      "tp": 0.101725,
+      "sl": 0.099593,
+      "generated_at": 1790138358.9759297
+    },
+    {
+      "id": "arbitrum",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "direction": "long",
+      "entry": 0.244019,
+      "tp": 0.248539,
+      "sl": 0.241005,
+      "generated_at": 1790138358.9759378
+    },
+    {
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
+      "direction": "long",
+      "entry": 32.790342,
+      "tp": 33.308688,
+      "sl": 32.444778,
+      "generated_at": 1790138358.975942
     },
     {
       "id": "ethereum-classic",
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "direction": "long",
-      "entry": 9.37375,
-      "tp": 9.566886,
-      "sl": 9.244992,
-      "generated_at": 1790112675.5796318
-    },
-    {
-      "id": "dash",
-      "symbol": "DASH",
-      "name": "Dash",
-      "direction": "long",
-      "entry": 63.509321,
-      "tp": 64.571749,
-      "sl": 62.801035,
-      "generated_at": 1790112675.5796359
+      "entry": 9.565934,
+      "tp": 9.695779,
+      "sl": 9.479371,
+      "generated_at": 1790138358.9759462
     }
   ]
 }
