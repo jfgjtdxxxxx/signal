@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790163613.3089106,
+  "generated_at": 1790182957.4130497,
   "signals": [
-    {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "direction": "long",
-      "entry": 1637.427054,
-      "tp": 1662.922232,
-      "sl": 1620.430268,
-      "generated_at": 1790163613.3086739
-    },
     {
       "id": "sky",
       "symbol": "SKY",
       "name": "Sky",
       "direction": "long",
-      "entry": 0.072495,
-      "tp": 0.073436,
-      "sl": 0.071868,
-      "generated_at": 1790163613.3086824
-    },
-    {
-      "id": "internet-computer",
-      "symbol": "ICP",
-      "name": "Internet Computer",
-      "direction": "long",
-      "entry": 3.095659,
-      "tp": 3.128674,
-      "sl": 3.073649,
-      "generated_at": 1790163613.308692
+      "entry": 0.073111,
+      "tp": 0.074241,
+      "sl": 0.072357,
+      "generated_at": 1790182957.4128208
     },
     {
       "id": "lighter",
       "symbol": "LIT",
       "name": "Lighter",
       "direction": "long",
-      "entry": 5.122076,
-      "tp": 5.195126,
-      "sl": 5.073376,
-      "generated_at": 1790163613.3086975
+      "entry": 5.288662,
+      "tp": 5.377655,
+      "sl": 5.229334,
+      "generated_at": 1790182957.412829
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
       "direction": "long",
-      "entry": 4.553284,
-      "tp": 4.618846,
-      "sl": 4.509576,
-      "generated_at": 1790163613.3087015
+      "entry": 0.987538,
+      "tp": 1.008832,
+      "sl": 0.973342,
+      "generated_at": 1790182957.4128377
+    },
+    {
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "direction": "long",
+      "entry": 349.239634,
+      "tp": 358.632666,
+      "sl": 342.977613,
+      "generated_at": 1790182957.412843
+    },
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "direction": "long",
+      "entry": 84191.125778,
+      "tp": 84676.969904,
+      "sl": 83867.229695,
+      "generated_at": 1790182957.4128482
     }
   ]
 }
