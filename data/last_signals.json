@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790250877.5638113,
+  "generated_at": 1790270445.189926,
   "signals": [
+    {
+      "id": "ethereum-classic",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "direction": "long",
+      "entry": 9.887623,
+      "tp": 10.105819,
+      "sl": 9.742159,
+      "generated_at": 1790270445.1895068
+    },
     {
       "id": "litecoin",
       "symbol": "LTC",
       "name": "Litecoin",
       "direction": "long",
-      "entry": 66.362911,
-      "tp": 67.748267,
-      "sl": 65.43934,
-      "generated_at": 1790250877.5636466
+      "entry": 74.177088,
+      "tp": 75.928311,
+      "sl": 73.009606,
+      "generated_at": 1790270445.1895156
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 1.146477,
-      "tp": 1.14855,
-      "sl": 1.145096,
-      "generated_at": 1790250877.563654
+      "entry": 85.364494,
+      "tp": 87.226081,
+      "sl": 84.123437,
+      "generated_at": 1790270445.1895244
+    },
+    {
+      "id": "ondo-finance",
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "direction": "long",
+      "entry": 0.518877,
+      "tp": 0.532994,
+      "sl": 0.509466,
+      "generated_at": 1790270445.18953
     },
     {
       "id": "morpho",
       "symbol": "MORPHO",
       "name": "Morpho",
       "direction": "long",
-      "entry": 2.700092,
-      "tp": 2.731226,
-      "sl": 2.679336,
-      "generated_at": 1790250877.5636613
-    },
-    {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
-      "direction": "long",
-      "entry": 1.000442,
-      "tp": 1.000925,
-      "sl": 1.00012,
-      "generated_at": 1790250877.5636659
-    },
-    {
-      "id": "pancakeswap-token",
-      "symbol": "CAKE",
-      "name": "PancakeSwap",
-      "direction": "long",
-      "entry": 2.669572,
-      "tp": 2.699115,
-      "sl": 2.649876,
-      "generated_at": 1790250877.5636706
+      "entry": 2.839863,
+      "tp": 2.893279,
+      "sl": 2.804252,
+      "generated_at": 1790270445.189567
     }
   ]
 }
