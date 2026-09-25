@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790312141.078246,
+  "generated_at": 1790337631.9557579,
   "signals": [
     {
-      "id": "chainlink",
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 13.343236,
-      "tp": 13.567479,
-      "sl": 13.193741,
-      "generated_at": 1790312141.077806
+      "entry": 1609.279694,
+      "tp": 1622.160636,
+      "sl": 1600.6924,
+      "generated_at": 1790337631.9554095
     },
     {
       "id": "quant-network",
       "symbol": "QNT",
       "name": "Quant",
       "direction": "long",
-      "entry": 96.967513,
-      "tp": 99.052717,
-      "sl": 95.577376,
-      "generated_at": 1790312141.0778148
+      "entry": 98.240618,
+      "tp": 100.538136,
+      "sl": 96.70894,
+      "generated_at": 1790337631.9554167
     },
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "dogecoin",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "direction": "long",
-      "entry": 0.115574,
-      "tp": 0.117549,
-      "sl": 0.114258,
-      "generated_at": 1790312141.0778217
+      "entry": 0.098304,
+      "tp": 0.099011,
+      "sl": 0.097832,
+      "generated_at": 1790337631.9554238
     },
     {
-      "id": "sui",
-      "symbol": "SUI",
-      "name": "Sui",
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "direction": "long",
-      "entry": 1.016528,
-      "tp": 1.035769,
-      "sl": 1.003701,
-      "generated_at": 1790312141.0778248
+      "entry": 0.095215,
+      "tp": 0.095866,
+      "sl": 0.094781,
+      "generated_at": 1790337631.955428
     },
     {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
+      "id": "shiba-inu",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "direction": "long",
-      "entry": 0.222712,
-      "tp": 0.22723,
-      "sl": 0.219699,
-      "generated_at": 1790312141.0778286
+      "entry": 6e-06,
+      "tp": 6e-06,
+      "sl": 6e-06,
+      "generated_at": 1790337631.9554317
     }
   ]
 }
