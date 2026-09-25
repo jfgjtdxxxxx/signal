@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790286393.4571893,
+  "generated_at": 1790312141.078246,
   "signals": [
     {
-      "id": "litecoin",
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "id": "chainlink",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "direction": "long",
-      "entry": 71.852632,
-      "tp": 73.308335,
-      "sl": 70.882164,
-      "generated_at": 1790286393.4567692
-    },
-    {
-      "id": "ondo-finance",
-      "symbol": "ONDO",
-      "name": "Ondo",
-      "direction": "long",
-      "entry": 0.521133,
-      "tp": 0.536476,
-      "sl": 0.510903,
-      "generated_at": 1790286393.4567757
+      "entry": 13.343236,
+      "tp": 13.567479,
+      "sl": 13.193741,
+      "generated_at": 1790312141.077806
     },
     {
       "id": "quant-network",
       "symbol": "QNT",
       "name": "Quant",
       "direction": "long",
-      "entry": 88.316574,
-      "tp": 90.554764,
-      "sl": 86.824447,
-      "generated_at": 1790286393.4567826
+      "entry": 96.967513,
+      "tp": 99.052717,
+      "sl": 95.577376,
+      "generated_at": 1790312141.0778148
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 4.739065,
-      "tp": 4.851178,
-      "sl": 4.664323,
-      "generated_at": 1790286393.4567864
+      "entry": 0.115574,
+      "tp": 0.117549,
+      "sl": 0.114258,
+      "generated_at": 1790312141.0778217
     },
     {
-      "id": "mantle",
-      "symbol": "MNT",
-      "name": "Mantle",
+      "id": "sui",
+      "symbol": "SUI",
+      "name": "Sui",
       "direction": "long",
-      "entry": 0.682235,
-      "tp": 0.69316,
-      "sl": 0.674951,
-      "generated_at": 1790286393.4567895
+      "entry": 1.016528,
+      "tp": 1.035769,
+      "sl": 1.003701,
+      "generated_at": 1790312141.0778248
+    },
+    {
+      "id": "ethena",
+      "symbol": "ENA",
+      "name": "Ethena",
+      "direction": "long",
+      "entry": 0.222712,
+      "tp": 0.22723,
+      "sl": 0.219699,
+      "generated_at": 1790312141.0778286
     }
   ]
 }
