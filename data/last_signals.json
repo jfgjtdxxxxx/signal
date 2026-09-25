@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790356644.9944682,
+  "generated_at": 1790372854.4773684,
   "signals": [
     {
       "id": "sui",
       "symbol": "SUI",
       "name": "Sui",
       "direction": "long",
-      "entry": 1.114316,
-      "tp": 1.137966,
-      "sl": 1.098549,
-      "generated_at": 1790356644.993275
+      "entry": 1.156077,
+      "tp": 1.185035,
+      "sl": 1.136771,
+      "generated_at": 1790372854.4769986
     },
     {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 0.004109,
-      "tp": 0.00417,
-      "sl": 0.004069,
-      "generated_at": 1790356644.9932795
+      "entry": 0.127346,
+      "tp": 0.130169,
+      "sl": 0.125465,
+      "generated_at": 1790372854.4770072
     },
     {
       "id": "jupiter-exchange-solana",
       "symbol": "JUP",
       "name": "Jupiter",
       "direction": "long",
-      "entry": 0.325879,
-      "tp": 0.329858,
-      "sl": 0.323226,
-      "generated_at": 1790356644.993284
+      "entry": 0.33475,
+      "tp": 0.339915,
+      "sl": 0.331307,
+      "generated_at": 1790372854.4770172
     },
     {
       "id": "aerodrome-finance",
       "symbol": "AERO",
       "name": "Aerodrome Finance",
       "direction": "long",
-      "entry": 0.835355,
-      "tp": 0.852038,
-      "sl": 0.824232,
-      "generated_at": 1790356644.9932868
+      "entry": 0.846896,
+      "tp": 0.866021,
+      "sl": 0.834145,
+      "generated_at": 1790372854.4770238
     },
     {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
+      "id": "aster-2",
+      "symbol": "ASTER",
+      "name": "Aster",
       "direction": "long",
-      "entry": 121.0334,
-      "tp": 121.944398,
-      "sl": 120.426068,
-      "generated_at": 1790356644.9932895
+      "entry": 0.736391,
+      "tp": 0.741861,
+      "sl": 0.732745,
+      "generated_at": 1790372854.477029
     }
   ]
 }
