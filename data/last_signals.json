@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790337631.9557579,
+  "generated_at": 1790356644.9944682,
   "signals": [
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "sui",
+      "symbol": "SUI",
+      "name": "Sui",
       "direction": "long",
-      "entry": 1609.279694,
-      "tp": 1622.160636,
-      "sl": 1600.6924,
-      "generated_at": 1790337631.9554095
+      "entry": 1.114316,
+      "tp": 1.137966,
+      "sl": 1.098549,
+      "generated_at": 1790356644.993275
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
       "direction": "long",
-      "entry": 98.240618,
-      "tp": 100.538136,
-      "sl": 96.70894,
-      "generated_at": 1790337631.9554167
+      "entry": 0.004109,
+      "tp": 0.00417,
+      "sl": 0.004069,
+      "generated_at": 1790356644.9932795
     },
     {
-      "id": "dogecoin",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "id": "jupiter-exchange-solana",
+      "symbol": "JUP",
+      "name": "Jupiter",
       "direction": "long",
-      "entry": 0.098304,
-      "tp": 0.099011,
-      "sl": 0.097832,
-      "generated_at": 1790337631.9554238
+      "entry": 0.325879,
+      "tp": 0.329858,
+      "sl": 0.323226,
+      "generated_at": 1790356644.993284
     },
     {
-      "id": "hedera-hashgraph",
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "id": "aerodrome-finance",
+      "symbol": "AERO",
+      "name": "Aerodrome Finance",
       "direction": "long",
-      "entry": 0.095215,
-      "tp": 0.095866,
-      "sl": 0.094781,
-      "generated_at": 1790337631.955428
+      "entry": 0.835355,
+      "tp": 0.852038,
+      "sl": 0.824232,
+      "generated_at": 1790356644.9932868
     },
     {
-      "id": "shiba-inu",
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 6e-06,
-      "tp": 6e-06,
-      "sl": 6e-06,
-      "generated_at": 1790337631.9554317
+      "entry": 121.0334,
+      "tp": 121.944398,
+      "sl": 120.426068,
+      "generated_at": 1790356644.9932895
     }
   ]
 }
