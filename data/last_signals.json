@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790398522.7139232,
+  "generated_at": 1790422487.235964,
   "signals": [
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
       "direction": "long",
-      "entry": 0.131684,
-      "tp": 0.133928,
-      "sl": 0.130188,
-      "generated_at": 1790398522.7127962
+      "entry": 0.004492,
+      "tp": 0.00457,
+      "sl": 0.00444,
+      "generated_at": 1790422487.2355905
     },
     {
-      "id": "aave",
-      "symbol": "AAVE",
-      "name": "Aave",
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
       "direction": "long",
-      "entry": 155.211443,
-      "tp": 157.030336,
-      "sl": 153.998848,
-      "generated_at": 1790398522.7128024
+      "entry": 0.079031,
+      "tp": 0.079724,
+      "sl": 0.078569,
+      "generated_at": 1790422487.2356002
     },
     {
-      "id": "polkadot",
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 1.228526,
-      "tp": 1.241322,
-      "sl": 1.219996,
-      "generated_at": 1790398522.7128081
+      "entry": 104.807574,
+      "tp": 106.620933,
+      "sl": 103.598669,
+      "generated_at": 1790422487.2356095
     },
     {
-      "id": "worldcoin-wld",
-      "symbol": "WLD",
-      "name": "Worldcoin",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 0.485518,
-      "tp": 0.493461,
-      "sl": 0.480223,
-      "generated_at": 1790398522.7128112
+      "entry": 8.960766,
+      "tp": 8.996139,
+      "sl": 8.937185,
+      "generated_at": 1790422487.2356155
     },
     {
-      "id": "aerodrome-finance",
-      "symbol": "AERO",
-      "name": "Aerodrome Finance",
+      "id": "litecoin",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "direction": "long",
-      "entry": 0.892337,
-      "tp": 0.918268,
-      "sl": 0.875049,
-      "generated_at": 1790398522.7128146
+      "entry": 73.564534,
+      "tp": 74.440035,
+      "sl": 72.980866,
+      "generated_at": 1790422487.235621
     }
   ]
 }
