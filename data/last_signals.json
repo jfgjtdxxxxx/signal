@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790440564.2275395,
+  "generated_at": 1790457570.930463,
   "signals": [
     {
-      "id": "avalanche-2",
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "id": "the-open-network",
+      "symbol": "GRAM",
+      "name": "Gram (prev. Toncoin)",
       "direction": "long",
-      "entry": 10.962861,
-      "tp": 11.092125,
-      "sl": 10.876685,
-      "generated_at": 1790440564.2271447
+      "entry": 1.571098,
+      "tp": 1.587501,
+      "sl": 1.560163,
+      "generated_at": 1790457570.926892
     },
     {
-      "id": "mantle",
-      "symbol": "MNT",
-      "name": "Mantle",
+      "id": "worldcoin-wld",
+      "symbol": "WLD",
+      "name": "Worldcoin",
       "direction": "long",
-      "entry": 0.699043,
-      "tp": 0.704691,
-      "sl": 0.695278,
-      "generated_at": 1790440564.2271519
+      "entry": 0.525812,
+      "tp": 0.536191,
+      "sl": 0.518893,
+      "generated_at": 1790457570.9269013
     },
     {
-      "id": "polkadot",
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "id": "kaspa",
+      "symbol": "KAS",
+      "name": "Kaspa",
       "direction": "long",
-      "entry": 1.27476,
-      "tp": 1.290467,
-      "sl": 1.264288,
-      "generated_at": 1790440564.2271578
+      "entry": 0.048752,
+      "tp": 0.049708,
+      "sl": 0.048114,
+      "generated_at": 1790457570.9269104
     },
     {
-      "id": "render-token",
-      "symbol": "RENDER",
-      "name": "Render",
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
       "direction": "long",
-      "entry": 2.029441,
-      "tp": 2.056943,
-      "sl": 2.011107,
-      "generated_at": 1790440564.227161
+      "entry": 0.012807,
+      "tp": 0.013105,
+      "sl": 0.012609,
+      "generated_at": 1790457570.9269161
     },
     {
-      "id": "filecoin",
-      "symbol": "FIL",
-      "name": "Filecoin",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 1.210544,
-      "tp": 1.235728,
-      "sl": 1.193755,
-      "generated_at": 1790440564.2271636
+      "entry": 120.934185,
+      "tp": 125.155082,
+      "sl": 118.120254,
+      "generated_at": 1790457570.9269214
     }
   ]
 }
