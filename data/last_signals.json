@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790457570.930463,
+  "generated_at": 1790466497.9740233,
   "signals": [
-    {
-      "id": "the-open-network",
-      "symbol": "GRAM",
-      "name": "Gram (prev. Toncoin)",
-      "direction": "long",
-      "entry": 1.571098,
-      "tp": 1.587501,
-      "sl": 1.560163,
-      "generated_at": 1790457570.926892
-    },
-    {
-      "id": "worldcoin-wld",
-      "symbol": "WLD",
-      "name": "Worldcoin",
-      "direction": "long",
-      "entry": 0.525812,
-      "tp": 0.536191,
-      "sl": 0.518893,
-      "generated_at": 1790457570.9269013
-    },
-    {
-      "id": "kaspa",
-      "symbol": "KAS",
-      "name": "Kaspa",
-      "direction": "long",
-      "entry": 0.048752,
-      "tp": 0.049708,
-      "sl": 0.048114,
-      "generated_at": 1790457570.9269104
-    },
     {
       "id": "rain",
       "symbol": "RAIN",
       "name": "Rain",
       "direction": "long",
-      "entry": 0.012807,
-      "tp": 0.013105,
-      "sl": 0.012609,
-      "generated_at": 1790457570.9269161
+      "entry": 0.012888,
+      "tp": 0.013163,
+      "sl": 0.012705,
+      "generated_at": 1790466497.9732425
+    },
+    {
+      "id": "the-open-network",
+      "symbol": "GRAM",
+      "name": "Gram (prev. Toncoin)",
+      "direction": "long",
+      "entry": 1.581157,
+      "tp": 1.59846,
+      "sl": 1.569622,
+      "generated_at": 1790466497.9732494
     },
     {
       "id": "quant-network",
       "symbol": "QNT",
       "name": "Quant",
       "direction": "long",
-      "entry": 120.934185,
-      "tp": 125.155082,
-      "sl": 118.120254,
-      "generated_at": 1790457570.9269214
+      "entry": 147.828463,
+      "tp": 154.257708,
+      "sl": 143.5423,
+      "generated_at": 1790466497.9732559
+    },
+    {
+      "id": "dash",
+      "symbol": "DASH",
+      "name": "Dash",
+      "direction": "long",
+      "entry": 71.658776,
+      "tp": 73.364153,
+      "sl": 70.521858,
+      "generated_at": 1790466497.9732594
+    },
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "direction": "long",
+      "entry": 1655.320422,
+      "tp": 1677.725249,
+      "sl": 1640.38387,
+      "generated_at": 1790466497.9732633
     }
   ]
 }
