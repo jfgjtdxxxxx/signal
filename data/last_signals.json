@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790486348.624838,
+  "generated_at": 1790511202.7553985,
   "signals": [
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "sui",
+      "symbol": "SUI",
+      "name": "Sui",
       "direction": "long",
-      "entry": 1634.28638,
-      "tp": 1655.246169,
-      "sl": 1620.313187,
-      "generated_at": 1790486348.624121
+      "entry": 1.249047,
+      "tp": 1.267304,
+      "sl": 1.236876,
+      "generated_at": 1790511202.7550485
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "the-open-network",
+      "symbol": "GRAM",
+      "name": "Gram (prev. Toncoin)",
       "direction": "long",
-      "entry": 188.817277,
-      "tp": 200.83752,
-      "sl": 180.803781,
-      "generated_at": 1790486348.6241271
+      "entry": 1.619298,
+      "tp": 1.645742,
+      "sl": 1.601668,
+      "generated_at": 1790511202.7550578
     },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 84307.338856,
-      "tp": 84437.998391,
-      "sl": 84220.2325,
-      "generated_at": 1790486348.624135
+      "entry": 84836.306266,
+      "tp": 84990.284435,
+      "sl": 84733.654153,
+      "generated_at": 1790511202.7550673
     },
     {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 92.964264,
-      "tp": 93.393446,
-      "sl": 92.678142,
-      "generated_at": 1790486348.6241393
+      "entry": 123.773272,
+      "tp": 124.622742,
+      "sl": 123.206958,
+      "generated_at": 1790511202.7550726
     },
     {
       "id": "near",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 5.058091,
-      "tp": 5.141078,
-      "sl": 5.002766,
-      "generated_at": 1790486348.6241434
+      "entry": 5.196197,
+      "tp": 5.289596,
+      "sl": 5.133931,
+      "generated_at": 1790511202.7550766
     }
   ]
 }
