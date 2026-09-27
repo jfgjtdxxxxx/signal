@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790466497.9740233,
+  "generated_at": 1790486348.624838,
   "signals": [
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 0.012888,
-      "tp": 0.013163,
-      "sl": 0.012705,
-      "generated_at": 1790466497.9732425
-    },
-    {
-      "id": "the-open-network",
-      "symbol": "GRAM",
-      "name": "Gram (prev. Toncoin)",
-      "direction": "long",
-      "entry": 1.581157,
-      "tp": 1.59846,
-      "sl": 1.569622,
-      "generated_at": 1790466497.9732494
+      "entry": 1634.28638,
+      "tp": 1655.246169,
+      "sl": 1620.313187,
+      "generated_at": 1790486348.624121
     },
     {
       "id": "quant-network",
       "symbol": "QNT",
       "name": "Quant",
       "direction": "long",
-      "entry": 147.828463,
-      "tp": 154.257708,
-      "sl": 143.5423,
-      "generated_at": 1790466497.9732559
+      "entry": 188.817277,
+      "tp": 200.83752,
+      "sl": 180.803781,
+      "generated_at": 1790486348.6241271
     },
     {
-      "id": "dash",
-      "symbol": "DASH",
-      "name": "Dash",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 71.658776,
-      "tp": 73.364153,
-      "sl": 70.521858,
-      "generated_at": 1790466497.9732594
+      "entry": 84307.338856,
+      "tp": 84437.998391,
+      "sl": 84220.2325,
+      "generated_at": 1790486348.624135
     },
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
       "direction": "long",
-      "entry": 1655.320422,
-      "tp": 1677.725249,
-      "sl": 1640.38387,
-      "generated_at": 1790466497.9732633
+      "entry": 92.964264,
+      "tp": 93.393446,
+      "sl": 92.678142,
+      "generated_at": 1790486348.6241393
+    },
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "direction": "long",
+      "entry": 5.058091,
+      "tp": 5.141078,
+      "sl": 5.002766,
+      "generated_at": 1790486348.6241434
     }
   ]
 }
