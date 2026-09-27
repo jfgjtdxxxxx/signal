@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790511202.7553985,
+  "generated_at": 1790529104.954453,
   "signals": [
     {
       "id": "sui",
       "symbol": "SUI",
       "name": "Sui",
       "direction": "long",
-      "entry": 1.249047,
-      "tp": 1.267304,
-      "sl": 1.236876,
-      "generated_at": 1790511202.7550485
+      "entry": 1.240882,
+      "tp": 1.25886,
+      "sl": 1.228897,
+      "generated_at": 1790529104.9540982
     },
     {
       "id": "the-open-network",
       "symbol": "GRAM",
       "name": "Gram (prev. Toncoin)",
       "direction": "long",
-      "entry": 1.619298,
-      "tp": 1.645742,
-      "sl": 1.601668,
-      "generated_at": 1790511202.7550578
+      "entry": 1.715846,
+      "tp": 1.746794,
+      "sl": 1.695214,
+      "generated_at": 1790529104.9541073
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
       "direction": "long",
-      "entry": 84836.306266,
-      "tp": 84990.284435,
-      "sl": 84733.654153,
-      "generated_at": 1790511202.7550673
+      "entry": 0.00489,
+      "tp": 0.004966,
+      "sl": 0.00484,
+      "generated_at": 1790529104.954117
     },
     {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 123.773272,
-      "tp": 124.622742,
-      "sl": 123.206958,
-      "generated_at": 1790511202.7550726
+      "entry": 1.14668,
+      "tp": 1.147642,
+      "sl": 1.146038,
+      "generated_at": 1790529104.954123
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "pancakeswap-token",
+      "symbol": "CAKE",
+      "name": "PancakeSwap",
       "direction": "long",
-      "entry": 5.196197,
-      "tp": 5.289596,
-      "sl": 5.133931,
-      "generated_at": 1790511202.7550766
+      "entry": 2.777148,
+      "tp": 2.796666,
+      "sl": 2.764136,
+      "generated_at": 1790529104.954128
     }
   ]
 }
