@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790544958.448734,
+  "generated_at": 1790572845.4654508,
   "signals": [
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "ondo-finance",
+      "symbol": "ONDO",
+      "name": "Ondo",
       "direction": "long",
-      "entry": 5.526398,
-      "tp": 5.608693,
-      "sl": 5.471534,
-      "generated_at": 1790544958.4482489
+      "entry": 0.58611,
+      "tp": 0.600256,
+      "sl": 0.576679,
+      "generated_at": 1790572845.4651077
     },
     {
-      "id": "sui",
-      "symbol": "SUI",
-      "name": "Sui",
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
       "direction": "long",
-      "entry": 1.288512,
-      "tp": 1.301399,
-      "sl": 1.279921,
-      "generated_at": 1790544958.4482572
-    },
-    {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
-      "direction": "long",
-      "entry": 0.13813,
-      "tp": 0.139799,
-      "sl": 0.137017,
-      "generated_at": 1790544958.4482646
-    },
-    {
-      "id": "hedera-hashgraph",
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "direction": "long",
-      "entry": 0.095118,
-      "tp": 0.095756,
-      "sl": 0.094693,
-      "generated_at": 1790544958.4482696
+      "entry": 0.081934,
+      "tp": 0.083745,
+      "sl": 0.080727,
+      "generated_at": 1790572845.4651158
     },
     {
       "id": "quant-network",
       "symbol": "QNT",
       "name": "Quant",
       "direction": "long",
-      "entry": 206.224637,
-      "tp": 214.904508,
-      "sl": 200.438056,
-      "generated_at": 1790544958.4482741
+      "entry": 258.374209,
+      "tp": 289.596367,
+      "sl": 237.559436,
+      "generated_at": 1790572845.4651248
+    },
+    {
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
+      "direction": "long",
+      "entry": 0.005226,
+      "tp": 0.00533,
+      "sl": 0.005156,
+      "generated_at": 1790572845.4651303
+    },
+    {
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
+      "direction": "long",
+      "entry": 0.141087,
+      "tp": 0.144116,
+      "sl": 0.139067,
+      "generated_at": 1790572845.465135
     }
   ]
 }
