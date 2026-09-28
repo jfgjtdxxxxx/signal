@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790572845.4654508,
+  "generated_at": 1790603801.187445,
   "signals": [
     {
-      "id": "ondo-finance",
-      "symbol": "ONDO",
-      "name": "Ondo",
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "direction": "long",
-      "entry": 0.58611,
-      "tp": 0.600256,
-      "sl": 0.576679,
-      "generated_at": 1790572845.4651077
+      "entry": 0.121843,
+      "tp": 0.125061,
+      "sl": 0.119697,
+      "generated_at": 1790603801.186968
     },
     {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
+      "id": "algorand",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "direction": "long",
-      "entry": 0.081934,
-      "tp": 0.083745,
-      "sl": 0.080727,
-      "generated_at": 1790572845.4651158
+      "entry": 0.132859,
+      "tp": 0.135832,
+      "sl": 0.130877,
+      "generated_at": 1790603801.186977
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "chainlink",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "direction": "long",
-      "entry": 258.374209,
-      "tp": 289.596367,
-      "sl": 237.559436,
-      "generated_at": 1790572845.4651248
+      "entry": 14.693488,
+      "tp": 14.90891,
+      "sl": 14.549873,
+      "generated_at": 1790603801.186987
     },
     {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
+      "id": "stellar",
+      "symbol": "XLM",
+      "name": "Stellar",
       "direction": "long",
-      "entry": 0.005226,
-      "tp": 0.00533,
-      "sl": 0.005156,
-      "generated_at": 1790572845.4651303
+      "entry": 0.223473,
+      "tp": 0.227403,
+      "sl": 0.220853,
+      "generated_at": 1790603801.186993
     },
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "the-open-network",
+      "symbol": "GRAM",
+      "name": "Gram (prev. Toncoin)",
       "direction": "long",
-      "entry": 0.141087,
-      "tp": 0.144116,
-      "sl": 0.139067,
-      "generated_at": 1790572845.465135
+      "entry": 1.657387,
+      "tp": 1.678514,
+      "sl": 1.643303,
+      "generated_at": 1790603801.1869981
     }
   ]
 }
