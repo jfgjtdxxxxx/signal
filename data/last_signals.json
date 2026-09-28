@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790603801.187445,
+  "generated_at": 1790631210.6890013,
   "signals": [
-    {
-      "id": "hedera-hashgraph",
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "direction": "long",
-      "entry": 0.121843,
-      "tp": 0.125061,
-      "sl": 0.119697,
-      "generated_at": 1790603801.186968
-    },
-    {
-      "id": "algorand",
-      "symbol": "ALGO",
-      "name": "Algorand",
-      "direction": "long",
-      "entry": 0.132859,
-      "tp": 0.135832,
-      "sl": 0.130877,
-      "generated_at": 1790603801.186977
-    },
     {
       "id": "chainlink",
       "symbol": "LINK",
       "name": "Chainlink",
       "direction": "long",
-      "entry": 14.693488,
-      "tp": 14.90891,
-      "sl": 14.549873,
-      "generated_at": 1790603801.186987
+      "entry": 15.347551,
+      "tp": 15.727375,
+      "sl": 15.094335,
+      "generated_at": 1790631210.6886299
     },
     {
       "id": "stellar",
       "symbol": "XLM",
       "name": "Stellar",
       "direction": "long",
-      "entry": 0.223473,
-      "tp": 0.227403,
-      "sl": 0.220853,
-      "generated_at": 1790603801.186993
+      "entry": 0.227793,
+      "tp": 0.23312,
+      "sl": 0.224242,
+      "generated_at": 1790631210.6886394
     },
     {
-      "id": "the-open-network",
-      "symbol": "GRAM",
-      "name": "Gram (prev. Toncoin)",
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "direction": "long",
-      "entry": 1.657387,
-      "tp": 1.678514,
-      "sl": 1.643303,
-      "generated_at": 1790603801.1869981
+      "entry": 0.122389,
+      "tp": 0.127396,
+      "sl": 0.119051,
+      "generated_at": 1790631210.6886485
+    },
+    {
+      "id": "algorand",
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "direction": "long",
+      "entry": 0.135763,
+      "tp": 0.140711,
+      "sl": 0.132464,
+      "generated_at": 1790631210.6886535
+    },
+    {
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
+      "direction": "long",
+      "entry": 0.335833,
+      "tp": 0.336489,
+      "sl": 0.335396,
+      "generated_at": 1790631210.6886582
     }
   ]
 }
