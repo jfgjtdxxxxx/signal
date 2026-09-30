@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790631210.6890013,
+  "generated_at": 1790762129.1665726,
   "signals": [
     {
-      "id": "chainlink",
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 15.347551,
-      "tp": 15.727375,
-      "sl": 15.094335,
-      "generated_at": 1790631210.6886299
+      "entry": 5.092785,
+      "tp": 5.18278,
+      "sl": 5.032788,
+      "generated_at": 1790762129.1661623
     },
     {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
+      "id": "aster-2",
+      "symbol": "ASTER",
+      "name": "Aster",
       "direction": "long",
-      "entry": 0.227793,
-      "tp": 0.23312,
-      "sl": 0.224242,
-      "generated_at": 1790631210.6886394
+      "entry": 0.766675,
+      "tp": 0.773899,
+      "sl": 0.761859,
+      "generated_at": 1790762129.1661701
     },
     {
-      "id": "hedera-hashgraph",
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "id": "shiba-inu",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "direction": "long",
-      "entry": 0.122389,
-      "tp": 0.127396,
-      "sl": 0.119051,
-      "generated_at": 1790631210.6886485
+      "entry": 6e-06,
+      "tp": 6e-06,
+      "sl": 6e-06,
+      "generated_at": 1790762129.1661785
     },
     {
-      "id": "algorand",
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 0.135763,
-      "tp": 0.140711,
-      "sl": 0.132464,
-      "generated_at": 1790631210.6886535
+      "entry": 4186.51445,
+      "tp": 4194.029557,
+      "sl": 4181.504378,
+      "generated_at": 1790762129.1661837
     },
     {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
+      "id": "mantle",
+      "symbol": "MNT",
+      "name": "Mantle",
       "direction": "long",
-      "entry": 0.335833,
-      "tp": 0.336489,
-      "sl": 0.335396,
-      "generated_at": 1790631210.6886582
+      "entry": 0.683327,
+      "tp": 0.687777,
+      "sl": 0.68036,
+      "generated_at": 1790762129.166188
     }
   ]
 }
