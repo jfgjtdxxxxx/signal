@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790792259.8820016,
+  "generated_at": 1790807424.207736,
   "signals": [
+    {
+      "id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "direction": "long",
+      "entry": 90.836599,
+      "tp": 92.157998,
+      "sl": 89.955666,
+      "generated_at": 1790807424.2074265
+    },
     {
       "id": "ethena",
       "symbol": "ENA",
       "name": "Ethena",
       "direction": "long",
-      "entry": 0.26545,
-      "tp": 0.272585,
-      "sl": 0.260693,
-      "generated_at": 1790792259.881605
+      "entry": 0.26009,
+      "tp": 0.267209,
+      "sl": 0.255344,
+      "generated_at": 1790807424.2074342
+    },
+    {
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
+      "direction": "long",
+      "entry": 9.066069,
+      "tp": 9.088586,
+      "sl": 9.051058,
+      "generated_at": 1790807424.207443
     },
     {
       "id": "near",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 5.36856,
-      "tp": 5.463947,
-      "sl": 5.304969,
-      "generated_at": 1790792259.881612
+      "entry": 5.262862,
+      "tp": 5.34004,
+      "sl": 5.21141,
+      "generated_at": 1790807424.207448
     },
     {
-      "id": "polkadot",
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1.235616,
-      "tp": 1.252415,
-      "sl": 1.224417,
-      "generated_at": 1790792259.881619
-    },
-    {
-      "id": "worldcoin-wld",
-      "symbol": "WLD",
-      "name": "Worldcoin",
-      "direction": "long",
-      "entry": 0.530349,
-      "tp": 0.540464,
-      "sl": 0.523605,
-      "generated_at": 1790792259.8816233
-    },
-    {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "direction": "long",
-      "entry": 84010.068008,
-      "tp": 84595.417549,
-      "sl": 83619.834981,
-      "generated_at": 1790792259.8816276
+      "entry": 1.148487,
+      "tp": 1.149527,
+      "sl": 1.147794,
+      "generated_at": 1790807424.2074528
     }
   ]
 }
