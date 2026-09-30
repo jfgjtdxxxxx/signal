@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790762129.1665726,
+  "generated_at": 1790792259.8820016,
   "signals": [
+    {
+      "id": "ethena",
+      "symbol": "ENA",
+      "name": "Ethena",
+      "direction": "long",
+      "entry": 0.26545,
+      "tp": 0.272585,
+      "sl": 0.260693,
+      "generated_at": 1790792259.881605
+    },
     {
       "id": "near",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 5.092785,
-      "tp": 5.18278,
-      "sl": 5.032788,
-      "generated_at": 1790762129.1661623
+      "entry": 5.36856,
+      "tp": 5.463947,
+      "sl": 5.304969,
+      "generated_at": 1790792259.881612
     },
     {
-      "id": "aster-2",
-      "symbol": "ASTER",
-      "name": "Aster",
+      "id": "polkadot",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "direction": "long",
-      "entry": 0.766675,
-      "tp": 0.773899,
-      "sl": 0.761859,
-      "generated_at": 1790762129.1661701
+      "entry": 1.235616,
+      "tp": 1.252415,
+      "sl": 1.224417,
+      "generated_at": 1790792259.881619
     },
     {
-      "id": "shiba-inu",
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
+      "id": "worldcoin-wld",
+      "symbol": "WLD",
+      "name": "Worldcoin",
       "direction": "long",
-      "entry": 6e-06,
-      "tp": 6e-06,
-      "sl": 6e-06,
-      "generated_at": 1790762129.1661785
+      "entry": 0.530349,
+      "tp": 0.540464,
+      "sl": 0.523605,
+      "generated_at": 1790792259.8816233
     },
     {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 4186.51445,
-      "tp": 4194.029557,
-      "sl": 4181.504378,
-      "generated_at": 1790762129.1661837
-    },
-    {
-      "id": "mantle",
-      "symbol": "MNT",
-      "name": "Mantle",
-      "direction": "long",
-      "entry": 0.683327,
-      "tp": 0.687777,
-      "sl": 0.68036,
-      "generated_at": 1790762129.166188
+      "entry": 84010.068008,
+      "tp": 84595.417549,
+      "sl": 83619.834981,
+      "generated_at": 1790792259.8816276
     }
   ]
 }
