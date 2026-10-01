@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790807424.207736,
+  "generated_at": 1790833755.7345488,
   "signals": [
-    {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
-      "direction": "long",
-      "entry": 90.836599,
-      "tp": 92.157998,
-      "sl": 89.955666,
-      "generated_at": 1790807424.2074265
-    },
     {
       "id": "ethena",
       "symbol": "ENA",
       "name": "Ethena",
       "direction": "long",
-      "entry": 0.26009,
-      "tp": 0.267209,
-      "sl": 0.255344,
-      "generated_at": 1790807424.2074342
+      "entry": 0.272681,
+      "tp": 0.276841,
+      "sl": 0.269908,
+      "generated_at": 1790833755.7341635
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 9.066069,
-      "tp": 9.088586,
-      "sl": 9.051058,
-      "generated_at": 1790807424.207443
+      "entry": 27.935164,
+      "tp": 28.221627,
+      "sl": 27.74419,
+      "generated_at": 1790833755.7341726
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 5.262862,
-      "tp": 5.34004,
-      "sl": 5.21141,
-      "generated_at": 1790807424.207448
+      "entry": 84226.636557,
+      "tp": 84459.897329,
+      "sl": 84071.129376,
+      "generated_at": 1790833755.7341821
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 1.148487,
-      "tp": 1.149527,
-      "sl": 1.147794,
-      "generated_at": 1790807424.2074528
+      "entry": 1434.896802,
+      "tp": 1451.282075,
+      "sl": 1423.973287,
+      "generated_at": 1790833755.7341874
+    },
+    {
+      "id": "dogecoin",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "direction": "long",
+      "entry": 0.095729,
+      "tp": 0.096072,
+      "sl": 0.095501,
+      "generated_at": 1790833755.7341921
     }
   ]
 }
