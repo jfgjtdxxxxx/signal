@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790833755.7345488,
+  "generated_at": 1790860732.2468936,
   "signals": [
     {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "direction": "long",
-      "entry": 0.272681,
-      "tp": 0.276841,
-      "sl": 0.269908,
-      "generated_at": 1790833755.7341635
+      "entry": 2698.350141,
+      "tp": 2710.919413,
+      "sl": 2689.970626,
+      "generated_at": 1790860732.2464511
     },
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
       "direction": "long",
-      "entry": 27.935164,
-      "tp": 28.221627,
-      "sl": 27.74419,
-      "generated_at": 1790833755.7341726
+      "entry": 4e-06,
+      "tp": 4e-06,
+      "sl": 4e-06,
+      "generated_at": 1790860732.2464597
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
       "direction": "long",
-      "entry": 84226.636557,
-      "tp": 84459.897329,
-      "sl": 84071.129376,
-      "generated_at": 1790833755.7341821
+      "entry": 11.093256,
+      "tp": 11.178815,
+      "sl": 11.036217,
+      "generated_at": 1790860732.2464683
     },
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "algorand",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "direction": "long",
-      "entry": 1434.896802,
-      "tp": 1451.282075,
-      "sl": 1423.973287,
-      "generated_at": 1790833755.7341874
+      "entry": 0.126867,
+      "tp": 0.128812,
+      "sl": 0.12557,
+      "generated_at": 1790860732.2464736
     },
     {
-      "id": "dogecoin",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 0.095729,
-      "tp": 0.096072,
-      "sl": 0.095501,
-      "generated_at": 1790833755.7341921
+      "entry": 0.33286,
+      "tp": 0.33366,
+      "sl": 0.332326,
+      "generated_at": 1790860732.2464776
     }
   ]
 }
