@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790935085.0213563,
+  "generated_at": 1790964395.4705267,
   "signals": [
     {
-      "id": "aave",
-      "symbol": "AAVE",
-      "name": "Aave",
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
       "direction": "long",
-      "entry": 182.375553,
-      "tp": 185.750682,
-      "sl": 180.125466,
-      "generated_at": 1790935085.021009
+      "entry": 0.091564,
+      "tp": 0.093548,
+      "sl": 0.090242,
+      "generated_at": 1790964395.470145
     },
     {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 5e-06,
-      "tp": 5e-06,
-      "sl": 5e-06,
-      "generated_at": 1790935085.0210173
+      "entry": 1.147626,
+      "tp": 1.148583,
+      "sl": 1.146988,
+      "generated_at": 1790964395.4701543
     },
     {
-      "id": "morpho",
-      "symbol": "MORPHO",
-      "name": "Morpho",
+      "id": "worldcoin-wld",
+      "symbol": "WLD",
+      "name": "Worldcoin",
       "direction": "long",
-      "entry": 2.629798,
-      "tp": 2.660358,
-      "sl": 2.609425,
-      "generated_at": 1790935085.0210266
+      "entry": 0.55945,
+      "tp": 0.572655,
+      "sl": 0.550647,
+      "generated_at": 1790964395.4701629
     },
     {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 11.130519,
-      "tp": 11.192597,
-      "sl": 11.089134,
-      "generated_at": 1790935085.0210316
+      "entry": 29.420712,
+      "tp": 29.910028,
+      "sl": 29.094501,
+      "generated_at": 1790964395.470168
     },
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
       "direction": "long",
-      "entry": 2746.313258,
-      "tp": 2757.849474,
-      "sl": 2738.622447,
-      "generated_at": 1790935085.0210369
+      "entry": 0.047686,
+      "tp": 0.04959,
+      "sl": 0.046417,
+      "generated_at": 1790964395.4701726
     }
   ]
 }
