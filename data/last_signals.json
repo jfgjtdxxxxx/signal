@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790902860.257733,
+  "generated_at": 1790935085.0213563,
   "signals": [
-    {
-      "id": "blockchain-usd",
-      "symbol": "USDB",
-      "name": "Blockchain USD",
-      "direction": "long",
-      "entry": 0.917888,
-      "tp": 1.032867,
-      "sl": 0.841236,
-      "generated_at": 1790902860.2573628
-    },
-    {
-      "id": "the-open-network",
-      "symbol": "GRAM",
-      "name": "Gram (prev. Toncoin)",
-      "direction": "long",
-      "entry": 1.567789,
-      "tp": 1.580407,
-      "sl": 1.559378,
-      "generated_at": 1790902860.257372
-    },
     {
       "id": "aave",
       "symbol": "AAVE",
       "name": "Aave",
       "direction": "long",
-      "entry": 174.676683,
-      "tp": 177.365339,
-      "sl": 172.884246,
-      "generated_at": 1790902860.2573812
+      "entry": 182.375553,
+      "tp": 185.750682,
+      "sl": 180.125466,
+      "generated_at": 1790935085.021009
     },
     {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
       "direction": "long",
-      "entry": 0.083745,
-      "tp": 0.084904,
-      "sl": 0.082972,
-      "generated_at": 1790902860.2573864
+      "entry": 5e-06,
+      "tp": 5e-06,
+      "sl": 5e-06,
+      "generated_at": 1790935085.0210173
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "morpho",
+      "symbol": "MORPHO",
+      "name": "Morpho",
       "direction": "long",
-      "entry": 84693.770502,
-      "tp": 84907.186309,
-      "sl": 84551.493297,
-      "generated_at": 1790902860.257392
+      "entry": 2.629798,
+      "tp": 2.660358,
+      "sl": 2.609425,
+      "generated_at": 1790935085.0210266
+    },
+    {
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
+      "direction": "long",
+      "entry": 11.130519,
+      "tp": 11.192597,
+      "sl": 11.089134,
+      "generated_at": 1790935085.0210316
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "direction": "long",
+      "entry": 2746.313258,
+      "tp": 2757.849474,
+      "sl": 2738.622447,
+      "generated_at": 1790935085.0210369
     }
   ]
 }
