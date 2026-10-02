@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790964395.4705267,
+  "generated_at": 1790979981.4103014,
   "signals": [
     {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 0.091564,
-      "tp": 0.093548,
-      "sl": 0.090242,
-      "generated_at": 1790964395.470145
+      "entry": 8.99295,
+      "tp": 9.011269,
+      "sl": 8.980737,
+      "generated_at": 1790979981.409821
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "bfusd",
+      "symbol": "BFUSD",
+      "name": "BFUSD",
       "direction": "long",
-      "entry": 1.147626,
-      "tp": 1.148583,
-      "sl": 1.146988,
-      "generated_at": 1790964395.4701543
+      "entry": 0.999809,
+      "tp": 0.999934,
+      "sl": 0.999726,
+      "generated_at": 1790979981.4098299
     },
     {
-      "id": "worldcoin-wld",
-      "symbol": "WLD",
-      "name": "Worldcoin",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 0.55945,
-      "tp": 0.572655,
-      "sl": 0.550647,
-      "generated_at": 1790964395.4701629
-    },
-    {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
-      "direction": "long",
-      "entry": 29.420712,
-      "tp": 29.910028,
-      "sl": 29.094501,
-      "generated_at": 1790964395.470168
+      "entry": 0.131575,
+      "tp": 0.132656,
+      "sl": 0.130855,
+      "generated_at": 1790979981.409839
     },
     {
       "id": "midnight-3",
       "symbol": "NIGHT",
       "name": "Midnight",
       "direction": "long",
-      "entry": 0.047686,
-      "tp": 0.04959,
-      "sl": 0.046417,
-      "generated_at": 1790964395.4701726
+      "entry": 0.048308,
+      "tp": 0.050069,
+      "sl": 0.047133,
+      "generated_at": 1790979981.409844
+    },
+    {
+      "id": "aave",
+      "symbol": "AAVE",
+      "name": "Aave",
+      "direction": "long",
+      "entry": 181.04486,
+      "tp": 182.44954,
+      "sl": 180.108407,
+      "generated_at": 1790979981.4098494
     }
   ]
 }
