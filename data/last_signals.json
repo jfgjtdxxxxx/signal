@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790887183.910291,
+  "generated_at": 1790902860.257733,
   "signals": [
+    {
+      "id": "blockchain-usd",
+      "symbol": "USDB",
+      "name": "Blockchain USD",
+      "direction": "long",
+      "entry": 0.917888,
+      "tp": 1.032867,
+      "sl": 0.841236,
+      "generated_at": 1790902860.2573628
+    },
+    {
+      "id": "the-open-network",
+      "symbol": "GRAM",
+      "name": "Gram (prev. Toncoin)",
+      "direction": "long",
+      "entry": 1.567789,
+      "tp": 1.580407,
+      "sl": 1.559378,
+      "generated_at": 1790902860.257372
+    },
     {
       "id": "aave",
       "symbol": "AAVE",
       "name": "Aave",
       "direction": "long",
-      "entry": 169.786903,
-      "tp": 172.415531,
-      "sl": 168.034484,
-      "generated_at": 1790887183.9099014
+      "entry": 174.676683,
+      "tp": 177.365339,
+      "sl": 172.884246,
+      "generated_at": 1790902860.2573812
+    },
+    {
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
+      "direction": "long",
+      "entry": 0.083745,
+      "tp": 0.084904,
+      "sl": 0.082972,
+      "generated_at": 1790902860.2573864
     },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 84755.952324,
-      "tp": 85047.290466,
-      "sl": 84561.726897,
-      "generated_at": 1790887183.9099112
-    },
-    {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "direction": "long",
-      "entry": 2701.228171,
-      "tp": 2714.029967,
-      "sl": 2692.693641,
-      "generated_at": 1790887183.9099205
-    },
-    {
-      "id": "sui",
-      "symbol": "SUI",
-      "name": "Sui",
-      "direction": "long",
-      "entry": 1.185448,
-      "tp": 1.203269,
-      "sl": 1.173568,
-      "generated_at": 1790887183.9099267
-    },
-    {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
-      "direction": "long",
-      "entry": 545.555591,
-      "tp": 548.818294,
-      "sl": 543.380456,
-      "generated_at": 1790887183.9099326
+      "entry": 84693.770502,
+      "tp": 84907.186309,
+      "sl": 84551.493297,
+      "generated_at": 1790902860.257392
     }
   ]
 }
