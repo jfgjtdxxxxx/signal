@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791044933.5568497,
+  "generated_at": 1791062266.7382495,
   "signals": [
+    {
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
+      "direction": "long",
+      "entry": 267.004487,
+      "tp": 272.469863,
+      "sl": 263.360903,
+      "generated_at": 1791062266.737916
+    },
+    {
+      "id": "aerodrome-finance",
+      "symbol": "AERO",
+      "name": "Aerodrome Finance",
+      "direction": "long",
+      "entry": 0.829586,
+      "tp": 0.837852,
+      "sl": 0.824076,
+      "generated_at": 1791062266.7379253
+    },
     {
       "id": "just",
       "symbol": "JST",
       "name": "JUST",
       "direction": "long",
-      "entry": 0.138702,
-      "tp": 0.13967,
-      "sl": 0.138056,
-      "generated_at": 1791044933.5565143
-    },
-    {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
-      "direction": "long",
-      "entry": 0.336662,
-      "tp": 0.337206,
-      "sl": 0.336299,
-      "generated_at": 1791044933.556522
+      "entry": 0.138312,
+      "tp": 0.138865,
+      "sl": 0.137944,
+      "generated_at": 1791062266.7379348
     },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 551.925785,
-      "tp": 554.640873,
-      "sl": 550.115726,
-      "generated_at": 1791044933.5565302
+      "entry": 558.603267,
+      "tp": 561.465264,
+      "sl": 556.695269,
+      "generated_at": 1791062266.7379408
     },
     {
       "id": "bitcoin-cash",
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "direction": "long",
-      "entry": 313.990003,
-      "tp": 314.962976,
-      "sl": 313.341355,
-      "generated_at": 1791044933.5565345
-    },
-    {
-      "id": "litecoin",
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "direction": "long",
-      "entry": 69.577284,
-      "tp": 70.115745,
-      "sl": 69.218309,
-      "generated_at": 1791044933.5565383
+      "entry": 316.236876,
+      "tp": 317.179702,
+      "sl": 315.608326,
+      "generated_at": 1791062266.7379458
     }
   ]
 }
