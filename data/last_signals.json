@@ -1,55 +1,55 @@
 {
-  "generated_at": 1790979981.4103014,
+  "generated_at": 1791004746.7072597,
   "signals": [
+    {
+      "id": "worldcoin-wld",
+      "symbol": "WLD",
+      "name": "Worldcoin",
+      "direction": "long",
+      "entry": 0.566151,
+      "tp": 0.57513,
+      "sl": 0.560165,
+      "generated_at": 1791004746.7068286
+    },
     {
       "id": "leo-token",
       "symbol": "LEO",
       "name": "LEO Token",
       "direction": "long",
-      "entry": 8.99295,
-      "tp": 9.011269,
-      "sl": 8.980737,
-      "generated_at": 1790979981.409821
+      "entry": 9.00604,
+      "tp": 9.019884,
+      "sl": 8.996811,
+      "generated_at": 1791004746.7068355
     },
     {
-      "id": "bfusd",
-      "symbol": "BFUSD",
-      "name": "BFUSD",
+      "id": "filecoin",
+      "symbol": "FIL",
+      "name": "Filecoin",
       "direction": "long",
-      "entry": 0.999809,
-      "tp": 0.999934,
-      "sl": 0.999726,
-      "generated_at": 1790979981.4098299
+      "entry": 1.058534,
+      "tp": 1.072495,
+      "sl": 1.049226,
+      "generated_at": 1791004746.7068424
     },
     {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
+      "id": "injective-protocol",
+      "symbol": "INJ",
+      "name": "Injective",
       "direction": "long",
-      "entry": 0.131575,
-      "tp": 0.132656,
-      "sl": 0.130855,
-      "generated_at": 1790979981.409839
+      "entry": 7.699779,
+      "tp": 7.826915,
+      "sl": 7.615022,
+      "generated_at": 1791004746.7068462
     },
     {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
+      "id": "akedo",
+      "symbol": "AKE",
+      "name": "Akedo",
       "direction": "long",
-      "entry": 0.048308,
-      "tp": 0.050069,
-      "sl": 0.047133,
-      "generated_at": 1790979981.409844
-    },
-    {
-      "id": "aave",
-      "symbol": "AAVE",
-      "name": "Aave",
-      "direction": "long",
-      "entry": 181.04486,
-      "tp": 182.44954,
-      "sl": 180.108407,
-      "generated_at": 1790979981.4098494
+      "entry": 0.033387,
+      "tp": 0.033904,
+      "sl": 0.033043,
+      "generated_at": 1791004746.706849
     }
   ]
 }
