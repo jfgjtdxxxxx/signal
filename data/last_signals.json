@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791027923.469736,
+  "generated_at": 1791044933.5568497,
   "signals": [
     {
       "id": "just",
       "symbol": "JST",
       "name": "JUST",
       "direction": "long",
-      "entry": 0.136637,
-      "tp": 0.137476,
-      "sl": 0.136078,
-      "generated_at": 1791027923.4683297
+      "entry": 0.138702,
+      "tp": 0.13967,
+      "sl": 0.138056,
+      "generated_at": 1791044933.5565143
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 255.902019,
-      "tp": 262.609075,
-      "sl": 251.430648,
-      "generated_at": 1791027923.468337
+      "entry": 0.336662,
+      "tp": 0.337206,
+      "sl": 0.336299,
+      "generated_at": 1791044933.556522
     },
     {
-      "id": "worldcoin-wld",
-      "symbol": "WLD",
-      "name": "Worldcoin",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 0.60325,
-      "tp": 0.613427,
-      "sl": 0.596466,
-      "generated_at": 1791027923.468344
+      "entry": 551.925785,
+      "tp": 554.640873,
+      "sl": 550.115726,
+      "generated_at": 1791044933.5565302
     },
     {
-      "id": "internet-computer",
-      "symbol": "ICP",
-      "name": "Internet Computer",
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "direction": "long",
-      "entry": 3.315432,
-      "tp": 3.340288,
-      "sl": 3.298862,
-      "generated_at": 1791027923.4683478
+      "entry": 313.990003,
+      "tp": 314.962976,
+      "sl": 313.341355,
+      "generated_at": 1791044933.5565345
     },
     {
-      "id": "morpho",
-      "symbol": "MORPHO",
-      "name": "Morpho",
+      "id": "litecoin",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "direction": "long",
-      "entry": 2.624742,
-      "tp": 2.639238,
-      "sl": 2.615078,
-      "generated_at": 1791027923.4683511
+      "entry": 69.577284,
+      "tp": 70.115745,
+      "sl": 69.218309,
+      "generated_at": 1791044933.5565383
     }
   ]
 }
