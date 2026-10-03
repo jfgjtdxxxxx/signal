@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791004746.7072597,
+  "generated_at": 1791027923.469736,
   "signals": [
+    {
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
+      "direction": "long",
+      "entry": 0.136637,
+      "tp": 0.137476,
+      "sl": 0.136078,
+      "generated_at": 1791027923.4683297
+    },
+    {
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
+      "direction": "long",
+      "entry": 255.902019,
+      "tp": 262.609075,
+      "sl": 251.430648,
+      "generated_at": 1791027923.468337
+    },
     {
       "id": "worldcoin-wld",
       "symbol": "WLD",
       "name": "Worldcoin",
       "direction": "long",
-      "entry": 0.566151,
-      "tp": 0.57513,
-      "sl": 0.560165,
-      "generated_at": 1791004746.7068286
+      "entry": 0.60325,
+      "tp": 0.613427,
+      "sl": 0.596466,
+      "generated_at": 1791027923.468344
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "internet-computer",
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "direction": "long",
-      "entry": 9.00604,
-      "tp": 9.019884,
-      "sl": 8.996811,
-      "generated_at": 1791004746.7068355
+      "entry": 3.315432,
+      "tp": 3.340288,
+      "sl": 3.298862,
+      "generated_at": 1791027923.4683478
     },
     {
-      "id": "filecoin",
-      "symbol": "FIL",
-      "name": "Filecoin",
+      "id": "morpho",
+      "symbol": "MORPHO",
+      "name": "Morpho",
       "direction": "long",
-      "entry": 1.058534,
-      "tp": 1.072495,
-      "sl": 1.049226,
-      "generated_at": 1791004746.7068424
-    },
-    {
-      "id": "injective-protocol",
-      "symbol": "INJ",
-      "name": "Injective",
-      "direction": "long",
-      "entry": 7.699779,
-      "tp": 7.826915,
-      "sl": 7.615022,
-      "generated_at": 1791004746.7068462
-    },
-    {
-      "id": "akedo",
-      "symbol": "AKE",
-      "name": "Akedo",
-      "direction": "long",
-      "entry": 0.033387,
-      "tp": 0.033904,
-      "sl": 0.033043,
-      "generated_at": 1791004746.706849
+      "entry": 2.624742,
+      "tp": 2.639238,
+      "sl": 2.615078,
+      "generated_at": 1791027923.4683511
     }
   ]
 }
