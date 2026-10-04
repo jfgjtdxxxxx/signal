@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791072325.621668,
+  "generated_at": 1791093110.6581798,
   "signals": [
-    {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
-      "direction": "long",
-      "entry": 0.006297,
-      "tp": 0.006466,
-      "sl": 0.006184,
-      "generated_at": 1791072325.6210043
-    },
-    {
-      "id": "akedo",
-      "symbol": "AKE",
-      "name": "Akedo",
-      "direction": "long",
-      "entry": 0.034664,
-      "tp": 0.035177,
-      "sl": 0.034322,
-      "generated_at": 1791072325.6210124
-    },
-    {
-      "id": "binancecoin",
-      "symbol": "BNB",
-      "name": "BNB",
-      "direction": "long",
-      "entry": 787.142391,
-      "tp": 790.656144,
-      "sl": 784.799889,
-      "generated_at": 1791072325.621022
-    },
     {
       "id": "rain",
       "symbol": "RAIN",
       "name": "Rain",
       "direction": "long",
-      "entry": 0.01139,
-      "tp": 0.01162,
-      "sl": 0.011237,
-      "generated_at": 1791072325.621027
+      "entry": 0.012812,
+      "tp": 0.013181,
+      "sl": 0.012566,
+      "generated_at": 1791093110.657828
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 555.21669,
-      "tp": 558.225083,
-      "sl": 553.211095,
-      "generated_at": 1791072325.621032
+      "entry": 266.473574,
+      "tp": 272.542769,
+      "sl": 262.427444,
+      "generated_at": 1791093110.6578372
+    },
+    {
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
+      "direction": "long",
+      "entry": 0.006456,
+      "tp": 0.006594,
+      "sl": 0.006364,
+      "generated_at": 1791093110.657846
+    },
+    {
+      "id": "jupiter-exchange-solana",
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "direction": "long",
+      "entry": 0.331301,
+      "tp": 0.332608,
+      "sl": 0.33043,
+      "generated_at": 1791093110.6578515
+    },
+    {
+      "id": "aerodrome-finance",
+      "symbol": "AERO",
+      "name": "Aerodrome Finance",
+      "direction": "long",
+      "entry": 0.834292,
+      "tp": 0.843151,
+      "sl": 0.828386,
+      "generated_at": 1791093110.6578562
     }
   ]
 }
