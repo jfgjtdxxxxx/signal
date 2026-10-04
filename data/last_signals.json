@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791062266.7382495,
+  "generated_at": 1791072325.621668,
   "signals": [
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
       "direction": "long",
-      "entry": 267.004487,
-      "tp": 272.469863,
-      "sl": 263.360903,
-      "generated_at": 1791062266.737916
+      "entry": 0.006297,
+      "tp": 0.006466,
+      "sl": 0.006184,
+      "generated_at": 1791072325.6210043
     },
     {
-      "id": "aerodrome-finance",
-      "symbol": "AERO",
-      "name": "Aerodrome Finance",
+      "id": "akedo",
+      "symbol": "AKE",
+      "name": "Akedo",
       "direction": "long",
-      "entry": 0.829586,
-      "tp": 0.837852,
-      "sl": 0.824076,
-      "generated_at": 1791062266.7379253
+      "entry": 0.034664,
+      "tp": 0.035177,
+      "sl": 0.034322,
+      "generated_at": 1791072325.6210124
     },
     {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
       "direction": "long",
-      "entry": 0.138312,
-      "tp": 0.138865,
-      "sl": 0.137944,
-      "generated_at": 1791062266.7379348
+      "entry": 787.142391,
+      "tp": 790.656144,
+      "sl": 784.799889,
+      "generated_at": 1791072325.621022
+    },
+    {
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
+      "direction": "long",
+      "entry": 0.01139,
+      "tp": 0.01162,
+      "sl": 0.011237,
+      "generated_at": 1791072325.621027
     },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 558.603267,
-      "tp": 561.465264,
-      "sl": 556.695269,
-      "generated_at": 1791062266.7379408
-    },
-    {
-      "id": "bitcoin-cash",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "direction": "long",
-      "entry": 316.236876,
-      "tp": 317.179702,
-      "sl": 315.608326,
-      "generated_at": 1791062266.7379458
+      "entry": 555.21669,
+      "tp": 558.225083,
+      "sl": 553.211095,
+      "generated_at": 1791072325.621032
     }
   ]
 }
