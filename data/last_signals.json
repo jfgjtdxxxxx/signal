@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791159472.727833,
+  "generated_at": 1791178225.839824,
   "signals": [
+    {
+      "id": "whitebit",
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
+      "direction": "long",
+      "entry": 85.268152,
+      "tp": 85.556543,
+      "sl": 85.075892,
+      "generated_at": 1791178225.8394783
+    },
     {
       "id": "cardano",
       "symbol": "ADA",
       "name": "Cardano",
       "direction": "long",
-      "entry": 0.259066,
-      "tp": 0.261712,
-      "sl": 0.257302,
-      "generated_at": 1791159472.7274854
+      "entry": 0.267843,
+      "tp": 0.27129,
+      "sl": 0.265545,
+      "generated_at": 1791178225.839486
     },
     {
-      "id": "falcon-finance",
-      "symbol": "USDF",
-      "name": "Falcon USD",
+      "id": "stellar",
+      "symbol": "XLM",
+      "name": "Stellar",
       "direction": "long",
-      "entry": 0.996242,
-      "tp": 0.996337,
-      "sl": 0.996179,
-      "generated_at": 1791159472.7274935
+      "entry": 0.222727,
+      "tp": 0.224028,
+      "sl": 0.22186,
+      "generated_at": 1791178225.839494
     },
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "sui",
+      "symbol": "SUI",
+      "name": "Sui",
       "direction": "long",
-      "entry": 29.975028,
-      "tp": 30.394882,
-      "sl": 29.695125,
-      "generated_at": 1791159472.7275019
+      "entry": 1.215006,
+      "tp": 1.236952,
+      "sl": 1.200376,
+      "generated_at": 1791178225.839499
     },
     {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "direction": "long",
-      "entry": 11.161175,
-      "tp": 11.197591,
-      "sl": 11.136898,
-      "generated_at": 1791159472.7275066
-    },
-    {
-      "id": "kucoin-shares",
-      "symbol": "KCS",
-      "name": "KuCoin",
-      "direction": "long",
-      "entry": 7.455888,
-      "tp": 7.486014,
-      "sl": 7.435804,
-      "generated_at": 1791159472.7275114
+      "entry": 0.103248,
+      "tp": 0.103858,
+      "sl": 0.102842,
+      "generated_at": 1791178225.8395038
     }
   ]
 }
