@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791211185.7747154,
+  "generated_at": 1791238769.3754885,
   "signals": [
     {
-      "id": "cardano",
-      "symbol": "ADA",
-      "name": "Cardano",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 0.274371,
-      "tp": 0.277466,
-      "sl": 0.272307,
-      "generated_at": 1791211185.774207
+      "entry": 5.257365,
+      "tp": 5.319905,
+      "sl": 5.215672,
+      "generated_at": 1791238769.3750033
     },
     {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
+      "id": "internet-computer",
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "direction": "long",
-      "entry": 0.250597,
-      "tp": 0.255825,
-      "sl": 0.247112,
-      "generated_at": 1791211185.7742364
+      "entry": 3.570045,
+      "tp": 3.619615,
+      "sl": 3.536999,
+      "generated_at": 1791238769.37505
     },
     {
-      "id": "okb",
-      "symbol": "OKB",
-      "name": "OKB",
+      "id": "jupiter-exchange-solana",
+      "symbol": "JUP",
+      "name": "Jupiter",
       "direction": "long",
-      "entry": 127.200029,
-      "tp": 128.22028,
-      "sl": 126.519862,
-      "generated_at": 1791211185.774244
+      "entry": 0.348552,
+      "tp": 0.352084,
+      "sl": 0.346198,
+      "generated_at": 1791238769.3750608
     },
     {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
+      "id": "render-token",
+      "symbol": "RENDER",
+      "name": "Render",
       "direction": "long",
-      "entry": 4e-06,
-      "tp": 5e-06,
-      "sl": 4e-06,
-      "generated_at": 1791211185.7742476
+      "entry": 2.0792,
+      "tp": 2.103415,
+      "sl": 2.063057,
+      "generated_at": 1791238769.3750675
     },
     {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
+      "id": "filecoin",
+      "symbol": "FIL",
+      "name": "Filecoin",
       "direction": "long",
-      "entry": 3.809565,
-      "tp": 3.866454,
-      "sl": 3.771639,
-      "generated_at": 1791211185.774251
+      "entry": 1.195541,
+      "tp": 1.217886,
+      "sl": 1.180644,
+      "generated_at": 1791238769.375074
     }
   ]
 }
