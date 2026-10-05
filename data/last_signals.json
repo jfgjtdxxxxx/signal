@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791178225.839824,
+  "generated_at": 1791211185.7747154,
   "signals": [
-    {
-      "id": "whitebit",
-      "symbol": "WBT",
-      "name": "WhiteBIT Coin",
-      "direction": "long",
-      "entry": 85.268152,
-      "tp": 85.556543,
-      "sl": 85.075892,
-      "generated_at": 1791178225.8394783
-    },
     {
       "id": "cardano",
       "symbol": "ADA",
       "name": "Cardano",
       "direction": "long",
-      "entry": 0.267843,
-      "tp": 0.27129,
-      "sl": 0.265545,
-      "generated_at": 1791178225.839486
+      "entry": 0.274371,
+      "tp": 0.277466,
+      "sl": 0.272307,
+      "generated_at": 1791211185.774207
     },
     {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
+      "id": "ethena",
+      "symbol": "ENA",
+      "name": "Ethena",
       "direction": "long",
-      "entry": 0.222727,
-      "tp": 0.224028,
-      "sl": 0.22186,
-      "generated_at": 1791178225.839494
+      "entry": 0.250597,
+      "tp": 0.255825,
+      "sl": 0.247112,
+      "generated_at": 1791211185.7742364
     },
     {
-      "id": "sui",
-      "symbol": "SUI",
-      "name": "Sui",
+      "id": "okb",
+      "symbol": "OKB",
+      "name": "OKB",
       "direction": "long",
-      "entry": 1.215006,
-      "tp": 1.236952,
-      "sl": 1.200376,
-      "generated_at": 1791178225.839499
+      "entry": 127.200029,
+      "tp": 128.22028,
+      "sl": 126.519862,
+      "generated_at": 1791211185.774244
     },
     {
-      "id": "hedera-hashgraph",
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
       "direction": "long",
-      "entry": 0.103248,
-      "tp": 0.103858,
-      "sl": 0.102842,
-      "generated_at": 1791178225.8395038
+      "entry": 4e-06,
+      "tp": 5e-06,
+      "sl": 4e-06,
+      "generated_at": 1791211185.7742476
+    },
+    {
+      "id": "lighter",
+      "symbol": "LIT",
+      "name": "Lighter",
+      "direction": "long",
+      "entry": 3.809565,
+      "tp": 3.866454,
+      "sl": 3.771639,
+      "generated_at": 1791211185.774251
     }
   ]
 }
