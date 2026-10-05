@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791140313.2091823,
+  "generated_at": 1791159472.727833,
   "signals": [
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "cardano",
+      "symbol": "ADA",
+      "name": "Cardano",
       "direction": "long",
-      "entry": 0.127972,
-      "tp": 0.129122,
-      "sl": 0.127205,
-      "generated_at": 1791140313.2087624
+      "entry": 0.259066,
+      "tp": 0.261712,
+      "sl": 0.257302,
+      "generated_at": 1791159472.7274854
     },
     {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
+      "id": "falcon-finance",
+      "symbol": "USDF",
+      "name": "Falcon USD",
       "direction": "long",
-      "entry": 0.006562,
-      "tp": 0.006665,
-      "sl": 0.006494,
-      "generated_at": 1791140313.2087686
+      "entry": 0.996242,
+      "tp": 0.996337,
+      "sl": 0.996179,
+      "generated_at": 1791159472.7274935
+    },
+    {
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
+      "direction": "long",
+      "entry": 29.975028,
+      "tp": 30.394882,
+      "sl": 29.695125,
+      "generated_at": 1791159472.7275019
+    },
+    {
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
+      "direction": "long",
+      "entry": 11.161175,
+      "tp": 11.197591,
+      "sl": 11.136898,
+      "generated_at": 1791159472.7275066
     },
     {
       "id": "kucoin-shares",
       "symbol": "KCS",
       "name": "KuCoin",
       "direction": "long",
-      "entry": 7.431507,
-      "tp": 7.454665,
-      "sl": 7.416068,
-      "generated_at": 1791140313.2087746
-    },
-    {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "direction": "long",
-      "entry": 85306.880139,
-      "tp": 85411.28098,
-      "sl": 85237.279579,
-      "generated_at": 1791140313.2087781
-    },
-    {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "direction": "long",
-      "entry": 2700.815936,
-      "tp": 2705.123546,
-      "sl": 2697.944196,
-      "generated_at": 1791140313.2087812
+      "entry": 7.455888,
+      "tp": 7.486014,
+      "sl": 7.435804,
+      "generated_at": 1791159472.7275114
     }
   ]
 }
