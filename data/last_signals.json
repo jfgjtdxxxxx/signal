@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791238769.3754885,
+  "generated_at": 1791267637.908421,
   "signals": [
-    {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
-      "direction": "long",
-      "entry": 5.257365,
-      "tp": 5.319905,
-      "sl": 5.215672,
-      "generated_at": 1791238769.3750033
-    },
-    {
-      "id": "internet-computer",
-      "symbol": "ICP",
-      "name": "Internet Computer",
-      "direction": "long",
-      "entry": 3.570045,
-      "tp": 3.619615,
-      "sl": 3.536999,
-      "generated_at": 1791238769.37505
-    },
-    {
-      "id": "jupiter-exchange-solana",
-      "symbol": "JUP",
-      "name": "Jupiter",
-      "direction": "long",
-      "entry": 0.348552,
-      "tp": 0.352084,
-      "sl": 0.346198,
-      "generated_at": 1791238769.3750608
-    },
     {
       "id": "render-token",
       "symbol": "RENDER",
       "name": "Render",
       "direction": "long",
-      "entry": 2.0792,
-      "tp": 2.103415,
-      "sl": 2.063057,
-      "generated_at": 1791238769.3750675
+      "entry": 2.045823,
+      "tp": 2.073667,
+      "sl": 2.02726,
+      "generated_at": 1791267637.9080288
     },
     {
       "id": "filecoin",
       "symbol": "FIL",
       "name": "Filecoin",
       "direction": "long",
-      "entry": 1.195541,
-      "tp": 1.217886,
-      "sl": 1.180644,
-      "generated_at": 1791238769.375074
+      "entry": 1.177062,
+      "tp": 1.202855,
+      "sl": 1.159867,
+      "generated_at": 1791267637.908036
+    },
+    {
+      "id": "layerzero",
+      "symbol": "ZRO",
+      "name": "LayerZero",
+      "direction": "long",
+      "entry": 2.103441,
+      "tp": 2.150014,
+      "sl": 2.072393,
+      "generated_at": 1791267637.908043
+    },
+    {
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
+      "direction": "long",
+      "entry": 0.050184,
+      "tp": 0.051471,
+      "sl": 0.049325,
+      "generated_at": 1791267637.908047
+    },
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "direction": "long",
+      "entry": 1335.195653,
+      "tp": 1346.052349,
+      "sl": 1327.957856,
+      "generated_at": 1791267637.9080513
     }
   ]
 }
