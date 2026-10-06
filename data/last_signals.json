@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791293784.079667,
+  "generated_at": 1791318627.8356702,
   "signals": [
     {
-      "id": "render-token",
-      "symbol": "RENDER",
-      "name": "Render",
+      "id": "okb",
+      "symbol": "OKB",
+      "name": "OKB",
       "direction": "long",
-      "entry": 2.16687,
-      "tp": 2.198326,
-      "sl": 2.145899,
-      "generated_at": 1791293784.0793006
+      "entry": 136.499453,
+      "tp": 138.260008,
+      "sl": 135.325749,
+      "generated_at": 1791318627.835288
     },
     {
       "id": "layerzero",
       "symbol": "ZRO",
       "name": "LayerZero",
       "direction": "long",
-      "entry": 2.203023,
-      "tp": 2.243857,
-      "sl": 2.1758,
-      "generated_at": 1791293784.0793087
+      "entry": 2.273451,
+      "tp": 2.309295,
+      "sl": 2.249556,
+      "generated_at": 1791318627.8352969
     },
     {
-      "id": "cardano",
-      "symbol": "ADA",
-      "name": "Cardano",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 0.276129,
-      "tp": 0.279045,
-      "sl": 0.274184,
-      "generated_at": 1791293784.0793176
+      "entry": 0.127898,
+      "tp": 0.129202,
+      "sl": 0.127029,
+      "generated_at": 1791318627.8353055
     },
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "bittensor",
+      "symbol": "TAO",
+      "name": "Bittensor",
       "direction": "long",
-      "entry": 1367.633319,
-      "tp": 1378.527085,
-      "sl": 1360.370808,
-      "generated_at": 1791293784.0793228
+      "entry": 303.707979,
+      "tp": 305.40572,
+      "sl": 302.576151,
+      "generated_at": 1791318627.8353112
     },
     {
-      "id": "whitebit",
-      "symbol": "WBT",
-      "name": "WhiteBIT Coin",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 85.990887,
-      "tp": 86.21149,
-      "sl": 85.843819,
-      "generated_at": 1791293784.0793278
+      "entry": 4169.928906,
+      "tp": 4181.027556,
+      "sl": 4162.529806,
+      "generated_at": 1791318627.8353167
     }
   ]
 }
