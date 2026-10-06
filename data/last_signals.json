@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791267637.908421,
+  "generated_at": 1791293784.079667,
   "signals": [
     {
       "id": "render-token",
       "symbol": "RENDER",
       "name": "Render",
       "direction": "long",
-      "entry": 2.045823,
-      "tp": 2.073667,
-      "sl": 2.02726,
-      "generated_at": 1791267637.9080288
-    },
-    {
-      "id": "filecoin",
-      "symbol": "FIL",
-      "name": "Filecoin",
-      "direction": "long",
-      "entry": 1.177062,
-      "tp": 1.202855,
-      "sl": 1.159867,
-      "generated_at": 1791267637.908036
+      "entry": 2.16687,
+      "tp": 2.198326,
+      "sl": 2.145899,
+      "generated_at": 1791293784.0793006
     },
     {
       "id": "layerzero",
       "symbol": "ZRO",
       "name": "LayerZero",
       "direction": "long",
-      "entry": 2.103441,
-      "tp": 2.150014,
-      "sl": 2.072393,
-      "generated_at": 1791267637.908043
+      "entry": 2.203023,
+      "tp": 2.243857,
+      "sl": 2.1758,
+      "generated_at": 1791293784.0793087
     },
     {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
+      "id": "cardano",
+      "symbol": "ADA",
+      "name": "Cardano",
       "direction": "long",
-      "entry": 0.050184,
-      "tp": 0.051471,
-      "sl": 0.049325,
-      "generated_at": 1791267637.908047
+      "entry": 0.276129,
+      "tp": 0.279045,
+      "sl": 0.274184,
+      "generated_at": 1791293784.0793176
     },
     {
       "id": "zcash",
       "symbol": "ZEC",
       "name": "Zcash",
       "direction": "long",
-      "entry": 1335.195653,
-      "tp": 1346.052349,
-      "sl": 1327.957856,
-      "generated_at": 1791267637.9080513
+      "entry": 1367.633319,
+      "tp": 1378.527085,
+      "sl": 1360.370808,
+      "generated_at": 1791293784.0793228
+    },
+    {
+      "id": "whitebit",
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
+      "direction": "long",
+      "entry": 85.990887,
+      "tp": 86.21149,
+      "sl": 85.843819,
+      "generated_at": 1791293784.0793278
     }
   ]
 }
