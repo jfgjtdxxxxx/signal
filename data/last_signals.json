@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791368888.9220436,
+  "generated_at": 1791400141.0140438,
   "signals": [
     {
-      "id": "blockstack",
-      "symbol": "STX",
-      "name": "Stacks",
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
       "direction": "long",
-      "entry": 0.400586,
-      "tp": 0.407116,
-      "sl": 0.396233,
-      "generated_at": 1791368888.921585
+      "entry": 770.601473,
+      "tp": 773.754468,
+      "sl": 768.499476,
+      "generated_at": 1791400141.0136106
     },
     {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 0.006479,
-      "tp": 0.006581,
-      "sl": 0.006411,
-      "generated_at": 1791368888.921593
+      "entry": 0.335377,
+      "tp": 0.335874,
+      "sl": 0.335045,
+      "generated_at": 1791400141.0136175
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 557.500176,
-      "tp": 561.707616,
-      "sl": 554.695216,
-      "generated_at": 1791368888.9216
+      "entry": 1316.686076,
+      "tp": 1328.213011,
+      "sl": 1309.001452,
+      "generated_at": 1791400141.0136268
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 8.885894,
-      "tp": 8.900239,
-      "sl": 8.876331,
-      "generated_at": 1791368888.9216042
+      "entry": 252.87467,
+      "tp": 256.421505,
+      "sl": 250.510114,
+      "generated_at": 1791400141.0136316
     },
     {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
+      "id": "world-liberty-financial",
+      "symbol": "WLFI",
+      "name": "World Liberty Financial",
       "direction": "long",
-      "entry": 0.234551,
-      "tp": 0.238228,
-      "sl": 0.232099,
-      "generated_at": 1791368888.9216077
+      "entry": 0.054509,
+      "tp": 0.054805,
+      "sl": 0.054312,
+      "generated_at": 1791400141.013635
     }
   ]
 }
