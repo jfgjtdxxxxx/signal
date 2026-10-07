@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791318627.8356702,
+  "generated_at": 1791334536.1431534,
   "signals": [
     {
-      "id": "okb",
-      "symbol": "OKB",
-      "name": "OKB",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 136.499453,
-      "tp": 138.260008,
-      "sl": 135.325749,
-      "generated_at": 1791318627.835288
+      "entry": 0.14094,
+      "tp": 0.141555,
+      "sl": 0.140529,
+      "generated_at": 1791334536.142866
     },
     {
-      "id": "layerzero",
-      "symbol": "ZRO",
-      "name": "LayerZero",
+      "id": "avalanche-2",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "direction": "long",
-      "entry": 2.273451,
-      "tp": 2.309295,
-      "sl": 2.249556,
-      "generated_at": 1791318627.8352969
+      "entry": 11.598484,
+      "tp": 11.702202,
+      "sl": 11.529339,
+      "generated_at": 1791334536.1428738
     },
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 0.127898,
-      "tp": 0.129202,
-      "sl": 0.127029,
-      "generated_at": 1791318627.8353055
+      "entry": 265.146408,
+      "tp": 267.814996,
+      "sl": 263.367349,
+      "generated_at": 1791334536.1428828
     },
     {
       "id": "bittensor",
       "symbol": "TAO",
       "name": "Bittensor",
       "direction": "long",
-      "entry": 303.707979,
-      "tp": 305.40572,
-      "sl": 302.576151,
-      "generated_at": 1791318627.8353112
+      "entry": 305.939811,
+      "tp": 307.991352,
+      "sl": 304.572117,
+      "generated_at": 1791334536.1428878
     },
     {
       "id": "tether-gold",
       "symbol": "XAUT",
       "name": "Tether Gold",
       "direction": "long",
-      "entry": 4169.928906,
-      "tp": 4181.027556,
-      "sl": 4162.529806,
-      "generated_at": 1791318627.8353167
+      "entry": 4161.702269,
+      "tp": 4170.553134,
+      "sl": 4155.801692,
+      "generated_at": 1791334536.1428928
     }
   ]
 }
