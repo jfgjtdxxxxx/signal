@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791400141.0140438,
+  "generated_at": 1791422156.6731405,
   "signals": [
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "direction": "long",
+      "entry": 2575.319606,
+      "tp": 2585.590428,
+      "sl": 2568.472392,
+      "generated_at": 1791422156.6728156
+    },
     {
       "id": "binancecoin",
       "symbol": "BNB",
       "name": "BNB",
       "direction": "long",
-      "entry": 770.601473,
-      "tp": 773.754468,
-      "sl": 768.499476,
-      "generated_at": 1791400141.0136106
+      "entry": 773.471433,
+      "tp": 775.742588,
+      "sl": 771.957329,
+      "generated_at": 1791422156.6728241
     },
     {
       "id": "tron",
       "symbol": "TRX",
       "name": "TRON",
       "direction": "long",
-      "entry": 0.335377,
-      "tp": 0.335874,
-      "sl": 0.335045,
-      "generated_at": 1791400141.0136175
+      "entry": 0.335727,
+      "tp": 0.33621,
+      "sl": 0.335405,
+      "generated_at": 1791422156.6728332
     },
     {
       "id": "zcash",
       "symbol": "ZEC",
       "name": "Zcash",
       "direction": "long",
-      "entry": 1316.686076,
-      "tp": 1328.213011,
-      "sl": 1309.001452,
-      "generated_at": 1791400141.0136268
+      "entry": 1324.901727,
+      "tp": 1338.901638,
+      "sl": 1315.568453,
+      "generated_at": 1791422156.6728392
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
       "direction": "long",
-      "entry": 252.87467,
-      "tp": 256.421505,
-      "sl": 250.510114,
-      "generated_at": 1791400141.0136316
-    },
-    {
-      "id": "world-liberty-financial",
-      "symbol": "WLFI",
-      "name": "World Liberty Financial",
-      "direction": "long",
-      "entry": 0.054509,
-      "tp": 0.054805,
-      "sl": 0.054312,
-      "generated_at": 1791400141.013635
+      "entry": 88.667378,
+      "tp": 89.346839,
+      "sl": 88.214404,
+      "generated_at": 1791422156.672844
     }
   ]
 }
