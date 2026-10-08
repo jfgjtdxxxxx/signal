@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791422156.6731405,
+  "generated_at": 1791455813.627185,
   "signals": [
-    {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "direction": "long",
-      "entry": 2575.319606,
-      "tp": 2585.590428,
-      "sl": 2568.472392,
-      "generated_at": 1791422156.6728156
-    },
-    {
-      "id": "binancecoin",
-      "symbol": "BNB",
-      "name": "BNB",
-      "direction": "long",
-      "entry": 773.471433,
-      "tp": 775.742588,
-      "sl": 771.957329,
-      "generated_at": 1791422156.6728241
-    },
     {
       "id": "tron",
       "symbol": "TRX",
       "name": "TRON",
       "direction": "long",
-      "entry": 0.335727,
-      "tp": 0.33621,
-      "sl": 0.335405,
-      "generated_at": 1791422156.6728332
+      "entry": 0.335949,
+      "tp": 0.336429,
+      "sl": 0.335628,
+      "generated_at": 1791455813.6267514
     },
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 1324.901727,
-      "tp": 1338.901638,
-      "sl": 1315.568453,
-      "generated_at": 1791422156.6728392
+      "entry": 8.897319,
+      "tp": 8.901335,
+      "sl": 8.894641,
+      "generated_at": 1791455813.6267583
     },
     {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
+      "id": "algorand",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "direction": "long",
-      "entry": 88.667378,
-      "tp": 89.346839,
-      "sl": 88.214404,
-      "generated_at": 1791422156.672844
+      "entry": 0.137955,
+      "tp": 0.140811,
+      "sl": 0.136051,
+      "generated_at": 1791455813.6267657
+    },
+    {
+      "id": "jupiter-exchange-solana",
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "direction": "long",
+      "entry": 0.376716,
+      "tp": 0.383361,
+      "sl": 0.372286,
+      "generated_at": 1791455813.6267693
+    },
+    {
+      "id": "cosmos",
+      "symbol": "ATOM",
+      "name": "Cosmos Hub",
+      "direction": "long",
+      "entry": 1.800686,
+      "tp": 1.825391,
+      "sl": 1.784216,
+      "generated_at": 1791455813.6267726
     }
   ]
 }
