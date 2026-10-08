@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791455813.627185,
+  "generated_at": 1791486464.3332155,
   "signals": [
     {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
+      "id": "lighter",
+      "symbol": "LIT",
+      "name": "Lighter",
       "direction": "long",
-      "entry": 0.335949,
-      "tp": 0.336429,
-      "sl": 0.335628,
-      "generated_at": 1791455813.6267514
+      "entry": 3.542757,
+      "tp": 3.607266,
+      "sl": 3.49975,
+      "generated_at": 1791486464.3328333
+    },
+    {
+      "id": "aerodrome-finance",
+      "symbol": "AERO",
+      "name": "Aerodrome Finance",
+      "direction": "long",
+      "entry": 0.818678,
+      "tp": 0.837622,
+      "sl": 0.806048,
+      "generated_at": 1791486464.3328426
+    },
+    {
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
+      "direction": "long",
+      "entry": 0.138467,
+      "tp": 0.139437,
+      "sl": 0.13782,
+      "generated_at": 1791486464.3328516
     },
     {
       "id": "leo-token",
       "symbol": "LEO",
       "name": "LEO Token",
       "direction": "long",
-      "entry": 8.897319,
-      "tp": 8.901335,
-      "sl": 8.894641,
-      "generated_at": 1791455813.6267583
+      "entry": 8.903735,
+      "tp": 8.920271,
+      "sl": 8.89271,
+      "generated_at": 1791486464.3328578
     },
     {
-      "id": "algorand",
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 0.137955,
-      "tp": 0.140811,
-      "sl": 0.136051,
-      "generated_at": 1791455813.6267657
-    },
-    {
-      "id": "jupiter-exchange-solana",
-      "symbol": "JUP",
-      "name": "Jupiter",
-      "direction": "long",
-      "entry": 0.376716,
-      "tp": 0.383361,
-      "sl": 0.372286,
-      "generated_at": 1791455813.6267693
-    },
-    {
-      "id": "cosmos",
-      "symbol": "ATOM",
-      "name": "Cosmos Hub",
-      "direction": "long",
-      "entry": 1.800686,
-      "tp": 1.825391,
-      "sl": 1.784216,
-      "generated_at": 1791455813.6267726
+      "entry": 4121.541214,
+      "tp": 4130.987731,
+      "sl": 4115.243536,
+      "generated_at": 1791486464.3328636
     }
   ]
 }
