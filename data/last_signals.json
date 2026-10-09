@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791509356.2462025,
+  "generated_at": 1791542575.1748567,
   "signals": [
+    {
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
+      "direction": "long",
+      "entry": 1.000018,
+      "tp": 1.000136,
+      "sl": 0.99994,
+      "generated_at": 1791542575.1744404
+    },
     {
       "id": "tether-gold",
       "symbol": "XAUT",
       "name": "Tether Gold",
       "direction": "long",
-      "entry": 4146.92971,
-      "tp": 4156.176795,
-      "sl": 4140.764987,
-      "generated_at": 1791509356.2458596
+      "entry": 4181.09709,
+      "tp": 4188.654713,
+      "sl": 4176.058674,
+      "generated_at": 1791542575.1744485
+    },
+    {
+      "id": "ondo-finance",
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "direction": "long",
+      "entry": 0.487143,
+      "tp": 0.492629,
+      "sl": 0.483486,
+      "generated_at": 1791542575.1744554
     },
     {
       "id": "pax-gold",
       "symbol": "PAXG",
       "name": "PAX Gold",
       "direction": "long",
-      "entry": 4156.158664,
-      "tp": 4165.827939,
-      "sl": 4149.71248,
-      "generated_at": 1791509356.2458692
+      "entry": 4180.256022,
+      "tp": 4188.054769,
+      "sl": 4175.056857,
+      "generated_at": 1791542575.1744595
     },
     {
-      "id": "cosmos",
-      "symbol": "ATOM",
-      "name": "Cosmos Hub",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 1.809895,
-      "tp": 1.846575,
-      "sl": 1.785441,
-      "generated_at": 1791509356.2458782
-    },
-    {
-      "id": "aerodrome-finance",
-      "symbol": "AERO",
-      "name": "Aerodrome Finance",
-      "direction": "long",
-      "entry": 0.826744,
-      "tp": 0.848042,
-      "sl": 0.812545,
-      "generated_at": 1791509356.2458842
-    },
-    {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "direction": "long",
-      "entry": 81727.372693,
-      "tp": 82235.923197,
-      "sl": 81388.339024,
-      "generated_at": 1791509356.2458894
+      "entry": 0.142746,
+      "tp": 0.143364,
+      "sl": 0.142334,
+      "generated_at": 1791542575.174463
     }
   ]
 }
