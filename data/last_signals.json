@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791626603.0337248,
+  "generated_at": 1791653843.4216673,
   "signals": [
+    {
+      "id": "sui",
+      "symbol": "SUI",
+      "name": "Sui",
+      "direction": "long",
+      "entry": 1.118605,
+      "tp": 1.128082,
+      "sl": 1.112287,
+      "generated_at": 1791653843.4213262
+    },
     {
       "id": "worldcoin-wld",
       "symbol": "WLD",
       "name": "Worldcoin",
       "direction": "long",
-      "entry": 0.544901,
-      "tp": 0.554821,
-      "sl": 0.538287,
-      "generated_at": 1791626603.0332773
-    },
-    {
-      "id": "world-liberty-financial",
-      "symbol": "WLFI",
-      "name": "World Liberty Financial",
-      "direction": "long",
-      "entry": 0.057126,
-      "tp": 0.057594,
-      "sl": 0.056814,
-      "generated_at": 1791626603.0332835
-    },
-    {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
-      "direction": "long",
-      "entry": 0.048828,
-      "tp": 0.049905,
-      "sl": 0.048111,
-      "generated_at": 1791626603.0332897
+      "entry": 0.556718,
+      "tp": 0.566819,
+      "sl": 0.549985,
+      "generated_at": 1791653843.4213345
     },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 82846.015976,
-      "tp": 82961.680361,
-      "sl": 82768.906386,
-      "generated_at": 1791626603.033294
+      "entry": 82985.85485,
+      "tp": 83075.581113,
+      "sl": 82926.037341,
+      "generated_at": 1791653843.4213443
     },
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 1.407871,
-      "tp": 1.412388,
-      "sl": 1.40486,
-      "generated_at": 1791626603.0332973
+      "entry": 109.984776,
+      "tp": 110.280583,
+      "sl": 109.787572,
+      "generated_at": 1791653843.4213493
+    },
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "direction": "long",
+      "entry": 1229.276618,
+      "tp": 1234.563331,
+      "sl": 1225.752143,
+      "generated_at": 1791653843.4213545
     }
   ]
 }
