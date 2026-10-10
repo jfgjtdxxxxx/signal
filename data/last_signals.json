@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791653843.4216673,
+  "generated_at": 1791669079.6514082,
   "signals": [
     {
-      "id": "sui",
-      "symbol": "SUI",
-      "name": "Sui",
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
       "direction": "long",
-      "entry": 1.118605,
-      "tp": 1.128082,
-      "sl": 1.112287,
-      "generated_at": 1791653843.4213262
+      "entry": 0.011246,
+      "tp": 0.011521,
+      "sl": 0.011063,
+      "generated_at": 1791669079.651065
     },
     {
-      "id": "worldcoin-wld",
-      "symbol": "WLD",
-      "name": "Worldcoin",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 0.556718,
-      "tp": 0.566819,
-      "sl": 0.549985,
-      "generated_at": 1791653843.4213345
+      "entry": 23.213693,
+      "tp": 23.383851,
+      "sl": 23.100254,
+      "generated_at": 1791669079.6510725
+    },
+    {
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
+      "direction": "long",
+      "entry": 0.050982,
+      "tp": 0.051674,
+      "sl": 0.050521,
+      "generated_at": 1791669079.65108
     },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 82985.85485,
-      "tp": 83075.581113,
-      "sl": 82926.037341,
-      "generated_at": 1791653843.4213443
+      "entry": 82982.549226,
+      "tp": 83054.798624,
+      "sl": 82934.382961,
+      "generated_at": 1791669079.6510847
     },
     {
       "id": "solana",
       "symbol": "SOL",
       "name": "Solana",
       "direction": "long",
-      "entry": 109.984776,
-      "tp": 110.280583,
-      "sl": 109.787572,
-      "generated_at": 1791653843.4213493
-    },
-    {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "direction": "long",
-      "entry": 1229.276618,
-      "tp": 1234.563331,
-      "sl": 1225.752143,
-      "generated_at": 1791653843.4213545
+      "entry": 110.192178,
+      "tp": 110.474186,
+      "sl": 110.004173,
+      "generated_at": 1791669079.6510885
     }
   ]
 }
