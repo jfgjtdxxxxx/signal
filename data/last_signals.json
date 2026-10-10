@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791571101.8297884,
+  "generated_at": 1791594185.7197337,
   "signals": [
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "polkadot",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "direction": "long",
-      "entry": 243.727079,
-      "tp": 247.99172,
-      "sl": 240.883985,
-      "generated_at": 1791571101.8293526
-    },
-    {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
-      "direction": "long",
-      "entry": 0.121757,
-      "tp": 0.123601,
-      "sl": 0.120528,
-      "generated_at": 1791571101.8293595
-    },
-    {
-      "id": "the-open-network",
-      "symbol": "GRAM",
-      "name": "Gram (prev. Toncoin)",
-      "direction": "long",
-      "entry": 1.466985,
-      "tp": 1.486763,
-      "sl": 1.4538,
-      "generated_at": 1791571101.8293662
-    },
-    {
-      "id": "shiba-inu",
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
-      "direction": "long",
-      "entry": 5e-06,
-      "tp": 5e-06,
-      "sl": 5e-06,
-      "generated_at": 1791571101.82937
+      "entry": 1.22976,
+      "tp": 1.243841,
+      "sl": 1.220373,
+      "generated_at": 1791594185.719364
     },
     {
       "id": "jupiter-exchange-solana",
       "symbol": "JUP",
       "name": "Jupiter",
       "direction": "long",
-      "entry": 0.374138,
-      "tp": 0.381943,
-      "sl": 0.368934,
-      "generated_at": 1791571101.8293738
+      "entry": 0.378687,
+      "tp": 0.385782,
+      "sl": 0.373957,
+      "generated_at": 1791594185.7193725
+    },
+    {
+      "id": "arbitrum",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "direction": "long",
+      "entry": 0.184932,
+      "tp": 0.186631,
+      "sl": 0.183799,
+      "generated_at": 1791594185.719382
+    },
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "direction": "long",
+      "entry": 4.911141,
+      "tp": 4.98548,
+      "sl": 4.861581,
+      "generated_at": 1791594185.7193875
+    },
+    {
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
+      "direction": "long",
+      "entry": 248.25512,
+      "tp": 251.374973,
+      "sl": 246.175218,
+      "generated_at": 1791594185.7193928
     }
   ]
 }
