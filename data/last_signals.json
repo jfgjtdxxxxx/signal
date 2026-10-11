@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791669079.6514082,
+  "generated_at": 1791697466.3983722,
   "signals": [
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "arbitrum",
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "direction": "long",
-      "entry": 0.011246,
-      "tp": 0.011521,
-      "sl": 0.011063,
-      "generated_at": 1791669079.651065
+      "entry": 0.194807,
+      "tp": 0.197227,
+      "sl": 0.193194,
+      "generated_at": 1791697466.3978777
     },
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
       "direction": "long",
-      "entry": 23.213693,
-      "tp": 23.383851,
-      "sl": 23.100254,
-      "generated_at": 1791669079.6510725
+      "entry": 10.859234,
+      "tp": 10.890139,
+      "sl": 10.838631,
+      "generated_at": 1791697466.3978887
     },
     {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 0.050982,
-      "tp": 0.051674,
-      "sl": 0.050521,
-      "generated_at": 1791669079.65108
+      "entry": 1.148777,
+      "tp": 1.149455,
+      "sl": 1.148325,
+      "generated_at": 1791697466.3978996
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "blockchain-capital",
+      "symbol": "BCAP",
+      "name": "Blockchain Capital",
       "direction": "long",
-      "entry": 82982.549226,
-      "tp": 83054.798624,
-      "sl": 82934.382961,
-      "generated_at": 1791669079.6510847
+      "entry": 105.69,
+      "tp": 105.69,
+      "sl": 105.69,
+      "generated_at": 1791697466.3979077
     },
     {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
+      "id": "nexo",
+      "symbol": "NEXO",
+      "name": "NEXO",
       "direction": "long",
-      "entry": 110.192178,
-      "tp": 110.474186,
-      "sl": 110.004173,
-      "generated_at": 1791669079.6510885
+      "entry": 0.847096,
+      "tp": 0.851204,
+      "sl": 0.844358,
+      "generated_at": 1791697466.397915
     }
   ]
 }
