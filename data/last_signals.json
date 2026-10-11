@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791697466.3983722,
+  "generated_at": 1791723355.9952688,
   "signals": [
     {
       "id": "arbitrum",
       "symbol": "ARB",
       "name": "Arbitrum",
       "direction": "long",
-      "entry": 0.194807,
-      "tp": 0.197227,
-      "sl": 0.193194,
-      "generated_at": 1791697466.3978777
+      "entry": 0.198146,
+      "tp": 0.202191,
+      "sl": 0.195449,
+      "generated_at": 1791723355.9948974
     },
     {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
+      "id": "layerzero",
+      "symbol": "ZRO",
+      "name": "LayerZero",
       "direction": "long",
-      "entry": 10.859234,
-      "tp": 10.890139,
-      "sl": 10.838631,
-      "generated_at": 1791697466.3978887
+      "entry": 2.044501,
+      "tp": 2.078866,
+      "sl": 2.021591,
+      "generated_at": 1791723355.9949057
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 1.148777,
-      "tp": 1.149455,
-      "sl": 1.148325,
-      "generated_at": 1791697466.3978996
+      "entry": 1234.609958,
+      "tp": 1242.948971,
+      "sl": 1229.050616,
+      "generated_at": 1791723355.994914
     },
     {
-      "id": "blockchain-capital",
-      "symbol": "BCAP",
-      "name": "Blockchain Capital",
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
       "direction": "long",
-      "entry": 105.69,
-      "tp": 105.69,
-      "sl": 105.69,
-      "generated_at": 1791697466.3979077
+      "entry": 0.077012,
+      "tp": 0.077476,
+      "sl": 0.076703,
+      "generated_at": 1791723355.9949186
     },
     {
-      "id": "nexo",
-      "symbol": "NEXO",
-      "name": "NEXO",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 0.847096,
-      "tp": 0.851204,
-      "sl": 0.844358,
-      "generated_at": 1791697466.397915
+      "entry": 532.641712,
+      "tp": 535.179457,
+      "sl": 530.949883,
+      "generated_at": 1791723355.994923
     }
   ]
 }
