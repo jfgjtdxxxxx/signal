@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791723355.9952688,
+  "generated_at": 1791748199.016201,
   "signals": [
     {
-      "id": "arbitrum",
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 0.198146,
-      "tp": 0.202191,
-      "sl": 0.195449,
-      "generated_at": 1791723355.9948974
+      "entry": 5.684466,
+      "tp": 5.77957,
+      "sl": 5.621063,
+      "generated_at": 1791748199.0158448
     },
     {
-      "id": "layerzero",
-      "symbol": "ZRO",
-      "name": "LayerZero",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 2.044501,
-      "tp": 2.078866,
-      "sl": 2.021591,
-      "generated_at": 1791723355.9949057
+      "entry": 0.126714,
+      "tp": 0.128247,
+      "sl": 0.125692,
+      "generated_at": 1791748199.0158527
     },
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "ethena",
+      "symbol": "ENA",
+      "name": "Ethena",
       "direction": "long",
-      "entry": 1234.609958,
-      "tp": 1242.948971,
-      "sl": 1229.050616,
-      "generated_at": 1791723355.994914
+      "entry": 0.237819,
+      "tp": 0.241586,
+      "sl": 0.235308,
+      "generated_at": 1791748199.0158615
     },
     {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
+      "id": "pax-gold",
+      "symbol": "PAXG",
+      "name": "PAX Gold",
       "direction": "long",
-      "entry": 0.077012,
-      "tp": 0.077476,
-      "sl": 0.076703,
-      "generated_at": 1791723355.9949186
+      "entry": 4190.571424,
+      "tp": 4193.276807,
+      "sl": 4188.767835,
+      "generated_at": 1791748199.015868
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "htx-dao",
+      "symbol": "HTX",
+      "name": "HTX DAO",
       "direction": "long",
-      "entry": 532.641712,
-      "tp": 535.179457,
-      "sl": 530.949883,
-      "generated_at": 1791723355.994923
+      "entry": 2e-06,
+      "tp": 2e-06,
+      "sl": 2e-06,
+      "generated_at": 1791748199.0158725
     }
   ]
 }
