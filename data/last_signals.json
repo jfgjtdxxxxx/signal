@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791766016.6273096,
+  "generated_at": 1791802618.8428583,
   "signals": [
     {
       "id": "zcash",
       "symbol": "ZEC",
       "name": "Zcash",
       "direction": "long",
-      "entry": 1281.266655,
-      "tp": 1295.30789,
-      "sl": 1271.905832,
-      "generated_at": 1791766016.626899
+      "entry": 1298.997168,
+      "tp": 1317.626858,
+      "sl": 1286.577375,
+      "generated_at": 1791802618.8422234
     },
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "polygon-ecosystem-token",
+      "symbol": "POL",
+      "name": "POL (ex-MATIC)",
       "direction": "long",
-      "entry": 0.12614,
-      "tp": 0.127511,
-      "sl": 0.125225,
-      "generated_at": 1791766016.6269062
+      "entry": 0.10654,
+      "tp": 0.107595,
+      "sl": 0.105837,
+      "generated_at": 1791802618.8422308
     },
     {
-      "id": "avalanche-2",
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "id": "render-token",
+      "symbol": "RENDER",
+      "name": "Render",
       "direction": "long",
-      "entry": 10.9154,
-      "tp": 11.017663,
-      "sl": 10.847224,
-      "generated_at": 1791766016.6269135
+      "entry": 2.129623,
+      "tp": 2.153325,
+      "sl": 2.113822,
+      "generated_at": 1791802618.8422384
     },
     {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
+      "id": "layerzero",
+      "symbol": "ZRO",
+      "name": "LayerZero",
       "direction": "long",
-      "entry": 0.24107,
-      "tp": 0.245839,
-      "sl": 0.23789,
-      "generated_at": 1791766016.6269178
+      "entry": 2.427036,
+      "tp": 2.476327,
+      "sl": 2.394174,
+      "generated_at": 1791802618.8422434
     },
     {
-      "id": "internet-computer",
-      "symbol": "ICP",
-      "name": "Internet Computer",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 3.489333,
-      "tp": 3.542628,
-      "sl": 3.453803,
-      "generated_at": 1791766016.6269214
+      "entry": 0.3314,
+      "tp": 0.331773,
+      "sl": 0.331151,
+      "generated_at": 1791802618.842248
     }
   ]
 }
