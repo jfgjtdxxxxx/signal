@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791748199.016201,
+  "generated_at": 1791766016.6273096,
   "signals": [
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 5.684466,
-      "tp": 5.77957,
-      "sl": 5.621063,
-      "generated_at": 1791748199.0158448
+      "entry": 1281.266655,
+      "tp": 1295.30789,
+      "sl": 1271.905832,
+      "generated_at": 1791766016.626899
     },
     {
       "id": "canton-network",
       "symbol": "CC",
       "name": "Canton",
       "direction": "long",
-      "entry": 0.126714,
-      "tp": 0.128247,
-      "sl": 0.125692,
-      "generated_at": 1791748199.0158527
+      "entry": 0.12614,
+      "tp": 0.127511,
+      "sl": 0.125225,
+      "generated_at": 1791766016.6269062
+    },
+    {
+      "id": "avalanche-2",
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "direction": "long",
+      "entry": 10.9154,
+      "tp": 11.017663,
+      "sl": 10.847224,
+      "generated_at": 1791766016.6269135
     },
     {
       "id": "ethena",
       "symbol": "ENA",
       "name": "Ethena",
       "direction": "long",
-      "entry": 0.237819,
-      "tp": 0.241586,
-      "sl": 0.235308,
-      "generated_at": 1791748199.0158615
+      "entry": 0.24107,
+      "tp": 0.245839,
+      "sl": 0.23789,
+      "generated_at": 1791766016.6269178
     },
     {
-      "id": "pax-gold",
-      "symbol": "PAXG",
-      "name": "PAX Gold",
+      "id": "internet-computer",
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "direction": "long",
-      "entry": 4190.571424,
-      "tp": 4193.276807,
-      "sl": 4188.767835,
-      "generated_at": 1791748199.015868
-    },
-    {
-      "id": "htx-dao",
-      "symbol": "HTX",
-      "name": "HTX DAO",
-      "direction": "long",
-      "entry": 2e-06,
-      "tp": 2e-06,
-      "sl": 2e-06,
-      "generated_at": 1791748199.0158725
+      "entry": 3.489333,
+      "tp": 3.542628,
+      "sl": 3.453803,
+      "generated_at": 1791766016.6269214
     }
   ]
 }
