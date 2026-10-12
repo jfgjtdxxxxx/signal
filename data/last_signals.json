@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791802618.8428583,
+  "generated_at": 1791840715.2536523,
   "signals": [
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1298.997168,
-      "tp": 1317.626858,
-      "sl": 1286.577375,
-      "generated_at": 1791802618.8422234
+      "entry": 1.149266,
+      "tp": 1.150023,
+      "sl": 1.148761,
+      "generated_at": 1791840715.2531998
     },
     {
-      "id": "polygon-ecosystem-token",
-      "symbol": "POL",
-      "name": "POL (ex-MATIC)",
+      "id": "blockstack",
+      "symbol": "STX",
+      "name": "Stacks",
       "direction": "long",
-      "entry": 0.10654,
-      "tp": 0.107595,
-      "sl": 0.105837,
-      "generated_at": 1791802618.8422308
+      "entry": 0.450116,
+      "tp": 0.458608,
+      "sl": 0.444455,
+      "generated_at": 1791840715.2532067
+    },
+    {
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
+      "direction": "long",
+      "entry": 0.138764,
+      "tp": 0.139821,
+      "sl": 0.13806,
+      "generated_at": 1791840715.253215
     },
     {
       "id": "render-token",
       "symbol": "RENDER",
       "name": "Render",
       "direction": "long",
-      "entry": 2.129623,
-      "tp": 2.153325,
-      "sl": 2.113822,
-      "generated_at": 1791802618.8422384
+      "entry": 2.118824,
+      "tp": 2.160997,
+      "sl": 2.090708,
+      "generated_at": 1791840715.2532191
     },
     {
-      "id": "layerzero",
-      "symbol": "ZRO",
-      "name": "LayerZero",
+      "id": "figure-heloc",
+      "symbol": "FIGR_HELOC",
+      "name": "Figure Heloc",
       "direction": "long",
-      "entry": 2.427036,
-      "tp": 2.476327,
-      "sl": 2.394174,
-      "generated_at": 1791802618.8422434
-    },
-    {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
-      "direction": "long",
-      "entry": 0.3314,
-      "tp": 0.331773,
-      "sl": 0.331151,
-      "generated_at": 1791802618.842248
+      "entry": 1.063949,
+      "tp": 1.077641,
+      "sl": 1.054822,
+      "generated_at": 1791840715.253223
     }
   ]
 }
