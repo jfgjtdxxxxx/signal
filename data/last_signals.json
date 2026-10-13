@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791911670.246897,
+  "generated_at": 1791932157.765037,
   "signals": [
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "injective-protocol",
+      "symbol": "INJ",
+      "name": "Injective",
       "direction": "long",
-      "entry": 0.129814,
-      "tp": 0.131623,
-      "sl": 0.128608,
-      "generated_at": 1791911670.2464736
+      "entry": 8.119692,
+      "tp": 8.206422,
+      "sl": 8.061871,
+      "generated_at": 1791932157.764684
     },
     {
-      "id": "kucoin-shares",
-      "symbol": "KCS",
-      "name": "KuCoin",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 7.923199,
-      "tp": 7.968897,
-      "sl": 7.892733,
-      "generated_at": 1791911670.246482
-    },
-    {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
-      "direction": "long",
-      "entry": 1.149779,
-      "tp": 1.150498,
-      "sl": 1.1493,
-      "generated_at": 1791911670.2464917
-    },
-    {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
-      "direction": "long",
-      "entry": 1.00039,
-      "tp": 1.000471,
-      "sl": 1.000336,
-      "generated_at": 1791911670.2464967
+      "entry": 83412.429275,
+      "tp": 83588.495282,
+      "sl": 83295.051937,
+      "generated_at": 1791932157.7646928
     },
     {
       "id": "blockstack",
       "symbol": "STX",
       "name": "Stacks",
       "direction": "long",
-      "entry": 0.430677,
-      "tp": 0.439385,
-      "sl": 0.424872,
-      "generated_at": 1791911670.2465017
+      "entry": 0.431375,
+      "tp": 0.440195,
+      "sl": 0.425495,
+      "generated_at": 1791932157.7647016
+    },
+    {
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
+      "direction": "long",
+      "entry": 544.237218,
+      "tp": 548.40393,
+      "sl": 541.45941,
+      "generated_at": 1791932157.764707
+    },
+    {
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
+      "direction": "long",
+      "entry": 8.905585,
+      "tp": 8.918175,
+      "sl": 8.897191,
+      "generated_at": 1791932157.7647116
     }
   ]
 }
