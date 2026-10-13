@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791840715.2536523,
+  "generated_at": 1791874425.3811288,
   "signals": [
-    {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
-      "direction": "long",
-      "entry": 1.149266,
-      "tp": 1.150023,
-      "sl": 1.148761,
-      "generated_at": 1791840715.2531998
-    },
     {
       "id": "blockstack",
       "symbol": "STX",
       "name": "Stacks",
       "direction": "long",
-      "entry": 0.450116,
-      "tp": 0.458608,
-      "sl": 0.444455,
-      "generated_at": 1791840715.2532067
-    },
-    {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
-      "direction": "long",
-      "entry": 0.138764,
-      "tp": 0.139821,
-      "sl": 0.13806,
-      "generated_at": 1791840715.253215
+      "entry": 0.42811,
+      "tp": 0.442854,
+      "sl": 0.418281,
+      "generated_at": 1791874425.380697
     },
     {
       "id": "render-token",
       "symbol": "RENDER",
       "name": "Render",
       "direction": "long",
-      "entry": 2.118824,
-      "tp": 2.160997,
-      "sl": 2.090708,
-      "generated_at": 1791840715.2532191
+      "entry": 2.169107,
+      "tp": 2.206813,
+      "sl": 2.14397,
+      "generated_at": 1791874425.380704
     },
     {
-      "id": "figure-heloc",
-      "symbol": "FIGR_HELOC",
-      "name": "Figure Heloc",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1.063949,
-      "tp": 1.077641,
-      "sl": 1.054822,
-      "generated_at": 1791840715.253223
+      "entry": 1.149538,
+      "tp": 1.150764,
+      "sl": 1.148721,
+      "generated_at": 1791874425.380711
+    },
+    {
+      "id": "bitget-token",
+      "symbol": "BGB",
+      "name": "Bitget Token",
+      "direction": "long",
+      "entry": 1.959892,
+      "tp": 1.967274,
+      "sl": 1.95497,
+      "generated_at": 1791874425.3807156
+    },
+    {
+      "id": "bfusd",
+      "symbol": "BFUSD",
+      "name": "BFUSD",
+      "direction": "long",
+      "entry": 0.998377,
+      "tp": 0.998467,
+      "sl": 0.998317,
+      "generated_at": 1791874425.3807197
     }
   ]
 }
