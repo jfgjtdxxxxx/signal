@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791874425.3811288,
+  "generated_at": 1791911670.246897,
   "signals": [
     {
-      "id": "blockstack",
-      "symbol": "STX",
-      "name": "Stacks",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 0.42811,
-      "tp": 0.442854,
-      "sl": 0.418281,
-      "generated_at": 1791874425.380697
+      "entry": 0.129814,
+      "tp": 0.131623,
+      "sl": 0.128608,
+      "generated_at": 1791911670.2464736
     },
     {
-      "id": "render-token",
-      "symbol": "RENDER",
-      "name": "Render",
+      "id": "kucoin-shares",
+      "symbol": "KCS",
+      "name": "KuCoin",
       "direction": "long",
-      "entry": 2.169107,
-      "tp": 2.206813,
-      "sl": 2.14397,
-      "generated_at": 1791874425.380704
+      "entry": 7.923199,
+      "tp": 7.968897,
+      "sl": 7.892733,
+      "generated_at": 1791911670.246482
     },
     {
       "id": "ondo-us-dollar-yield",
       "symbol": "USDY",
       "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1.149538,
-      "tp": 1.150764,
-      "sl": 1.148721,
-      "generated_at": 1791874425.380711
+      "entry": 1.149779,
+      "tp": 1.150498,
+      "sl": 1.1493,
+      "generated_at": 1791911670.2464917
     },
     {
-      "id": "bitget-token",
-      "symbol": "BGB",
-      "name": "Bitget Token",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 1.959892,
-      "tp": 1.967274,
-      "sl": 1.95497,
-      "generated_at": 1791874425.3807156
+      "entry": 1.00039,
+      "tp": 1.000471,
+      "sl": 1.000336,
+      "generated_at": 1791911670.2464967
     },
     {
-      "id": "bfusd",
-      "symbol": "BFUSD",
-      "name": "BFUSD",
+      "id": "blockstack",
+      "symbol": "STX",
+      "name": "Stacks",
       "direction": "long",
-      "entry": 0.998377,
-      "tp": 0.998467,
-      "sl": 0.998317,
-      "generated_at": 1791874425.3807197
+      "entry": 0.430677,
+      "tp": 0.439385,
+      "sl": 0.424872,
+      "generated_at": 1791911670.2465017
     }
   ]
 }
