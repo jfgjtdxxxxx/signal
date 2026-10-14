@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791932157.765037,
+  "generated_at": 1791953658.0817826,
   "signals": [
-    {
-      "id": "injective-protocol",
-      "symbol": "INJ",
-      "name": "Injective",
-      "direction": "long",
-      "entry": 8.119692,
-      "tp": 8.206422,
-      "sl": 8.061871,
-      "generated_at": 1791932157.764684
-    },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 83412.429275,
-      "tp": 83588.495282,
-      "sl": 83295.051937,
-      "generated_at": 1791932157.7646928
+      "entry": 83694.358974,
+      "tp": 83916.626175,
+      "sl": 83546.18084,
+      "generated_at": 1791953658.0813472
+    },
+    {
+      "id": "injective-protocol",
+      "symbol": "INJ",
+      "name": "Injective",
+      "direction": "long",
+      "entry": 8.285398,
+      "tp": 8.372904,
+      "sl": 8.227061,
+      "generated_at": 1791953658.0813568
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "direction": "long",
+      "entry": 2510.001273,
+      "tp": 2517.342117,
+      "sl": 2505.107377,
+      "generated_at": 1791953658.081367
+    },
+    {
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
+      "direction": "long",
+      "entry": 0.138765,
+      "tp": 0.139176,
+      "sl": 0.13849,
+      "generated_at": 1791953658.0813735
     },
     {
       "id": "blockstack",
       "symbol": "STX",
       "name": "Stacks",
       "direction": "long",
-      "entry": 0.431375,
-      "tp": 0.440195,
-      "sl": 0.425495,
-      "generated_at": 1791932157.7647016
-    },
-    {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
-      "direction": "long",
-      "entry": 544.237218,
-      "tp": 548.40393,
-      "sl": 541.45941,
-      "generated_at": 1791932157.764707
-    },
-    {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
-      "direction": "long",
-      "entry": 8.905585,
-      "tp": 8.918175,
-      "sl": 8.897191,
-      "generated_at": 1791932157.7647116
+      "entry": 0.437053,
+      "tp": 0.445361,
+      "sl": 0.431514,
+      "generated_at": 1791953658.0813785
     }
   ]
 }
