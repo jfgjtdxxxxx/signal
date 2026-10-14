@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791953658.0817826,
+  "generated_at": 1791979145.5590208,
   "signals": [
-    {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "direction": "long",
-      "entry": 83694.358974,
-      "tp": 83916.626175,
-      "sl": 83546.18084,
-      "generated_at": 1791953658.0813472
-    },
-    {
-      "id": "injective-protocol",
-      "symbol": "INJ",
-      "name": "Injective",
-      "direction": "long",
-      "entry": 8.285398,
-      "tp": 8.372904,
-      "sl": 8.227061,
-      "generated_at": 1791953658.0813568
-    },
-    {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "direction": "long",
-      "entry": 2510.001273,
-      "tp": 2517.342117,
-      "sl": 2505.107377,
-      "generated_at": 1791953658.081367
-    },
-    {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
-      "direction": "long",
-      "entry": 0.138765,
-      "tp": 0.139176,
-      "sl": 0.13849,
-      "generated_at": 1791953658.0813735
-    },
     {
       "id": "blockstack",
       "symbol": "STX",
       "name": "Stacks",
       "direction": "long",
-      "entry": 0.437053,
-      "tp": 0.445361,
-      "sl": 0.431514,
-      "generated_at": 1791953658.0813785
+      "entry": 0.438075,
+      "tp": 0.444048,
+      "sl": 0.434093,
+      "generated_at": 1791979145.558662
+    },
+    {
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
+      "direction": "long",
+      "entry": 9.035752,
+      "tp": 9.062911,
+      "sl": 9.017646,
+      "generated_at": 1791979145.5586705
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
+      "direction": "long",
+      "entry": 1.373176,
+      "tp": 1.379284,
+      "sl": 1.369105,
+      "generated_at": 1791979145.5586789
+    },
+    {
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
+      "direction": "long",
+      "entry": 552.468206,
+      "tp": 555.89355,
+      "sl": 550.184643,
+      "generated_at": 1791979145.558684
+    },
+    {
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "direction": "long",
+      "entry": 277.931206,
+      "tp": 279.649269,
+      "sl": 276.785831,
+      "generated_at": 1791979145.5586884
     }
   ]
 }
