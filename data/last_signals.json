@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791979145.5590208,
+  "generated_at": 1791998439.0172544,
   "signals": [
     {
-      "id": "blockstack",
-      "symbol": "STX",
-      "name": "Stacks",
+      "id": "htx-dao",
+      "symbol": "HTX",
+      "name": "HTX DAO",
       "direction": "long",
-      "entry": 0.438075,
-      "tp": 0.444048,
-      "sl": 0.434093,
-      "generated_at": 1791979145.558662
+      "entry": 2e-06,
+      "tp": 2e-06,
+      "sl": 2e-06,
+      "generated_at": 1791998439.0169501
     },
     {
       "id": "leo-token",
       "symbol": "LEO",
       "name": "LEO Token",
       "direction": "long",
-      "entry": 9.035752,
-      "tp": 9.062911,
-      "sl": 9.017646,
-      "generated_at": 1791979145.5586705
+      "entry": 9.038424,
+      "tp": 9.052791,
+      "sl": 9.028846,
+      "generated_at": 1791998439.0169592
     },
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "okb",
+      "symbol": "OKB",
+      "name": "OKB",
       "direction": "long",
-      "entry": 1.373176,
-      "tp": 1.379284,
-      "sl": 1.369105,
-      "generated_at": 1791979145.5586789
+      "entry": 123.304375,
+      "tp": 123.929433,
+      "sl": 122.887669,
+      "generated_at": 1791998439.0169683
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 552.468206,
-      "tp": 555.89355,
-      "sl": 550.184643,
-      "generated_at": 1791979145.558684
+      "entry": 0.141381,
+      "tp": 0.142123,
+      "sl": 0.140887,
+      "generated_at": 1791998439.016973
     },
     {
-      "id": "bitcoin-cash",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 277.931206,
-      "tp": 279.649269,
-      "sl": 276.785831,
-      "generated_at": 1791979145.5586884
+      "entry": 4081.986264,
+      "tp": 4092.449941,
+      "sl": 4075.010479,
+      "generated_at": 1791998439.0169783
     }
   ]
 }
