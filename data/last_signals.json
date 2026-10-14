@@ -1,55 +1,55 @@
 {
-  "generated_at": 1791998439.0172544,
+  "generated_at": 1792014794.1875122,
   "signals": [
     {
-      "id": "htx-dao",
-      "symbol": "HTX",
-      "name": "HTX DAO",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 2e-06,
-      "tp": 2e-06,
-      "sl": 2e-06,
-      "generated_at": 1791998439.0169501
-    },
-    {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
-      "direction": "long",
-      "entry": 9.038424,
-      "tp": 9.052791,
-      "sl": 9.028846,
-      "generated_at": 1791998439.0169592
+      "entry": 23.360539,
+      "tp": 23.790963,
+      "sl": 23.07359,
+      "generated_at": 1792014794.1870987
     },
     {
       "id": "okb",
       "symbol": "OKB",
       "name": "OKB",
       "direction": "long",
-      "entry": 123.304375,
-      "tp": 123.929433,
-      "sl": 122.887669,
-      "generated_at": 1791998439.0169683
+      "entry": 122.761371,
+      "tp": 123.363204,
+      "sl": 122.360149,
+      "generated_at": 1792014794.1871061
+    },
+    {
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
+      "direction": "long",
+      "entry": 1.149916,
+      "tp": 1.150562,
+      "sl": 1.149486,
+      "generated_at": 1792014794.1871133
+    },
+    {
+      "id": "aster-2",
+      "symbol": "ASTER",
+      "name": "Aster",
+      "direction": "long",
+      "entry": 0.698471,
+      "tp": 0.702947,
+      "sl": 0.695487,
+      "generated_at": 1792014794.187117
     },
     {
       "id": "just",
       "symbol": "JST",
       "name": "JUST",
       "direction": "long",
-      "entry": 0.141381,
-      "tp": 0.142123,
-      "sl": 0.140887,
-      "generated_at": 1791998439.016973
-    },
-    {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
-      "direction": "long",
-      "entry": 4081.986264,
-      "tp": 4092.449941,
-      "sl": 4075.010479,
-      "generated_at": 1791998439.0169783
+      "entry": 0.141489,
+      "tp": 0.142189,
+      "sl": 0.141023,
+      "generated_at": 1792014794.1871204
     }
   ]
 }
