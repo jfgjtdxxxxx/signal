@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792014794.1875122,
+  "generated_at": 1792038995.4434948,
   "signals": [
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 23.360539,
-      "tp": 23.790963,
-      "sl": 23.07359,
-      "generated_at": 1792014794.1870987
+      "entry": 1.000228,
+      "tp": 1.000319,
+      "sl": 1.000168,
+      "generated_at": 1792038995.4431055
+    },
+    {
+      "id": "open-usd",
+      "symbol": "OUSD",
+      "name": "Open USD",
+      "direction": "long",
+      "entry": 0.999082,
+      "tp": 1.000837,
+      "sl": 0.997911,
+      "generated_at": 1792038995.4431145
     },
     {
       "id": "okb",
       "symbol": "OKB",
       "name": "OKB",
       "direction": "long",
-      "entry": 122.761371,
-      "tp": 123.363204,
-      "sl": 122.360149,
-      "generated_at": 1792014794.1871061
+      "entry": 117.316213,
+      "tp": 118.238621,
+      "sl": 116.701274,
+      "generated_at": 1792038995.4431248
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
       "direction": "long",
-      "entry": 1.149916,
-      "tp": 1.150562,
-      "sl": 1.149486,
-      "generated_at": 1792014794.1871133
+      "entry": 715.983417,
+      "tp": 719.648197,
+      "sl": 713.540231,
+      "generated_at": 1792038995.4431303
     },
     {
-      "id": "aster-2",
-      "symbol": "ASTER",
-      "name": "Aster",
-      "direction": "long",
-      "entry": 0.698471,
-      "tp": 0.702947,
-      "sl": 0.695487,
-      "generated_at": 1792014794.187117
-    },
-    {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
-      "direction": "long",
-      "entry": 0.141489,
-      "tp": 0.142189,
-      "sl": 0.141023,
-      "generated_at": 1792014794.1871204
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
+      "direction": "short",
+      "entry": 2.300053,
+      "tp": 2.210598,
+      "sl": 2.359689,
+      "generated_at": 1792038995.4431362
     }
   ]
 }
