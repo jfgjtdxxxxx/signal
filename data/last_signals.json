@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792064273.4877338,
+  "generated_at": 1792084060.3384461,
   "signals": [
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "dogecoin",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "direction": "long",
-      "entry": 1.149594,
-      "tp": 1.150393,
-      "sl": 1.149061,
-      "generated_at": 1792064273.487316
+      "entry": 0.080953,
+      "tp": 0.082005,
+      "sl": 0.080251,
+      "generated_at": 1792084060.3380663
     },
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 1.308297,
-      "tp": 1.320595,
-      "sl": 1.300098,
-      "generated_at": 1792064273.487323
+      "entry": 4144.651157,
+      "tp": 4152.609082,
+      "sl": 4139.345874,
+      "generated_at": 1792084060.3380756
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "pax-gold",
+      "symbol": "PAXG",
+      "name": "PAX Gold",
       "direction": "long",
-      "entry": 199.222555,
-      "tp": 202.30991,
-      "sl": 197.164318,
-      "generated_at": 1792064273.4873345
+      "entry": 4149.364144,
+      "tp": 4156.974647,
+      "sl": 4144.290476,
+      "generated_at": 1792084060.3380852
     },
     {
-      "id": "mantle",
-      "symbol": "MNT",
-      "name": "Mantle",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 0.511571,
-      "tp": 0.515831,
-      "sl": 0.508731,
-      "generated_at": 1792064273.4873402
+      "entry": 25.005253,
+      "tp": 25.566022,
+      "sl": 24.631406,
+      "generated_at": 1792084060.3380904
     },
     {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "direction": "short",
-      "entry": 1.880315,
-      "tp": 1.799283,
-      "sl": 1.934336,
-      "generated_at": 1792064273.4873464
+      "id": "layerzero",
+      "symbol": "ZRO",
+      "name": "LayerZero",
+      "direction": "long",
+      "entry": 2.054473,
+      "tp": 2.121424,
+      "sl": 2.00984,
+      "generated_at": 1792084060.3380954
     }
   ]
 }
