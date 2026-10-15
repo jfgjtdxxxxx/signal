@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792084060.3384461,
+  "generated_at": 1792100149.2357223,
   "signals": [
     {
-      "id": "dogecoin",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 0.080953,
-      "tp": 0.082005,
-      "sl": 0.080251,
-      "generated_at": 1792084060.3380663
+      "entry": 25.112015,
+      "tp": 25.589593,
+      "sl": 24.79363,
+      "generated_at": 1792100149.2353656
+    },
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "direction": "long",
+      "entry": 5.3374,
+      "tp": 5.470702,
+      "sl": 5.248531,
+      "generated_at": 1792100149.2353745
+    },
+    {
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
+      "direction": "long",
+      "entry": 0.009552,
+      "tp": 0.00982,
+      "sl": 0.009373,
+      "generated_at": 1792100149.2353835
+    },
+    {
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "direction": "long",
+      "entry": 7.478717,
+      "tp": 7.602523,
+      "sl": 7.39618,
+      "generated_at": 1792100149.235389
     },
     {
       "id": "tether-gold",
       "symbol": "XAUT",
       "name": "Tether Gold",
       "direction": "long",
-      "entry": 4144.651157,
-      "tp": 4152.609082,
-      "sl": 4139.345874,
-      "generated_at": 1792084060.3380756
-    },
-    {
-      "id": "pax-gold",
-      "symbol": "PAXG",
-      "name": "PAX Gold",
-      "direction": "long",
-      "entry": 4149.364144,
-      "tp": 4156.974647,
-      "sl": 4144.290476,
-      "generated_at": 1792084060.3380852
-    },
-    {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
-      "direction": "long",
-      "entry": 25.005253,
-      "tp": 25.566022,
-      "sl": 24.631406,
-      "generated_at": 1792084060.3380904
-    },
-    {
-      "id": "layerzero",
-      "symbol": "ZRO",
-      "name": "LayerZero",
-      "direction": "long",
-      "entry": 2.054473,
-      "tp": 2.121424,
-      "sl": 2.00984,
-      "generated_at": 1792084060.3380954
+      "entry": 4160.872233,
+      "tp": 4170.013046,
+      "sl": 4154.778358,
+      "generated_at": 1792100149.2353942
     }
   ]
 }
