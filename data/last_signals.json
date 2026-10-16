@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792150362.2202756,
+  "generated_at": 1792169419.5748413,
   "signals": [
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "polkadot",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "direction": "long",
-      "entry": 210.650171,
-      "tp": 213.253498,
-      "sl": 208.914619,
-      "generated_at": 1792150362.219851
+      "entry": 1.176582,
+      "tp": 1.191398,
+      "sl": 1.166705,
+      "generated_at": 1792169419.5744948
     },
     {
-      "id": "chainlink",
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "id": "kucoin-shares",
+      "symbol": "KCS",
+      "name": "KuCoin",
       "direction": "long",
-      "entry": 12.661129,
-      "tp": 12.708805,
-      "sl": 12.629345,
-      "generated_at": 1792150362.219858
+      "entry": 7.46892,
+      "tp": 7.528976,
+      "sl": 7.428882,
+      "generated_at": 1792169419.5745041
     },
     {
-      "id": "bitcoin-cash",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 283.109564,
-      "tp": 284.613541,
-      "sl": 282.106913,
-      "generated_at": 1792150362.2198648
+      "entry": 1.149773,
+      "tp": 1.15035,
+      "sl": 1.149388,
+      "generated_at": 1792169419.574513
     },
     {
-      "id": "litecoin",
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "id": "falcon-finance",
+      "symbol": "USDF",
+      "name": "Falcon USD",
       "direction": "long",
-      "entry": 61.25005,
-      "tp": 61.481891,
-      "sl": 61.095489,
-      "generated_at": 1792150362.2198684
+      "entry": 0.99531,
+      "tp": 0.995398,
+      "sl": 0.995251,
+      "generated_at": 1792169419.5745187
     },
     {
-      "id": "sui",
-      "symbol": "SUI",
-      "name": "Sui",
+      "id": "htx-dao",
+      "symbol": "HTX",
+      "name": "HTX DAO",
       "direction": "long",
-      "entry": 1.052746,
-      "tp": 1.058752,
-      "sl": 1.048742,
-      "generated_at": 1792150362.2198715
+      "entry": 2e-06,
+      "tp": 2e-06,
+      "sl": 2e-06,
+      "generated_at": 1792169419.574524
     }
   ]
 }
