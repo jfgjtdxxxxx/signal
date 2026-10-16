@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792125149.3694704,
+  "generated_at": 1792150362.2202756,
   "signals": [
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 1206.528781,
-      "tp": 1229.489164,
-      "sl": 1191.221859,
-      "generated_at": 1792125149.3687677
+      "entry": 210.650171,
+      "tp": 213.253498,
+      "sl": 208.914619,
+      "generated_at": 1792150362.219851
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "chainlink",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "direction": "long",
-      "entry": 5.192858,
-      "tp": 5.333995,
-      "sl": 5.098767,
-      "generated_at": 1792125149.3687754
+      "entry": 12.661129,
+      "tp": 12.708805,
+      "sl": 12.629345,
+      "generated_at": 1792150362.219858
     },
     {
       "id": "bitcoin-cash",
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "direction": "long",
-      "entry": 276.164686,
-      "tp": 278.887058,
-      "sl": 274.349771,
-      "generated_at": 1792125149.3687847
+      "entry": 283.109564,
+      "tp": 284.613541,
+      "sl": 282.106913,
+      "generated_at": 1792150362.2198648
     },
     {
-      "id": "uniswap",
-      "symbol": "UNI",
-      "name": "Uniswap",
+      "id": "litecoin",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "direction": "long",
-      "entry": 7.380234,
-      "tp": 7.447522,
-      "sl": 7.335375,
-      "generated_at": 1792125149.3687894
+      "entry": 61.25005,
+      "tp": 61.481891,
+      "sl": 61.095489,
+      "generated_at": 1792150362.2198684
     },
     {
-      "id": "bittensor",
-      "symbol": "TAO",
-      "name": "Bittensor",
+      "id": "sui",
+      "symbol": "SUI",
+      "name": "Sui",
       "direction": "long",
-      "entry": 284.834127,
-      "tp": 288.128723,
-      "sl": 282.63773,
-      "generated_at": 1792125149.3687944
+      "entry": 1.052746,
+      "tp": 1.058752,
+      "sl": 1.048742,
+      "generated_at": 1792150362.2198715
     }
   ]
 }
