@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792169419.5748413,
+  "generated_at": 1792185220.7568607,
   "signals": [
     {
-      "id": "polkadot",
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "id": "open-usd",
+      "symbol": "OUSD",
+      "name": "Open USD",
       "direction": "long",
-      "entry": 1.176582,
-      "tp": 1.191398,
-      "sl": 1.166705,
-      "generated_at": 1792169419.5744948
+      "entry": 0.999849,
+      "tp": 1.000178,
+      "sl": 0.999629,
+      "generated_at": 1792185220.7564757
     },
     {
-      "id": "kucoin-shares",
-      "symbol": "KCS",
-      "name": "KuCoin",
+      "id": "lighter",
+      "symbol": "LIT",
+      "name": "Lighter",
       "direction": "long",
-      "entry": 7.46892,
-      "tp": 7.528976,
-      "sl": 7.428882,
-      "generated_at": 1792169419.5745041
+      "entry": 3.188098,
+      "tp": 3.261552,
+      "sl": 3.139129,
+      "generated_at": 1792185220.7564857
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 1.149773,
-      "tp": 1.15035,
-      "sl": 1.149388,
-      "generated_at": 1792169419.574513
+      "entry": 0.103122,
+      "tp": 0.104359,
+      "sl": 0.102296,
+      "generated_at": 1792185220.756495
     },
     {
-      "id": "falcon-finance",
-      "symbol": "USDF",
-      "name": "Falcon USD",
+      "id": "united-stables",
+      "symbol": "U",
+      "name": "United Stables",
       "direction": "long",
-      "entry": 0.99531,
-      "tp": 0.995398,
-      "sl": 0.995251,
-      "generated_at": 1792169419.5745187
+      "entry": 0.999467,
+      "tp": 0.999584,
+      "sl": 0.999389,
+      "generated_at": 1792185220.7565012
     },
     {
-      "id": "htx-dao",
-      "symbol": "HTX",
-      "name": "HTX DAO",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 2e-06,
-      "tp": 2e-06,
-      "sl": 2e-06,
-      "generated_at": 1792169419.574524
+      "entry": 559.485697,
+      "tp": 563.914369,
+      "sl": 556.533249,
+      "generated_at": 1792185220.756507
     }
   ]
 }
