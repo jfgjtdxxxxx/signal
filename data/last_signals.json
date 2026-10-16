@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792100149.2357223,
+  "generated_at": 1792125149.3694704,
   "signals": [
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 25.112015,
-      "tp": 25.589593,
-      "sl": 24.79363,
-      "generated_at": 1792100149.2353656
+      "entry": 1206.528781,
+      "tp": 1229.489164,
+      "sl": 1191.221859,
+      "generated_at": 1792125149.3687677
     },
     {
       "id": "near",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 5.3374,
-      "tp": 5.470702,
-      "sl": 5.248531,
-      "generated_at": 1792100149.2353745
+      "entry": 5.192858,
+      "tp": 5.333995,
+      "sl": 5.098767,
+      "generated_at": 1792125149.3687754
     },
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "direction": "long",
-      "entry": 0.009552,
-      "tp": 0.00982,
-      "sl": 0.009373,
-      "generated_at": 1792100149.2353835
+      "entry": 276.164686,
+      "tp": 278.887058,
+      "sl": 274.349771,
+      "generated_at": 1792125149.3687847
     },
     {
       "id": "uniswap",
       "symbol": "UNI",
       "name": "Uniswap",
       "direction": "long",
-      "entry": 7.478717,
-      "tp": 7.602523,
-      "sl": 7.39618,
-      "generated_at": 1792100149.235389
+      "entry": 7.380234,
+      "tp": 7.447522,
+      "sl": 7.335375,
+      "generated_at": 1792125149.3687894
     },
     {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
+      "id": "bittensor",
+      "symbol": "TAO",
+      "name": "Bittensor",
       "direction": "long",
-      "entry": 4160.872233,
-      "tp": 4170.013046,
-      "sl": 4154.778358,
-      "generated_at": 1792100149.2353942
+      "entry": 284.834127,
+      "tp": 288.128723,
+      "sl": 282.63773,
+      "generated_at": 1792125149.3687944
     }
   ]
 }
