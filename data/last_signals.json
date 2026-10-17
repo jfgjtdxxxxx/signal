@@ -1,45 +1,15 @@
 {
-  "generated_at": 1792234287.309398,
+  "generated_at": 1792251927.342554,
   "signals": [
     {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 3.222933,
-      "tp": 3.246857,
-      "sl": 3.206984,
-      "generated_at": 1792234287.309033
-    },
-    {
-      "id": "aster-2",
-      "symbol": "ASTER",
-      "name": "Aster",
-      "direction": "long",
-      "entry": 0.708236,
-      "tp": 0.710276,
-      "sl": 0.706876,
-      "generated_at": 1792234287.3090415
-    },
-    {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
-      "direction": "long",
-      "entry": 0.004629,
-      "tp": 0.004696,
-      "sl": 0.004585,
-      "generated_at": 1792234287.3090513
-    },
-    {
-      "id": "mantle",
-      "symbol": "MNT",
-      "name": "Mantle",
-      "direction": "long",
-      "entry": 0.543038,
-      "tp": 0.544835,
-      "sl": 0.541839,
-      "generated_at": 1792234287.309057
+      "entry": 0.336058,
+      "tp": 0.336472,
+      "sl": 0.335782,
+      "generated_at": 1792251927.34217
     },
     {
       "id": "htx-dao",
@@ -49,7 +19,37 @@
       "entry": 2e-06,
       "tp": 2e-06,
       "sl": 2e-06,
-      "generated_at": 1792234287.3090622
+      "generated_at": 1792251927.342179
+    },
+    {
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
+      "direction": "long",
+      "entry": 719.115285,
+      "tp": 719.858206,
+      "sl": 718.620005,
+      "generated_at": 1792251927.3421886
+    },
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "direction": "long",
+      "entry": 1147.544524,
+      "tp": 1157.235479,
+      "sl": 1141.083887,
+      "generated_at": 1792251927.342194
+    },
+    {
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
+      "direction": "long",
+      "entry": 9.034794,
+      "tp": 9.047069,
+      "sl": 9.02661,
+      "generated_at": 1792251927.3421993
     }
   ]
 }
