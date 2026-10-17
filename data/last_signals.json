@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792270130.9089003,
+  "generated_at": 1792279361.8113155,
   "signals": [
-    {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "direction": "long",
-      "entry": 81530.158754,
-      "tp": 81656.163853,
-      "sl": 81446.155355,
-      "generated_at": 1792270130.9084926
-    },
     {
       "id": "ripple",
       "symbol": "XRP",
       "name": "XRP",
       "direction": "long",
-      "entry": 1.298951,
-      "tp": 1.303897,
-      "sl": 1.295654,
-      "generated_at": 1792270130.9085007
-    },
-    {
-      "id": "dogecoin",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "direction": "long",
-      "entry": 0.080086,
-      "tp": 0.080469,
-      "sl": 0.07983,
-      "generated_at": 1792270130.9085095
+      "entry": 1.291386,
+      "tp": 1.298508,
+      "sl": 1.286639,
+      "generated_at": 1792279361.8108156
     },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 558.460798,
-      "tp": 563.246208,
-      "sl": 555.270524,
-      "generated_at": 1792270130.9085147
+      "entry": 565.513647,
+      "tp": 570.18732,
+      "sl": 562.397865,
+      "generated_at": 1792279361.8108234
     },
     {
-      "id": "whitebit",
-      "symbol": "WBT",
-      "name": "WhiteBIT Coin",
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
       "direction": "long",
-      "entry": 79.838246,
-      "tp": 79.974663,
-      "sl": 79.747302,
-      "generated_at": 1792270130.9085197
+      "entry": 0.009034,
+      "tp": 0.009108,
+      "sl": 0.008984,
+      "generated_at": 1792279361.810831
+    },
+    {
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "direction": "long",
+      "entry": 274.697966,
+      "tp": 277.050814,
+      "sl": 273.1294,
+      "generated_at": 1792279361.8108351
+    },
+    {
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
+      "direction": "long",
+      "entry": 0.103357,
+      "tp": 0.104001,
+      "sl": 0.102927,
+      "generated_at": 1792279361.8108387
     }
   ]
 }
