@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792210950.9956338,
+  "generated_at": 1792234287.309398,
   "signals": [
-    {
-      "id": "worldcoin-wld",
-      "symbol": "WLD",
-      "name": "Worldcoin",
-      "direction": "long",
-      "entry": 0.530855,
-      "tp": 0.539228,
-      "sl": 0.525274,
-      "generated_at": 1792210950.9952548
-    },
-    {
-      "id": "kucoin-shares",
-      "symbol": "KCS",
-      "name": "KuCoin",
-      "direction": "long",
-      "entry": 7.492925,
-      "tp": 7.549134,
-      "sl": 7.455452,
-      "generated_at": 1792210950.9952636
-    },
     {
       "id": "lighter",
       "symbol": "LIT",
       "name": "Lighter",
       "direction": "long",
-      "entry": 3.206808,
-      "tp": 3.253139,
-      "sl": 3.175921,
-      "generated_at": 1792210950.9952724
+      "entry": 3.222933,
+      "tp": 3.246857,
+      "sl": 3.206984,
+      "generated_at": 1792234287.309033
     },
     {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
+      "id": "aster-2",
+      "symbol": "ASTER",
+      "name": "Aster",
       "direction": "long",
-      "entry": 104.856107,
-      "tp": 105.412636,
-      "sl": 104.485087,
-      "generated_at": 1792210950.9952784
+      "entry": 0.708236,
+      "tp": 0.710276,
+      "sl": 0.706876,
+      "generated_at": 1792234287.3090415
     },
     {
-      "id": "bitcoin-cash",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
       "direction": "long",
-      "entry": 280.953174,
-      "tp": 282.65938,
-      "sl": 279.815703,
-      "generated_at": 1792210950.995283
+      "entry": 0.004629,
+      "tp": 0.004696,
+      "sl": 0.004585,
+      "generated_at": 1792234287.3090513
+    },
+    {
+      "id": "mantle",
+      "symbol": "MNT",
+      "name": "Mantle",
+      "direction": "long",
+      "entry": 0.543038,
+      "tp": 0.544835,
+      "sl": 0.541839,
+      "generated_at": 1792234287.309057
+    },
+    {
+      "id": "htx-dao",
+      "symbol": "HTX",
+      "name": "HTX DAO",
+      "direction": "long",
+      "entry": 2e-06,
+      "tp": 2e-06,
+      "sl": 2e-06,
+      "generated_at": 1792234287.3090622
     }
   ]
 }
