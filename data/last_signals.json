@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792194447.309967,
+  "generated_at": 1792210950.9956338,
   "signals": [
+    {
+      "id": "worldcoin-wld",
+      "symbol": "WLD",
+      "name": "Worldcoin",
+      "direction": "long",
+      "entry": 0.530855,
+      "tp": 0.539228,
+      "sl": 0.525274,
+      "generated_at": 1792210950.9952548
+    },
+    {
+      "id": "kucoin-shares",
+      "symbol": "KCS",
+      "name": "KuCoin",
+      "direction": "long",
+      "entry": 7.492925,
+      "tp": 7.549134,
+      "sl": 7.455452,
+      "generated_at": 1792210950.9952636
+    },
     {
       "id": "lighter",
       "symbol": "LIT",
       "name": "Lighter",
       "direction": "long",
-      "entry": 3.188168,
-      "tp": 3.26009,
-      "sl": 3.14022,
-      "generated_at": 1792194447.3095403
+      "entry": 3.206808,
+      "tp": 3.253139,
+      "sl": 3.175921,
+      "generated_at": 1792210950.9952724
     },
     {
-      "id": "htx-dao",
-      "symbol": "HTX",
-      "name": "HTX DAO",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 2e-06,
-      "tp": 2e-06,
-      "sl": 2e-06,
-      "generated_at": 1792194447.3095474
+      "entry": 104.856107,
+      "tp": 105.412636,
+      "sl": 104.485087,
+      "generated_at": 1792210950.9952784
     },
     {
-      "id": "cosmos",
-      "symbol": "ATOM",
-      "name": "Cosmos Hub",
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "direction": "long",
-      "entry": 1.765263,
-      "tp": 1.777464,
-      "sl": 1.757129,
-      "generated_at": 1792194447.3095546
-    },
-    {
-      "id": "nexo",
-      "symbol": "NEXO",
-      "name": "NEXO",
-      "direction": "long",
-      "entry": 0.824755,
-      "tp": 0.83017,
-      "sl": 0.821144,
-      "generated_at": 1792194447.3095586
-    },
-    {
-      "id": "open-usd",
-      "symbol": "OUSD",
-      "name": "Open USD",
-      "direction": "long",
-      "entry": 1.000839,
-      "tp": 1.001233,
-      "sl": 1.000576,
-      "generated_at": 1792194447.3095627
+      "entry": 280.953174,
+      "tp": 282.65938,
+      "sl": 279.815703,
+      "generated_at": 1792210950.995283
     }
   ]
 }
