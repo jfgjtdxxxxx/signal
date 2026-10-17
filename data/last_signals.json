@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792251927.342554,
+  "generated_at": 1792270130.9089003,
   "signals": [
     {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 0.336058,
-      "tp": 0.336472,
-      "sl": 0.335782,
-      "generated_at": 1792251927.34217
+      "entry": 81530.158754,
+      "tp": 81656.163853,
+      "sl": 81446.155355,
+      "generated_at": 1792270130.9084926
     },
     {
-      "id": "htx-dao",
-      "symbol": "HTX",
-      "name": "HTX DAO",
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
       "direction": "long",
-      "entry": 2e-06,
-      "tp": 2e-06,
-      "sl": 2e-06,
-      "generated_at": 1792251927.342179
+      "entry": 1.298951,
+      "tp": 1.303897,
+      "sl": 1.295654,
+      "generated_at": 1792270130.9085007
     },
     {
-      "id": "binancecoin",
-      "symbol": "BNB",
-      "name": "BNB",
+      "id": "dogecoin",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "direction": "long",
-      "entry": 719.115285,
-      "tp": 719.858206,
-      "sl": 718.620005,
-      "generated_at": 1792251927.3421886
+      "entry": 0.080086,
+      "tp": 0.080469,
+      "sl": 0.07983,
+      "generated_at": 1792270130.9085095
     },
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 1147.544524,
-      "tp": 1157.235479,
-      "sl": 1141.083887,
-      "generated_at": 1792251927.342194
+      "entry": 558.460798,
+      "tp": 563.246208,
+      "sl": 555.270524,
+      "generated_at": 1792270130.9085147
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "whitebit",
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
       "direction": "long",
-      "entry": 9.034794,
-      "tp": 9.047069,
-      "sl": 9.02661,
-      "generated_at": 1792251927.3421993
+      "entry": 79.838246,
+      "tp": 79.974663,
+      "sl": 79.747302,
+      "generated_at": 1792270130.9085197
     }
   ]
 }
