@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792356564.416949,
+  "generated_at": 1792365548.853349,
   "signals": [
     {
-      "id": "bfusd",
-      "symbol": "BFUSD",
-      "name": "BFUSD",
+      "id": "falcon-finance",
+      "symbol": "USDF",
+      "name": "Falcon USD",
       "direction": "long",
-      "entry": 0.99887,
-      "tp": 0.999112,
-      "sl": 0.998709,
-      "generated_at": 1792356564.4165127
+      "entry": 0.995009,
+      "tp": 0.995095,
+      "sl": 0.994953,
+      "generated_at": 1792365548.8528867
     },
     {
       "id": "usdgo",
       "symbol": "USDGO",
       "name": "USDGO",
       "direction": "long",
-      "entry": 1.00027,
-      "tp": 1.000395,
-      "sl": 1.000187,
-      "generated_at": 1792356564.4165192
+      "entry": 1.000341,
+      "tp": 1.000475,
+      "sl": 1.000251,
+      "generated_at": 1792365548.8528945
     },
     {
-      "id": "aster-2",
-      "symbol": "ASTER",
-      "name": "Aster",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 0.6815,
-      "tp": 0.686488,
-      "sl": 0.678175,
-      "generated_at": 1792356564.416526
+      "entry": 81728.509867,
+      "tp": 82045.387064,
+      "sl": 81517.258401,
+      "generated_at": 1792365548.852904
     },
     {
-      "id": "mantle",
-      "symbol": "MNT",
-      "name": "Mantle",
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
       "direction": "long",
-      "entry": 0.519968,
-      "tp": 0.522897,
-      "sl": 0.518016,
-      "generated_at": 1792356564.4165294
+      "entry": 1.301055,
+      "tp": 1.311118,
+      "sl": 1.294347,
+      "generated_at": 1792365548.8529086
     },
     {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 0.135323,
-      "tp": 0.135941,
-      "sl": 0.134912,
-      "generated_at": 1792356564.4165323
+      "entry": 0.332878,
+      "tp": 0.333349,
+      "sl": 0.332565,
+      "generated_at": 1792365548.8529124
     }
   ]
 }
