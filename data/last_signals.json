@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792297809.550886,
+  "generated_at": 1792321865.622391,
   "signals": [
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "direction": "long",
-      "entry": 604.377809,
-      "tp": 611.825904,
-      "sl": 599.412412,
-      "generated_at": 1792297809.5505142
+      "entry": 0.088756,
+      "tp": 0.090061,
+      "sl": 0.087886,
+      "generated_at": 1792321865.6220007
     },
     {
-      "id": "falcon-finance",
-      "symbol": "USDF",
-      "name": "Falcon USD",
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
       "direction": "long",
-      "entry": 0.995165,
-      "tp": 0.995238,
-      "sl": 0.995117,
-      "generated_at": 1792297809.5505216
+      "entry": 0.009211,
+      "tp": 0.009292,
+      "sl": 0.009156,
+      "generated_at": 1792321865.6220098
+    },
+    {
+      "id": "morpho",
+      "symbol": "MORPHO",
+      "name": "Morpho",
+      "direction": "long",
+      "entry": 2.406952,
+      "tp": 2.43424,
+      "sl": 2.388761,
+      "generated_at": 1792321865.6220195
+    },
+    {
+      "id": "bfusd",
+      "symbol": "BFUSD",
+      "name": "BFUSD",
+      "direction": "long",
+      "entry": 0.998769,
+      "tp": 0.998896,
+      "sl": 0.998683,
+      "generated_at": 1792321865.6220255
     },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 81815.604407,
-      "tp": 82035.868973,
-      "sl": 81668.761363,
-      "generated_at": 1792297809.5505283
-    },
-    {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "direction": "long",
-      "entry": 2420.553604,
-      "tp": 2434.533467,
-      "sl": 2411.233695,
-      "generated_at": 1792297809.5505314
-    },
-    {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
-      "direction": "long",
-      "entry": 1.299597,
-      "tp": 1.30541,
-      "sl": 1.295721,
-      "generated_at": 1792297809.5505345
+      "entry": 82067.77201,
+      "tp": 82291.941688,
+      "sl": 81918.325558,
+      "generated_at": 1792321865.6220315
     }
   ]
 }
