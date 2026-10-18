@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792321865.622391,
+  "generated_at": 1792339573.154709,
   "signals": [
-    {
-      "id": "hedera-hashgraph",
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "direction": "long",
-      "entry": 0.088756,
-      "tp": 0.090061,
-      "sl": 0.087886,
-      "generated_at": 1792321865.6220007
-    },
     {
       "id": "rain",
       "symbol": "RAIN",
       "name": "Rain",
       "direction": "long",
-      "entry": 0.009211,
-      "tp": 0.009292,
-      "sl": 0.009156,
-      "generated_at": 1792321865.6220098
+      "entry": 0.009215,
+      "tp": 0.009251,
+      "sl": 0.009191,
+      "generated_at": 1792339573.1543295
     },
     {
-      "id": "morpho",
-      "symbol": "MORPHO",
-      "name": "Morpho",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 2.406952,
-      "tp": 2.43424,
-      "sl": 2.388761,
-      "generated_at": 1792321865.6220195
+      "entry": 1.149879,
+      "tp": 1.151327,
+      "sl": 1.148914,
+      "generated_at": 1792339573.154338
     },
     {
-      "id": "bfusd",
-      "symbol": "BFUSD",
-      "name": "BFUSD",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 0.998769,
-      "tp": 0.998896,
-      "sl": 0.998683,
-      "generated_at": 1792321865.6220255
+      "entry": 1.000233,
+      "tp": 1.000339,
+      "sl": 1.000163,
+      "generated_at": 1792339573.1543472
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 82067.77201,
-      "tp": 82291.941688,
-      "sl": 81918.325558,
-      "generated_at": 1792321865.6220315
+      "entry": 583.993771,
+      "tp": 590.722543,
+      "sl": 579.507922,
+      "generated_at": 1792339573.1543534
+    },
+    {
+      "id": "memecore",
+      "symbol": "M",
+      "name": "MemeCore",
+      "direction": "long",
+      "entry": 0.7677,
+      "tp": 0.776455,
+      "sl": 0.761864,
+      "generated_at": 1792339573.1543586
     }
   ]
 }
