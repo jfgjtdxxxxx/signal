@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792279361.8113155,
+  "generated_at": 1792297809.550886,
   "signals": [
-    {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
-      "direction": "long",
-      "entry": 1.291386,
-      "tp": 1.298508,
-      "sl": 1.286639,
-      "generated_at": 1792279361.8108156
-    },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 565.513647,
-      "tp": 570.18732,
-      "sl": 562.397865,
-      "generated_at": 1792279361.8108234
+      "entry": 604.377809,
+      "tp": 611.825904,
+      "sl": 599.412412,
+      "generated_at": 1792297809.5505142
     },
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "falcon-finance",
+      "symbol": "USDF",
+      "name": "Falcon USD",
       "direction": "long",
-      "entry": 0.009034,
-      "tp": 0.009108,
-      "sl": 0.008984,
-      "generated_at": 1792279361.810831
+      "entry": 0.995165,
+      "tp": 0.995238,
+      "sl": 0.995117,
+      "generated_at": 1792297809.5505216
     },
     {
-      "id": "bitcoin-cash",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 274.697966,
-      "tp": 277.050814,
-      "sl": 273.1294,
-      "generated_at": 1792279361.8108351
+      "entry": 81815.604407,
+      "tp": 82035.868973,
+      "sl": 81668.761363,
+      "generated_at": 1792297809.5505283
     },
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "direction": "long",
-      "entry": 0.103357,
-      "tp": 0.104001,
-      "sl": 0.102927,
-      "generated_at": 1792279361.8108387
+      "entry": 2420.553604,
+      "tp": 2434.533467,
+      "sl": 2411.233695,
+      "generated_at": 1792297809.5505314
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
+      "direction": "long",
+      "entry": 1.299597,
+      "tp": 1.30541,
+      "sl": 1.295721,
+      "generated_at": 1792297809.5505345
     }
   ]
 }
