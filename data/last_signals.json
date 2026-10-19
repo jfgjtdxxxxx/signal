@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792365548.853349,
+  "generated_at": 1792384755.35948,
   "signals": [
     {
-      "id": "falcon-finance",
-      "symbol": "USDF",
-      "name": "Falcon USD",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 0.995009,
-      "tp": 0.995095,
-      "sl": 0.994953,
-      "generated_at": 1792365548.8528867
-    },
-    {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
-      "direction": "long",
-      "entry": 1.000341,
-      "tp": 1.000475,
-      "sl": 1.000251,
-      "generated_at": 1792365548.8528945
+      "entry": 24.119758,
+      "tp": 24.65853,
+      "sl": 23.760577,
+      "generated_at": 1792384755.35636
     },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 81728.509867,
-      "tp": 82045.387064,
-      "sl": 81517.258401,
-      "generated_at": 1792365548.852904
+      "entry": 82419.723481,
+      "tp": 82700.531197,
+      "sl": 82232.518337,
+      "generated_at": 1792384755.3563669
     },
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
       "direction": "long",
-      "entry": 1.301055,
-      "tp": 1.311118,
-      "sl": 1.294347,
-      "generated_at": 1792365548.8529086
+      "entry": 0.009328,
+      "tp": 0.009409,
+      "sl": 0.009275,
+      "generated_at": 1792384755.3563738
     },
     {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 0.332878,
-      "tp": 0.333349,
-      "sl": 0.332565,
-      "generated_at": 1792365548.8529124
+      "entry": 594.201241,
+      "tp": 602.463661,
+      "sl": 588.69296,
+      "generated_at": 1792384755.3563776
+    },
+    {
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
+      "direction": "long",
+      "entry": 4168.642059,
+      "tp": 4175.133023,
+      "sl": 4164.31475,
+      "generated_at": 1792384755.356381
     }
   ]
 }
