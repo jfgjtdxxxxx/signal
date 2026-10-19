@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792384755.35948,
+  "generated_at": 1792415502.5711167,
   "signals": [
+    {
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
+      "direction": "long",
+      "entry": 1.149929,
+      "tp": 1.151413,
+      "sl": 1.148941,
+      "generated_at": 1792415502.5707514
+    },
     {
       "id": "venice-token",
       "symbol": "VVV",
       "name": "Venice Token",
       "direction": "long",
-      "entry": 24.119758,
-      "tp": 24.65853,
-      "sl": 23.760577,
-      "generated_at": 1792384755.35636
+      "entry": 23.887573,
+      "tp": 24.277319,
+      "sl": 23.627743,
+      "generated_at": 1792415502.57076
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 82419.723481,
-      "tp": 82700.531197,
-      "sl": 82232.518337,
-      "generated_at": 1792384755.3563669
+      "entry": 105.147278,
+      "tp": 105.590038,
+      "sl": 104.852104,
+      "generated_at": 1792415502.5707693
     },
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "direction": "long",
-      "entry": 0.009328,
-      "tp": 0.009409,
-      "sl": 0.009275,
-      "generated_at": 1792384755.3563738
+      "entry": 279.046596,
+      "tp": 280.650008,
+      "sl": 277.977655,
+      "generated_at": 1792415502.5707743
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
       "direction": "long",
-      "entry": 594.201241,
-      "tp": 602.463661,
-      "sl": 588.69296,
-      "generated_at": 1792384755.3563776
-    },
-    {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
-      "direction": "long",
-      "entry": 4168.642059,
-      "tp": 4175.133023,
-      "sl": 4164.31475,
-      "generated_at": 1792384755.356381
+      "entry": 7.3608,
+      "tp": 7.404317,
+      "sl": 7.33179,
+      "generated_at": 1792415502.5707796
     }
   ]
 }
