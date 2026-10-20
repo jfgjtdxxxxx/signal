@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792485958.1162624,
+  "generated_at": 1792507050.4228275,
   "signals": [
     {
-      "id": "worldcoin-wld",
-      "symbol": "WLD",
-      "name": "Worldcoin",
+      "id": "layerzero",
+      "symbol": "ZRO",
+      "name": "LayerZero",
       "direction": "long",
-      "entry": 0.534624,
-      "tp": 0.541015,
-      "sl": 0.530363,
-      "generated_at": 1792485958.115923
+      "entry": 1.965026,
+      "tp": 1.993122,
+      "sl": 1.946296,
+      "generated_at": 1792507050.4224498
+    },
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "direction": "long",
+      "entry": 1222.892331,
+      "tp": 1237.653013,
+      "sl": 1213.051876,
+      "generated_at": 1792507050.4224586
+    },
+    {
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "direction": "long",
+      "entry": 7.500561,
+      "tp": 7.572533,
+      "sl": 7.45258,
+      "generated_at": 1792507050.4224675
+    },
+    {
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
+      "direction": "long",
+      "entry": 200.350866,
+      "tp": 203.022739,
+      "sl": 198.569618,
+      "generated_at": 1792507050.4224727
     },
     {
       "id": "aster-2",
       "symbol": "ASTER",
       "name": "Aster",
       "direction": "long",
-      "entry": 0.707054,
-      "tp": 0.710089,
-      "sl": 0.70503,
-      "generated_at": 1792485958.1159308
-    },
-    {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
-      "direction": "long",
-      "entry": 0.071572,
-      "tp": 0.072091,
-      "sl": 0.071226,
-      "generated_at": 1792485958.115939
-    },
-    {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
-      "direction": "long",
-      "entry": 614.649257,
-      "tp": 618.882894,
-      "sl": 611.826833,
-      "generated_at": 1792485958.115944
-    },
-    {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
-      "direction": "long",
-      "entry": 0.177144,
-      "tp": 0.177759,
-      "sl": 0.176733,
-      "generated_at": 1792485958.1159482
+      "entry": 0.713681,
+      "tp": 0.717302,
+      "sl": 0.711266,
+      "generated_at": 1792507050.4224775
     }
   ]
 }
