@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792507050.4228275,
+  "generated_at": 1792524526.4435117,
   "signals": [
     {
-      "id": "layerzero",
-      "symbol": "ZRO",
-      "name": "LayerZero",
+      "id": "kaspa",
+      "symbol": "KAS",
+      "name": "Kaspa",
       "direction": "long",
-      "entry": 1.965026,
-      "tp": 1.993122,
-      "sl": 1.946296,
-      "generated_at": 1792507050.4224498
+      "entry": 0.037299,
+      "tp": 0.037754,
+      "sl": 0.036996,
+      "generated_at": 1792524526.4417849
     },
     {
       "id": "zcash",
       "symbol": "ZEC",
       "name": "Zcash",
       "direction": "long",
-      "entry": 1222.892331,
-      "tp": 1237.653013,
-      "sl": 1213.051876,
-      "generated_at": 1792507050.4224586
+      "entry": 1202.336584,
+      "tp": 1222.372801,
+      "sl": 1188.979107,
+      "generated_at": 1792524526.4417918
     },
     {
-      "id": "uniswap",
-      "symbol": "UNI",
-      "name": "Uniswap",
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
       "direction": "long",
-      "entry": 7.500561,
-      "tp": 7.572533,
-      "sl": 7.45258,
-      "generated_at": 1792507050.4224675
+      "entry": 0.074735,
+      "tp": 0.075443,
+      "sl": 0.074264,
+      "generated_at": 1792524526.4417992
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
       "direction": "long",
-      "entry": 200.350866,
-      "tp": 203.022739,
-      "sl": 198.569618,
-      "generated_at": 1792507050.4224727
+      "entry": 0.00462,
+      "tp": 0.004709,
+      "sl": 0.004561,
+      "generated_at": 1792524526.4418027
     },
     {
-      "id": "aster-2",
-      "symbol": "ASTER",
-      "name": "Aster",
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
       "direction": "long",
-      "entry": 0.713681,
-      "tp": 0.717302,
-      "sl": 0.711266,
-      "generated_at": 1792507050.4224775
+      "entry": 5e-06,
+      "tp": 5e-06,
+      "sl": 5e-06,
+      "generated_at": 1792524526.4418056
     }
   ]
 }
