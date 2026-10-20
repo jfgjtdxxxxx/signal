@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792456224.761939,
+  "generated_at": 1792485958.1162624,
   "signals": [
     {
-      "id": "bitcoin-cash",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "id": "worldcoin-wld",
+      "symbol": "WLD",
+      "name": "Worldcoin",
       "direction": "long",
-      "entry": 279.731739,
-      "tp": 281.891041,
-      "sl": 278.292204,
-      "generated_at": 1792456224.7614934
+      "entry": 0.534624,
+      "tp": 0.541015,
+      "sl": 0.530363,
+      "generated_at": 1792485958.115923
+    },
+    {
+      "id": "aster-2",
+      "symbol": "ASTER",
+      "name": "Aster",
+      "direction": "long",
+      "entry": 0.707054,
+      "tp": 0.710089,
+      "sl": 0.70503,
+      "generated_at": 1792485958.1159308
     },
     {
       "id": "sky",
       "symbol": "SKY",
       "name": "Sky",
       "direction": "long",
-      "entry": 0.070137,
-      "tp": 0.070637,
-      "sl": 0.069803,
-      "generated_at": 1792456224.761502
-    },
-    {
-      "id": "binancecoin",
-      "symbol": "BNB",
-      "name": "BNB",
-      "direction": "long",
-      "entry": 729.49073,
-      "tp": 731.53663,
-      "sl": 728.126798,
-      "generated_at": 1792456224.7615108
+      "entry": 0.071572,
+      "tp": 0.072091,
+      "sl": 0.071226,
+      "generated_at": 1792485958.115939
     },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 603.936825,
-      "tp": 611.067279,
-      "sl": 599.183189,
-      "generated_at": 1792456224.7615156
+      "entry": 614.649257,
+      "tp": 618.882894,
+      "sl": 611.826833,
+      "generated_at": 1792485958.115944
     },
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "stellar",
+      "symbol": "XLM",
+      "name": "Stellar",
       "direction": "long",
-      "entry": 0.105292,
-      "tp": 0.106301,
-      "sl": 0.104618,
-      "generated_at": 1792456224.76152
+      "entry": 0.177144,
+      "tp": 0.177759,
+      "sl": 0.176733,
+      "generated_at": 1792485958.1159482
     }
   ]
 }
