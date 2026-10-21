@@ -1,45 +1,15 @@
 {
-  "generated_at": 1792524526.4435117,
+  "generated_at": 1792541255.9479814,
   "signals": [
-    {
-      "id": "kaspa",
-      "symbol": "KAS",
-      "name": "Kaspa",
-      "direction": "long",
-      "entry": 0.037299,
-      "tp": 0.037754,
-      "sl": 0.036996,
-      "generated_at": 1792524526.4417849
-    },
-    {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "direction": "long",
-      "entry": 1202.336584,
-      "tp": 1222.372801,
-      "sl": 1188.979107,
-      "generated_at": 1792524526.4417918
-    },
-    {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
-      "direction": "long",
-      "entry": 0.074735,
-      "tp": 0.075443,
-      "sl": 0.074264,
-      "generated_at": 1792524526.4417992
-    },
     {
       "id": "pump-fun",
       "symbol": "PUMP",
       "name": "Pump.fun",
       "direction": "long",
-      "entry": 0.00462,
-      "tp": 0.004709,
-      "sl": 0.004561,
-      "generated_at": 1792524526.4418027
+      "entry": 0.004861,
+      "tp": 0.00498,
+      "sl": 0.004782,
+      "generated_at": 1792541255.9476583
     },
     {
       "id": "pepe",
@@ -49,7 +19,37 @@
       "entry": 5e-06,
       "tp": 5e-06,
       "sl": 5e-06,
-      "generated_at": 1792524526.4418056
+      "generated_at": 1792541255.9476664
+    },
+    {
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
+      "direction": "long",
+      "entry": 25.513898,
+      "tp": 26.005176,
+      "sl": 25.186379,
+      "generated_at": 1792541255.9476755
+    },
+    {
+      "id": "jupiter-exchange-solana",
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "direction": "long",
+      "entry": 0.314276,
+      "tp": 0.319155,
+      "sl": 0.311023,
+      "generated_at": 1792541255.94768
+    },
+    {
+      "id": "kaspa",
+      "symbol": "KAS",
+      "name": "Kaspa",
+      "direction": "long",
+      "entry": 0.037363,
+      "tp": 0.037799,
+      "sl": 0.037073,
+      "generated_at": 1792541255.9476848
     }
   ]
 }
