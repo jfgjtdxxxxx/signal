@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792557706.4875436,
+  "generated_at": 1792583797.1713083,
   "signals": [
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 1264.60065,
-      "tp": 1285.811193,
-      "sl": 1250.460287,
-      "generated_at": 1792557706.4871113
+      "entry": 5.153921,
+      "tp": 5.217618,
+      "sl": 5.111456,
+      "generated_at": 1792583797.1710296
     },
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "world-liberty-financial",
+      "symbol": "WLFI",
+      "name": "World Liberty Financial",
       "direction": "long",
-      "entry": 0.009412,
-      "tp": 0.009541,
-      "sl": 0.009326,
-      "generated_at": 1792557706.4871464
+      "entry": 0.056318,
+      "tp": 0.056647,
+      "sl": 0.056099,
+      "generated_at": 1792583797.1710343
     },
     {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
+      "id": "jupiter-exchange-solana",
+      "symbol": "JUP",
+      "name": "Jupiter",
       "direction": "long",
-      "entry": 0.00474,
-      "tp": 0.004839,
-      "sl": 0.004675,
-      "generated_at": 1792557706.4871564
+      "entry": 0.323955,
+      "tp": 0.326538,
+      "sl": 0.322232,
+      "generated_at": 1792583797.1710393
     },
     {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 3.397347,
-      "tp": 3.458623,
-      "sl": 3.356497,
-      "generated_at": 1792557706.487162
+      "entry": 83399.593957,
+      "tp": 83574.708171,
+      "sl": 83282.851148,
+      "generated_at": 1792583797.1710424
     },
     {
-      "id": "layerzero",
-      "symbol": "ZRO",
-      "name": "LayerZero",
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
       "direction": "long",
-      "entry": 2.038747,
-      "tp": 2.078789,
-      "sl": 2.012053,
-      "generated_at": 1792557706.4871666
+      "entry": 746.599905,
+      "tp": 748.743631,
+      "sl": 745.170754,
+      "generated_at": 1792583797.1710448
     }
   ]
 }
