@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792541255.9479814,
+  "generated_at": 1792557706.4875436,
   "signals": [
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "direction": "long",
+      "entry": 1264.60065,
+      "tp": 1285.811193,
+      "sl": 1250.460287,
+      "generated_at": 1792557706.4871113
+    },
+    {
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
+      "direction": "long",
+      "entry": 0.009412,
+      "tp": 0.009541,
+      "sl": 0.009326,
+      "generated_at": 1792557706.4871464
+    },
     {
       "id": "pump-fun",
       "symbol": "PUMP",
       "name": "Pump.fun",
       "direction": "long",
-      "entry": 0.004861,
-      "tp": 0.00498,
-      "sl": 0.004782,
-      "generated_at": 1792541255.9476583
+      "entry": 0.00474,
+      "tp": 0.004839,
+      "sl": 0.004675,
+      "generated_at": 1792557706.4871564
     },
     {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
+      "id": "lighter",
+      "symbol": "LIT",
+      "name": "Lighter",
       "direction": "long",
-      "entry": 5e-06,
-      "tp": 5e-06,
-      "sl": 5e-06,
-      "generated_at": 1792541255.9476664
+      "entry": 3.397347,
+      "tp": 3.458623,
+      "sl": 3.356497,
+      "generated_at": 1792557706.487162
     },
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "layerzero",
+      "symbol": "ZRO",
+      "name": "LayerZero",
       "direction": "long",
-      "entry": 25.513898,
-      "tp": 26.005176,
-      "sl": 25.186379,
-      "generated_at": 1792541255.9476755
-    },
-    {
-      "id": "jupiter-exchange-solana",
-      "symbol": "JUP",
-      "name": "Jupiter",
-      "direction": "long",
-      "entry": 0.314276,
-      "tp": 0.319155,
-      "sl": 0.311023,
-      "generated_at": 1792541255.94768
-    },
-    {
-      "id": "kaspa",
-      "symbol": "KAS",
-      "name": "Kaspa",
-      "direction": "long",
-      "entry": 0.037363,
-      "tp": 0.037799,
-      "sl": 0.037073,
-      "generated_at": 1792541255.9476848
+      "entry": 2.038747,
+      "tp": 2.078789,
+      "sl": 2.012053,
+      "generated_at": 1792557706.4871666
     }
   ]
 }
