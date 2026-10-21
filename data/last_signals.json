@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792603341.0093668,
+  "generated_at": 1792619560.1280465,
   "signals": [
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "direction": "long",
+      "entry": 1353.55907,
+      "tp": 1371.773146,
+      "sl": 1341.416352,
+      "generated_at": 1792619560.1276593
+    },
     {
       "id": "near",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 5.307086,
-      "tp": 5.38775,
-      "sl": 5.25331,
-      "generated_at": 1792603341.008961
+      "entry": 5.367796,
+      "tp": 5.442009,
+      "sl": 5.31832,
+      "generated_at": 1792619560.1276681
     },
     {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 0.004889,
-      "tp": 0.004954,
-      "sl": 0.004845,
-      "generated_at": 1792603341.0089662
+      "entry": 0.115775,
+      "tp": 0.11696,
+      "sl": 0.114985,
+      "generated_at": 1792619560.127677
+    },
+    {
+      "id": "ethena",
+      "symbol": "ENA",
+      "name": "Ethena",
+      "direction": "long",
+      "entry": 0.217068,
+      "tp": 0.221274,
+      "sl": 0.214264,
+      "generated_at": 1792619560.1276817
     },
     {
       "id": "venice-token",
       "symbol": "VVV",
       "name": "Venice Token",
       "direction": "long",
-      "entry": 26.802725,
-      "tp": 27.259731,
-      "sl": 26.498055,
-      "generated_at": 1792603341.0089724
-    },
-    {
-      "id": "layerzero",
-      "symbol": "ZRO",
-      "name": "LayerZero",
-      "direction": "long",
-      "entry": 2.078487,
-      "tp": 2.109598,
-      "sl": 2.057747,
-      "generated_at": 1792603341.0089755
-    },
-    {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
-      "direction": "long",
-      "entry": 108.241941,
-      "tp": 108.725039,
-      "sl": 107.919876,
-      "generated_at": 1792603341.0089786
+      "entry": 27.558798,
+      "tp": 28.07675,
+      "sl": 27.213496,
+      "generated_at": 1792619560.1276867
     }
   ]
 }
