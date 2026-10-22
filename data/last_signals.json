@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792619560.1280465,
+  "generated_at": 1792644041.64112,
   "signals": [
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 1353.55907,
-      "tp": 1371.773146,
-      "sl": 1341.416352,
-      "generated_at": 1792619560.1276593
+      "entry": 613.664122,
+      "tp": 620.482911,
+      "sl": 609.118262,
+      "generated_at": 1792644041.6389034
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "pearl-2",
+      "symbol": "PEARL",
+      "name": "Pearl",
       "direction": "long",
-      "entry": 5.367796,
-      "tp": 5.442009,
-      "sl": 5.31832,
-      "generated_at": 1792619560.1276681
-    },
-    {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
-      "direction": "long",
-      "entry": 0.115775,
-      "tp": 0.11696,
-      "sl": 0.114985,
-      "generated_at": 1792619560.127677
-    },
-    {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
-      "direction": "long",
-      "entry": 0.217068,
-      "tp": 0.221274,
-      "sl": 0.214264,
-      "generated_at": 1792619560.1276817
+      "entry": 2.434448,
+      "tp": 2.493786,
+      "sl": 2.39489,
+      "generated_at": 1792644041.638911
     },
     {
       "id": "venice-token",
       "symbol": "VVV",
       "name": "Venice Token",
       "direction": "long",
-      "entry": 27.558798,
-      "tp": 28.07675,
-      "sl": 27.213496,
-      "generated_at": 1792619560.1276867
+      "entry": 27.453259,
+      "tp": 28.007163,
+      "sl": 27.083989,
+      "generated_at": 1792644041.6389189
+    },
+    {
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
+      "direction": "long",
+      "entry": 0.140377,
+      "tp": 0.14073,
+      "sl": 0.140141,
+      "generated_at": 1792644041.6389234
+    },
+    {
+      "id": "lighter",
+      "symbol": "LIT",
+      "name": "Lighter",
+      "direction": "long",
+      "entry": 3.707361,
+      "tp": 3.831933,
+      "sl": 3.624313,
+      "generated_at": 1792644041.6389275
     }
   ]
 }
