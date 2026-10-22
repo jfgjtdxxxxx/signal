@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792644041.64112,
+  "generated_at": 1792670114.2709675,
   "signals": [
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 613.664122,
-      "tp": 620.482911,
-      "sl": 609.118262,
-      "generated_at": 1792644041.6389034
+      "entry": 641.199813,
+      "tp": 649.669613,
+      "sl": 635.55328,
+      "generated_at": 1792670114.270592
     },
     {
-      "id": "pearl-2",
-      "symbol": "PEARL",
-      "name": "Pearl",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 2.434448,
-      "tp": 2.493786,
-      "sl": 2.39489,
-      "generated_at": 1792644041.638911
+      "entry": 1.150647,
+      "tp": 1.151257,
+      "sl": 1.15024,
+      "generated_at": 1792670114.2706006
+    },
+    {
+      "id": "memecore",
+      "symbol": "M",
+      "name": "MemeCore",
+      "direction": "long",
+      "entry": 0.893399,
+      "tp": 0.929704,
+      "sl": 0.869196,
+      "generated_at": 1792670114.2706091
     },
     {
       "id": "venice-token",
       "symbol": "VVV",
       "name": "Venice Token",
       "direction": "long",
-      "entry": 27.453259,
-      "tp": 28.007163,
-      "sl": 27.083989,
-      "generated_at": 1792644041.6389189
+      "entry": 27.703796,
+      "tp": 28.205878,
+      "sl": 27.369075,
+      "generated_at": 1792670114.2706149
     },
     {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "direction": "long",
-      "entry": 0.140377,
-      "tp": 0.14073,
-      "sl": 0.140141,
-      "generated_at": 1792644041.6389234
-    },
-    {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
-      "direction": "long",
-      "entry": 3.707361,
-      "tp": 3.831933,
-      "sl": 3.624313,
-      "generated_at": 1792644041.6389275
+      "entry": 2399.710295,
+      "tp": 2411.236355,
+      "sl": 2392.026255,
+      "generated_at": 1792670114.2706199
     }
   ]
 }
