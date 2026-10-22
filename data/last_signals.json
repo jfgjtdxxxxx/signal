@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792689720.5142677,
+  "generated_at": 1792705638.2434845,
   "signals": [
     {
-      "id": "memecore",
-      "symbol": "M",
-      "name": "MemeCore",
+      "id": "kucoin-shares",
+      "symbol": "KCS",
+      "name": "KuCoin",
       "direction": "long",
-      "entry": 0.904153,
-      "tp": 0.948609,
-      "sl": 0.874515,
-      "generated_at": 1792689720.5138624
+      "entry": 7.372488,
+      "tp": 7.401192,
+      "sl": 7.353352,
+      "generated_at": 1792705638.2430522
     },
     {
-      "id": "falcon-finance",
-      "symbol": "USDF",
-      "name": "Falcon USD",
+      "id": "akedo",
+      "symbol": "AKE",
+      "name": "Akedo",
       "direction": "long",
-      "entry": 0.995826,
-      "tp": 0.996064,
-      "sl": 0.995668,
-      "generated_at": 1792689720.5138714
+      "entry": 0.031222,
+      "tp": 0.032394,
+      "sl": 0.03044,
+      "generated_at": 1792705638.2430596
     },
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "figure-heloc",
+      "symbol": "FIGR_HELOC",
+      "name": "Figure Heloc",
       "direction": "long",
-      "entry": 1.313885,
-      "tp": 1.319144,
-      "sl": 1.31038,
-      "generated_at": 1792689720.5138805
+      "entry": 1.039871,
+      "tp": 1.043237,
+      "sl": 1.037628,
+      "generated_at": 1792705638.243067
     },
     {
-      "id": "aster-2",
-      "symbol": "ASTER",
-      "name": "Aster",
+      "id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
       "direction": "long",
-      "entry": 0.697151,
-      "tp": 0.700011,
-      "sl": 0.695245,
-      "generated_at": 1792689720.5138855
+      "entry": 77.813094,
+      "tp": 78.362513,
+      "sl": 77.446815,
+      "generated_at": 1792705638.2430713
     },
     {
-      "id": "binancecoin",
-      "symbol": "BNB",
-      "name": "BNB",
+      "id": "polkadot",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "direction": "long",
-      "entry": 728.164589,
-      "tp": 730.441734,
-      "sl": 726.646492,
-      "generated_at": 1792689720.5138903
+      "entry": 1.113769,
+      "tp": 1.119732,
+      "sl": 1.109794,
+      "generated_at": 1792705638.2430751
     }
   ]
 }
