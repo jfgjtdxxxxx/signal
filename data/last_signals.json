@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792730732.682416,
+  "generated_at": 1792755984.4517457,
   "signals": [
     {
-      "id": "akedo",
-      "symbol": "AKE",
-      "name": "Akedo",
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
       "direction": "long",
-      "entry": 0.034579,
-      "tp": 0.035753,
-      "sl": 0.033795,
-      "generated_at": 1792730732.6820316
+      "entry": 5e-06,
+      "tp": 5e-06,
+      "sl": 5e-06,
+      "generated_at": 1792755984.451352
     },
     {
-      "id": "kucoin-shares",
-      "symbol": "KCS",
-      "name": "KuCoin",
+      "id": "polkadot",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "direction": "long",
-      "entry": 7.353897,
-      "tp": 7.386395,
-      "sl": 7.332232,
-      "generated_at": 1792730732.6820378
+      "entry": 1.176378,
+      "tp": 1.193028,
+      "sl": 1.165278,
+      "generated_at": 1792755984.4513612
+    },
+    {
+      "id": "cosmos",
+      "symbol": "ATOM",
+      "name": "Cosmos Hub",
+      "direction": "long",
+      "entry": 1.755562,
+      "tp": 1.77431,
+      "sl": 1.743064,
+      "generated_at": 1792755984.45137
     },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 81666.286261,
-      "tp": 81938.296677,
-      "sl": 81484.945984,
-      "generated_at": 1792730732.6820452
+      "entry": 81536.999568,
+      "tp": 81785.56914,
+      "sl": 81371.28652,
+      "generated_at": 1792755984.451376
     },
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 2403.300032,
-      "tp": 2415.207495,
-      "sl": 2395.361722,
-      "generated_at": 1792730732.6820483
-    },
-    {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
-      "direction": "long",
-      "entry": 1.317171,
-      "tp": 1.323234,
-      "sl": 1.31313,
-      "generated_at": 1792730732.6820512
+      "entry": 103.959768,
+      "tp": 104.461885,
+      "sl": 103.625023,
+      "generated_at": 1792755984.4513812
     }
   ]
 }
