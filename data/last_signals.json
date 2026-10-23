@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792705638.2434845,
+  "generated_at": 1792730732.682416,
   "signals": [
-    {
-      "id": "kucoin-shares",
-      "symbol": "KCS",
-      "name": "KuCoin",
-      "direction": "long",
-      "entry": 7.372488,
-      "tp": 7.401192,
-      "sl": 7.353352,
-      "generated_at": 1792705638.2430522
-    },
     {
       "id": "akedo",
       "symbol": "AKE",
       "name": "Akedo",
       "direction": "long",
-      "entry": 0.031222,
-      "tp": 0.032394,
-      "sl": 0.03044,
-      "generated_at": 1792705638.2430596
+      "entry": 0.034579,
+      "tp": 0.035753,
+      "sl": 0.033795,
+      "generated_at": 1792730732.6820316
     },
     {
-      "id": "figure-heloc",
-      "symbol": "FIGR_HELOC",
-      "name": "Figure Heloc",
+      "id": "kucoin-shares",
+      "symbol": "KCS",
+      "name": "KuCoin",
       "direction": "long",
-      "entry": 1.039871,
-      "tp": 1.043237,
-      "sl": 1.037628,
-      "generated_at": 1792705638.243067
+      "entry": 7.353897,
+      "tp": 7.386395,
+      "sl": 7.332232,
+      "generated_at": 1792730732.6820378
     },
     {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 77.813094,
-      "tp": 78.362513,
-      "sl": 77.446815,
-      "generated_at": 1792705638.2430713
+      "entry": 81666.286261,
+      "tp": 81938.296677,
+      "sl": 81484.945984,
+      "generated_at": 1792730732.6820452
     },
     {
-      "id": "polkadot",
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "direction": "long",
-      "entry": 1.113769,
-      "tp": 1.119732,
-      "sl": 1.109794,
-      "generated_at": 1792705638.2430751
+      "entry": 2403.300032,
+      "tp": 2415.207495,
+      "sl": 2395.361722,
+      "generated_at": 1792730732.6820483
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
+      "direction": "long",
+      "entry": 1.317171,
+      "tp": 1.323234,
+      "sl": 1.31313,
+      "generated_at": 1792730732.6820512
     }
   ]
 }
