@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792775684.202842,
+  "generated_at": 1792791569.9790077,
   "signals": [
     {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 5e-06,
-      "tp": 5e-06,
-      "sl": 5e-06,
-      "generated_at": 1792775684.202397
-    },
-    {
-      "id": "akedo",
-      "symbol": "AKE",
-      "name": "Akedo",
-      "direction": "long",
-      "entry": 0.0359,
-      "tp": 0.038061,
-      "sl": 0.03446,
-      "generated_at": 1792775684.2024052
-    },
-    {
-      "id": "binancecoin",
-      "symbol": "BNB",
-      "name": "BNB",
-      "direction": "long",
-      "entry": 746.6292,
-      "tp": 748.503977,
-      "sl": 745.379349,
-      "generated_at": 1792775684.202414
-    },
-    {
-      "id": "bitcoin-cash",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "direction": "long",
-      "entry": 286.67618,
-      "tp": 288.286701,
-      "sl": 285.602498,
-      "generated_at": 1792775684.2024198
+      "entry": 9.04696,
+      "tp": 9.051548,
+      "sl": 9.043901,
+      "generated_at": 1792791569.9786177
     },
     {
       "id": "ethena",
       "symbol": "ENA",
       "name": "Ethena",
       "direction": "long",
-      "entry": 0.209989,
-      "tp": 0.212336,
-      "sl": 0.208425,
-      "generated_at": 1792775684.202424
+      "entry": 0.207874,
+      "tp": 0.210036,
+      "sl": 0.206432,
+      "generated_at": 1792791569.9786549
+    },
+    {
+      "id": "bitget-token",
+      "symbol": "BGB",
+      "name": "Bitget Token",
+      "direction": "long",
+      "entry": 1.905195,
+      "tp": 1.909249,
+      "sl": 1.902493,
+      "generated_at": 1792791569.9786646
+    },
+    {
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
+      "direction": "long",
+      "entry": 0.140973,
+      "tp": 0.141404,
+      "sl": 0.140685,
+      "generated_at": 1792791569.9786706
+    },
+    {
+      "id": "kucoin-shares",
+      "symbol": "KCS",
+      "name": "KuCoin",
+      "direction": "long",
+      "entry": 7.443527,
+      "tp": 7.480356,
+      "sl": 7.418975,
+      "generated_at": 1792791569.978675
     }
   ]
 }
