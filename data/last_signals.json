@@ -1,5 +1,5 @@
 {
-  "generated_at": 1792755984.4517457,
+  "generated_at": 1792775684.202842,
   "signals": [
     {
       "id": "pepe",
@@ -9,47 +9,47 @@
       "entry": 5e-06,
       "tp": 5e-06,
       "sl": 5e-06,
-      "generated_at": 1792755984.451352
+      "generated_at": 1792775684.202397
     },
     {
-      "id": "polkadot",
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "id": "akedo",
+      "symbol": "AKE",
+      "name": "Akedo",
       "direction": "long",
-      "entry": 1.176378,
-      "tp": 1.193028,
-      "sl": 1.165278,
-      "generated_at": 1792755984.4513612
+      "entry": 0.0359,
+      "tp": 0.038061,
+      "sl": 0.03446,
+      "generated_at": 1792775684.2024052
     },
     {
-      "id": "cosmos",
-      "symbol": "ATOM",
-      "name": "Cosmos Hub",
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
       "direction": "long",
-      "entry": 1.755562,
-      "tp": 1.77431,
-      "sl": 1.743064,
-      "generated_at": 1792755984.45137
+      "entry": 746.6292,
+      "tp": 748.503977,
+      "sl": 745.379349,
+      "generated_at": 1792775684.202414
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "direction": "long",
-      "entry": 81536.999568,
-      "tp": 81785.56914,
-      "sl": 81371.28652,
-      "generated_at": 1792755984.451376
+      "entry": 286.67618,
+      "tp": 288.286701,
+      "sl": 285.602498,
+      "generated_at": 1792775684.2024198
     },
     {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
+      "id": "ethena",
+      "symbol": "ENA",
+      "name": "Ethena",
       "direction": "long",
-      "entry": 103.959768,
-      "tp": 104.461885,
-      "sl": 103.625023,
-      "generated_at": 1792755984.4513812
+      "entry": 0.209989,
+      "tp": 0.212336,
+      "sl": 0.208425,
+      "generated_at": 1792775684.202424
     }
   ]
 }
