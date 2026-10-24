@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792791569.9790077,
+  "generated_at": 1792816560.1938732,
   "signals": [
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
       "direction": "long",
-      "entry": 9.04696,
-      "tp": 9.051548,
-      "sl": 9.043901,
-      "generated_at": 1792791569.9786177
+      "entry": 0.008192,
+      "tp": 0.008243,
+      "sl": 0.008158,
+      "generated_at": 1792816560.1935399
     },
     {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
+      "id": "memecore",
+      "symbol": "M",
+      "name": "MemeCore",
       "direction": "long",
-      "entry": 0.207874,
-      "tp": 0.210036,
-      "sl": 0.206432,
-      "generated_at": 1792791569.9786549
+      "entry": 0.951272,
+      "tp": 0.968409,
+      "sl": 0.939847,
+      "generated_at": 1792816560.193549
     },
     {
-      "id": "bitget-token",
-      "symbol": "BGB",
-      "name": "Bitget Token",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 1.905195,
-      "tp": 1.909249,
-      "sl": 1.902493,
-      "generated_at": 1792791569.9786646
+      "entry": 1.000267,
+      "tp": 1.000385,
+      "sl": 1.000188,
+      "generated_at": 1792816560.1935575
     },
     {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
+      "id": "open-usd",
+      "symbol": "OUSD",
+      "name": "Open USD",
       "direction": "long",
-      "entry": 0.140973,
-      "tp": 0.141404,
-      "sl": 0.140685,
-      "generated_at": 1792791569.9786706
+      "entry": 0.99937,
+      "tp": 0.999806,
+      "sl": 0.99908,
+      "generated_at": 1792816560.1935625
     },
     {
-      "id": "kucoin-shares",
-      "symbol": "KCS",
-      "name": "KuCoin",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 7.443527,
-      "tp": 7.480356,
-      "sl": 7.418975,
-      "generated_at": 1792791569.978675
+      "entry": 181.43113,
+      "tp": 183.811259,
+      "sl": 179.844378,
+      "generated_at": 1792816560.1935675
     }
   ]
 }
