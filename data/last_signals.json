@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792839941.577333,
+  "generated_at": 1792858071.7903888,
   "signals": [
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 0.008104,
-      "tp": 0.008149,
-      "sl": 0.008074,
-      "generated_at": 1792839941.5768907
-    },
-    {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
-      "direction": "long",
-      "entry": 0.329986,
-      "tp": 0.330291,
-      "sl": 0.329782,
-      "generated_at": 1792839941.5768974
-    },
-    {
-      "id": "open-usd",
-      "symbol": "OUSD",
-      "name": "Open USD",
-      "direction": "long",
-      "entry": 1.000569,
-      "tp": 1.001099,
-      "sl": 1.000216,
-      "generated_at": 1792839941.5769064
+      "entry": 1.000301,
+      "tp": 1.000385,
+      "sl": 1.000244,
+      "generated_at": 1792858071.790012
     },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 588.608572,
-      "tp": 594.750056,
-      "sl": 584.514249,
-      "generated_at": 1792839941.5769112
+      "entry": 591.611621,
+      "tp": 595.817611,
+      "sl": 588.807627,
+      "generated_at": 1792858071.7900212
     },
     {
       "id": "leo-token",
       "symbol": "LEO",
       "name": "LEO Token",
       "direction": "long",
-      "entry": 9.02834,
-      "tp": 9.054291,
-      "sl": 9.01104,
-      "generated_at": 1792839941.5769148
+      "entry": 9.038195,
+      "tp": 9.042321,
+      "sl": 9.035445,
+      "generated_at": 1792858071.7900298
+    },
+    {
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
+      "direction": "long",
+      "entry": 3982.532156,
+      "tp": 3985.097912,
+      "sl": 3980.821652,
+      "generated_at": 1792858071.790035
+    },
+    {
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
+      "direction": "long",
+      "entry": 0.004142,
+      "tp": 0.004179,
+      "sl": 0.004117,
+      "generated_at": 1792858071.7900398
     }
   ]
 }
