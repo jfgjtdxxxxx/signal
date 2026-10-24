@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792816560.1938732,
+  "generated_at": 1792839941.577333,
   "signals": [
     {
       "id": "rain",
       "symbol": "RAIN",
       "name": "Rain",
       "direction": "long",
-      "entry": 0.008192,
-      "tp": 0.008243,
-      "sl": 0.008158,
-      "generated_at": 1792816560.1935399
+      "entry": 0.008104,
+      "tp": 0.008149,
+      "sl": 0.008074,
+      "generated_at": 1792839941.5768907
     },
     {
-      "id": "memecore",
-      "symbol": "M",
-      "name": "MemeCore",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 0.951272,
-      "tp": 0.968409,
-      "sl": 0.939847,
-      "generated_at": 1792816560.193549
-    },
-    {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
-      "direction": "long",
-      "entry": 1.000267,
-      "tp": 1.000385,
-      "sl": 1.000188,
-      "generated_at": 1792816560.1935575
+      "entry": 0.329986,
+      "tp": 0.330291,
+      "sl": 0.329782,
+      "generated_at": 1792839941.5768974
     },
     {
       "id": "open-usd",
       "symbol": "OUSD",
       "name": "Open USD",
       "direction": "long",
-      "entry": 0.99937,
-      "tp": 0.999806,
-      "sl": 0.99908,
-      "generated_at": 1792816560.1935625
+      "entry": 1.000569,
+      "tp": 1.001099,
+      "sl": 1.000216,
+      "generated_at": 1792839941.5769064
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 181.43113,
-      "tp": 183.811259,
-      "sl": 179.844378,
-      "generated_at": 1792816560.1935675
+      "entry": 588.608572,
+      "tp": 594.750056,
+      "sl": 584.514249,
+      "generated_at": 1792839941.5769112
+    },
+    {
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
+      "direction": "long",
+      "entry": 9.02834,
+      "tp": 9.054291,
+      "sl": 9.01104,
+      "generated_at": 1792839941.5769148
     }
   ]
 }
