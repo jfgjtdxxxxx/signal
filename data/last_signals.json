@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792945139.0757592,
+  "generated_at": 1792962215.4111147,
   "signals": [
-    {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "direction": "long",
-      "entry": 1208.044782,
-      "tp": 1220.936204,
-      "sl": 1199.450501,
-      "generated_at": 1792945139.0754356
-    },
     {
       "id": "quant-network",
       "symbol": "QNT",
       "name": "Quant",
       "direction": "long",
-      "entry": 186.401531,
-      "tp": 188.029418,
-      "sl": 185.316273,
-      "generated_at": 1792945139.07544
+      "entry": 192.636115,
+      "tp": 195.95471,
+      "sl": 190.423718,
+      "generated_at": 1792962215.410517
     },
     {
-      "id": "layerzero",
-      "symbol": "ZRO",
-      "name": "LayerZero",
+      "id": "ethena",
+      "symbol": "ENA",
+      "name": "Ethena",
       "direction": "long",
-      "entry": 1.742066,
-      "tp": 1.760817,
-      "sl": 1.729565,
-      "generated_at": 1792945139.0754447
+      "entry": 0.206087,
+      "tp": 0.209195,
+      "sl": 0.204015,
+      "generated_at": 1792962215.4105246
     },
     {
-      "id": "dash",
-      "symbol": "DASH",
-      "name": "Dash",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 52.1684,
-      "tp": 52.757894,
-      "sl": 51.775403,
-      "generated_at": 1792945139.0754476
+      "entry": 25.449428,
+      "tp": 25.708387,
+      "sl": 25.276788,
+      "generated_at": 1792962215.4105332
+    },
+    {
+      "id": "injective-protocol",
+      "symbol": "INJ",
+      "name": "Injective",
+      "direction": "long",
+      "entry": 7.955658,
+      "tp": 8.07009,
+      "sl": 7.87937,
+      "generated_at": 1792962215.4105375
     },
     {
       "id": "rain",
       "symbol": "RAIN",
       "name": "Rain",
       "direction": "long",
-      "entry": 0.008426,
-      "tp": 0.008604,
-      "sl": 0.008307,
-      "generated_at": 1792945139.07545
+      "entry": 0.008551,
+      "tp": 0.00878,
+      "sl": 0.008399,
+      "generated_at": 1792962215.4105413
     }
   ]
 }
