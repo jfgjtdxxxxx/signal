@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792962215.4111147,
+  "generated_at": 1792971074.4520476,
   "signals": [
     {
       "id": "quant-network",
       "symbol": "QNT",
       "name": "Quant",
       "direction": "long",
-      "entry": 192.636115,
-      "tp": 195.95471,
-      "sl": 190.423718,
-      "generated_at": 1792962215.410517
+      "entry": 191.676334,
+      "tp": 195.308118,
+      "sl": 189.255145,
+      "generated_at": 1792971074.4516997
     },
     {
       "id": "ethena",
       "symbol": "ENA",
       "name": "Ethena",
       "direction": "long",
-      "entry": 0.206087,
-      "tp": 0.209195,
-      "sl": 0.204015,
-      "generated_at": 1792962215.4105246
-    },
-    {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
-      "direction": "long",
-      "entry": 25.449428,
-      "tp": 25.708387,
-      "sl": 25.276788,
-      "generated_at": 1792962215.4105332
-    },
-    {
-      "id": "injective-protocol",
-      "symbol": "INJ",
-      "name": "Injective",
-      "direction": "long",
-      "entry": 7.955658,
-      "tp": 8.07009,
-      "sl": 7.87937,
-      "generated_at": 1792962215.4105375
+      "entry": 0.207561,
+      "tp": 0.210291,
+      "sl": 0.205742,
+      "generated_at": 1792971074.451709
     },
     {
       "id": "rain",
       "symbol": "RAIN",
       "name": "Rain",
       "direction": "long",
-      "entry": 0.008551,
-      "tp": 0.00878,
-      "sl": 0.008399,
-      "generated_at": 1792962215.4105413
+      "entry": 0.008457,
+      "tp": 0.008671,
+      "sl": 0.008315,
+      "generated_at": 1792971074.451718
+    },
+    {
+      "id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "direction": "long",
+      "entry": 76.598758,
+      "tp": 77.059169,
+      "sl": 76.291817,
+      "generated_at": 1792971074.4517233
+    },
+    {
+      "id": "the-open-network",
+      "symbol": "GRAM",
+      "name": "Gram (prev. Toncoin)",
+      "direction": "long",
+      "entry": 1.259215,
+      "tp": 1.266224,
+      "sl": 1.254542,
+      "generated_at": 1792971074.4517279
     }
   ]
 }
