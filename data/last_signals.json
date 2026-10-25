@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792903124.5531125,
+  "generated_at": 1792927884.5410764,
   "signals": [
-    {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
-      "direction": "long",
-      "entry": 609.95045,
-      "tp": 616.027199,
-      "sl": 605.899284,
-      "generated_at": 1792903124.5526242
-    },
     {
       "id": "leo-token",
       "symbol": "LEO",
       "name": "LEO Token",
       "direction": "long",
-      "entry": 9.037651,
-      "tp": 9.043707,
-      "sl": 9.033613,
-      "generated_at": 1792903124.5526319
-    },
-    {
-      "id": "falcon-finance",
-      "symbol": "USDF",
-      "name": "Falcon USD",
-      "direction": "long",
-      "entry": 0.995211,
-      "tp": 0.995305,
-      "sl": 0.995149,
-      "generated_at": 1792903124.55264
+      "entry": 9.037346,
+      "tp": 9.04555,
+      "sl": 9.031876,
+      "generated_at": 1792927884.5402782
     },
     {
       "id": "just",
       "symbol": "JST",
       "name": "JUST",
       "direction": "long",
-      "entry": 0.14098,
-      "tp": 0.141187,
-      "sl": 0.140841,
-      "generated_at": 1792903124.5526443
+      "entry": 0.141074,
+      "tp": 0.141265,
+      "sl": 0.140947,
+      "generated_at": 1792927884.5402875
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "open-usd",
+      "symbol": "OUSD",
+      "name": "Open USD",
       "direction": "long",
-      "entry": 80774.703964,
-      "tp": 81028.065407,
-      "sl": 80605.796335,
-      "generated_at": 1792903124.552649
+      "entry": 1.000018,
+      "tp": 1.000607,
+      "sl": 0.999625,
+      "generated_at": 1792927884.540297
+    },
+    {
+      "id": "nexo",
+      "symbol": "NEXO",
+      "name": "NEXO",
+      "direction": "long",
+      "entry": 0.807904,
+      "tp": 0.813962,
+      "sl": 0.803865,
+      "generated_at": 1792927884.5403023
+    },
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "direction": "long",
+      "entry": 4.408216,
+      "tp": 4.445611,
+      "sl": 4.383286,
+      "generated_at": 1792927884.5403073
     }
   ]
 }
