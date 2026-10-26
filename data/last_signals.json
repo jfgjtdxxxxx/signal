@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793019782.0357785,
+  "generated_at": 1793047556.7434165,
   "signals": [
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "open-usd",
+      "symbol": "OUSD",
+      "name": "Open USD",
       "direction": "long",
-      "entry": 218.53154,
-      "tp": 222.045863,
-      "sl": 216.188658,
-      "generated_at": 1793019782.0353565
-    },
-    {
-      "id": "akedo",
-      "symbol": "AKE",
-      "name": "Akedo",
-      "direction": "long",
-      "entry": 0.031731,
-      "tp": 0.032163,
-      "sl": 0.031443,
-      "generated_at": 1793019782.035363
-    },
-    {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
-      "direction": "long",
-      "entry": 4.563895,
-      "tp": 4.608211,
-      "sl": 4.53435,
-      "generated_at": 1793019782.0353696
+      "entry": 1.000996,
+      "tp": 1.00125,
+      "sl": 1.000827,
+      "generated_at": 1793047556.7430263
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
       "name": "BNB",
       "direction": "long",
-      "entry": 740.371194,
-      "tp": 743.569574,
-      "sl": 738.238941,
-      "generated_at": 1793019782.0353734
+      "entry": 741.432166,
+      "tp": 744.077704,
+      "sl": 739.668475,
+      "generated_at": 1793047556.7430348
     },
     {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
+      "id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
       "direction": "long",
-      "entry": 0.330908,
-      "tp": 0.331263,
-      "sl": 0.330671,
-      "generated_at": 1793019782.0353763
+      "entry": 77.788112,
+      "tp": 78.453948,
+      "sl": 77.344222,
+      "generated_at": 1793047556.7430441
+    },
+    {
+      "id": "okb",
+      "symbol": "OKB",
+      "name": "OKB",
+      "direction": "long",
+      "entry": 108.881795,
+      "tp": 109.402788,
+      "sl": 108.534466,
+      "generated_at": 1793047556.7430491
+    },
+    {
+      "id": "ondo-finance",
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "direction": "long",
+      "entry": 0.413573,
+      "tp": 0.417336,
+      "sl": 0.411064,
+      "generated_at": 1793047556.7430542
     }
   ]
 }
