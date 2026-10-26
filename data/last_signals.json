@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792971074.4520476,
+  "generated_at": 1792989762.3627713,
   "signals": [
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 191.676334,
-      "tp": 195.308118,
-      "sl": 189.255145,
-      "generated_at": 1792971074.4516997
+      "entry": 0.330109,
+      "tp": 0.330511,
+      "sl": 0.329842,
+      "generated_at": 1792989762.362355
     },
     {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 0.207561,
-      "tp": 0.210291,
-      "sl": 0.205742,
-      "generated_at": 1792971074.451709
+      "entry": 4005.937031,
+      "tp": 4011.541338,
+      "sl": 4002.200826,
+      "generated_at": 1792989762.362363
     },
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "pax-gold",
+      "symbol": "PAXG",
+      "name": "PAX Gold",
       "direction": "long",
-      "entry": 0.008457,
-      "tp": 0.008671,
-      "sl": 0.008315,
-      "generated_at": 1792971074.451718
+      "entry": 4017.130806,
+      "tp": 4021.885567,
+      "sl": 4013.960965,
+      "generated_at": 1792989762.3623705
     },
     {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 76.598758,
-      "tp": 77.059169,
-      "sl": 76.291817,
-      "generated_at": 1792971074.4517233
+      "entry": 9.009126,
+      "tp": 9.01755,
+      "sl": 9.00351,
+      "generated_at": 1792989762.362374
     },
     {
-      "id": "the-open-network",
-      "symbol": "GRAM",
-      "name": "Gram (prev. Toncoin)",
+      "id": "okb",
+      "symbol": "OKB",
+      "name": "OKB",
       "direction": "long",
-      "entry": 1.259215,
-      "tp": 1.266224,
-      "sl": 1.254542,
-      "generated_at": 1792971074.4517279
+      "entry": 107.355397,
+      "tp": 107.791485,
+      "sl": 107.064671,
+      "generated_at": 1792989762.3623776
     }
   ]
 }
