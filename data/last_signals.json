@@ -1,55 +1,55 @@
 {
-  "generated_at": 1792989762.3627713,
+  "generated_at": 1793019782.0357785,
   "signals": [
+    {
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
+      "direction": "long",
+      "entry": 218.53154,
+      "tp": 222.045863,
+      "sl": 216.188658,
+      "generated_at": 1793019782.0353565
+    },
+    {
+      "id": "akedo",
+      "symbol": "AKE",
+      "name": "Akedo",
+      "direction": "long",
+      "entry": 0.031731,
+      "tp": 0.032163,
+      "sl": 0.031443,
+      "generated_at": 1793019782.035363
+    },
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "direction": "long",
+      "entry": 4.563895,
+      "tp": 4.608211,
+      "sl": 4.53435,
+      "generated_at": 1793019782.0353696
+    },
+    {
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
+      "direction": "long",
+      "entry": 740.371194,
+      "tp": 743.569574,
+      "sl": 738.238941,
+      "generated_at": 1793019782.0353734
+    },
     {
       "id": "tron",
       "symbol": "TRX",
       "name": "TRON",
       "direction": "long",
-      "entry": 0.330109,
-      "tp": 0.330511,
-      "sl": 0.329842,
-      "generated_at": 1792989762.362355
-    },
-    {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
-      "direction": "long",
-      "entry": 4005.937031,
-      "tp": 4011.541338,
-      "sl": 4002.200826,
-      "generated_at": 1792989762.362363
-    },
-    {
-      "id": "pax-gold",
-      "symbol": "PAXG",
-      "name": "PAX Gold",
-      "direction": "long",
-      "entry": 4017.130806,
-      "tp": 4021.885567,
-      "sl": 4013.960965,
-      "generated_at": 1792989762.3623705
-    },
-    {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
-      "direction": "long",
-      "entry": 9.009126,
-      "tp": 9.01755,
-      "sl": 9.00351,
-      "generated_at": 1792989762.362374
-    },
-    {
-      "id": "okb",
-      "symbol": "OKB",
-      "name": "OKB",
-      "direction": "long",
-      "entry": 107.355397,
-      "tp": 107.791485,
-      "sl": 107.064671,
-      "generated_at": 1792989762.3623776
+      "entry": 0.330908,
+      "tp": 0.331263,
+      "sl": 0.330671,
+      "generated_at": 1793019782.0353763
     }
   ]
 }
