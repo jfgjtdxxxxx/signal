@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793115483.280983,
+  "generated_at": 1793139928.37309,
   "signals": [
-    {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
-      "direction": "long",
-      "entry": 1.314249,
-      "tp": 1.320525,
-      "sl": 1.310066,
-      "generated_at": 1793115483.2805443
-    },
     {
       "id": "zcash",
       "symbol": "ZEC",
       "name": "Zcash",
       "direction": "long",
-      "entry": 1278.754233,
-      "tp": 1288.895774,
-      "sl": 1271.993206,
-      "generated_at": 1793115483.2805512
+      "entry": 1303.269676,
+      "tp": 1316.47965,
+      "sl": 1294.463027,
+      "generated_at": 1793139928.372692
     },
     {
-      "id": "aster-2",
-      "symbol": "ASTER",
-      "name": "Aster",
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
       "direction": "long",
-      "entry": 0.713342,
-      "tp": 0.715175,
-      "sl": 0.71212,
-      "generated_at": 1793115483.2805576
+      "entry": 5e-06,
+      "tp": 5e-06,
+      "sl": 4e-06,
+      "generated_at": 1793139928.3726988
     },
     {
-      "id": "injective-protocol",
-      "symbol": "INJ",
-      "name": "Injective",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 8.115153,
-      "tp": 8.212302,
-      "sl": 8.050387,
-      "generated_at": 1793115483.2805612
+      "entry": 80800.180985,
+      "tp": 81054.863566,
+      "sl": 80630.392597,
+      "generated_at": 1793139928.3727067
     },
     {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "direction": "long",
-      "entry": 78.992069,
-      "tp": 79.353436,
-      "sl": 78.751158,
-      "generated_at": 1793115483.2805643
+      "entry": 2347.233164,
+      "tp": 2356.846634,
+      "sl": 2340.824184,
+      "generated_at": 1793139928.3727107
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
+      "direction": "long",
+      "entry": 1.322421,
+      "tp": 1.327915,
+      "sl": 1.318758,
+      "generated_at": 1793139928.3727143
     }
   ]
 }
