@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793061761.2700324,
+  "generated_at": 1793092367.5429187,
   "signals": [
     {
-      "id": "quack-ai",
-      "symbol": "Q",
-      "name": "Quack AI",
+      "id": "dash",
+      "symbol": "DASH",
+      "name": "Dash",
       "direction": "long",
-      "entry": 0.215718,
-      "tp": 0.233196,
-      "sl": 0.204066,
-      "generated_at": 1793061761.2696443
+      "entry": 54.442311,
+      "tp": 55.174186,
+      "sl": 53.954394,
+      "generated_at": 1793092367.542467
     },
     {
-      "id": "injective-protocol",
-      "symbol": "INJ",
-      "name": "Injective",
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
       "direction": "long",
-      "entry": 8.01117,
-      "tp": 8.107476,
-      "sl": 7.946967,
-      "generated_at": 1793061761.2696528
-    },
-    {
-      "id": "binancecoin",
-      "symbol": "BNB",
-      "name": "BNB",
-      "direction": "long",
-      "entry": 743.479953,
-      "tp": 746.322519,
-      "sl": 741.584909,
-      "generated_at": 1793061761.2696624
-    },
-    {
-      "id": "dogecoin",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "direction": "long",
-      "entry": 0.077748,
-      "tp": 0.078174,
-      "sl": 0.077464,
-      "generated_at": 1793061761.269668
+      "entry": 1.298871,
+      "tp": 1.305037,
+      "sl": 1.29476,
+      "generated_at": 1793092367.5424774
     },
     {
       "id": "leo-token",
       "symbol": "LEO",
       "name": "LEO Token",
       "direction": "long",
-      "entry": 9.019905,
-      "tp": 9.045215,
-      "sl": 9.003032,
-      "generated_at": 1793061761.2696726
+      "entry": 9.035508,
+      "tp": 9.043086,
+      "sl": 9.030456,
+      "generated_at": 1793092367.5424864
+    },
+    {
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "direction": "long",
+      "entry": 281.199438,
+      "tp": 282.653124,
+      "sl": 280.230314,
+      "generated_at": 1793092367.542492
+    },
+    {
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
+      "direction": "long",
+      "entry": 1.150855,
+      "tp": 1.152307,
+      "sl": 1.149887,
+      "generated_at": 1793092367.542496
     }
   ]
 }
