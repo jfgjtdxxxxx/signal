@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793092367.5429187,
+  "generated_at": 1793115483.280983,
   "signals": [
-    {
-      "id": "dash",
-      "symbol": "DASH",
-      "name": "Dash",
-      "direction": "long",
-      "entry": 54.442311,
-      "tp": 55.174186,
-      "sl": 53.954394,
-      "generated_at": 1793092367.542467
-    },
     {
       "id": "ripple",
       "symbol": "XRP",
       "name": "XRP",
       "direction": "long",
-      "entry": 1.298871,
-      "tp": 1.305037,
-      "sl": 1.29476,
-      "generated_at": 1793092367.5424774
+      "entry": 1.314249,
+      "tp": 1.320525,
+      "sl": 1.310066,
+      "generated_at": 1793115483.2805443
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 9.035508,
-      "tp": 9.043086,
-      "sl": 9.030456,
-      "generated_at": 1793092367.5424864
+      "entry": 1278.754233,
+      "tp": 1288.895774,
+      "sl": 1271.993206,
+      "generated_at": 1793115483.2805512
     },
     {
-      "id": "bitcoin-cash",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "id": "aster-2",
+      "symbol": "ASTER",
+      "name": "Aster",
       "direction": "long",
-      "entry": 281.199438,
-      "tp": 282.653124,
-      "sl": 280.230314,
-      "generated_at": 1793092367.542492
+      "entry": 0.713342,
+      "tp": 0.715175,
+      "sl": 0.71212,
+      "generated_at": 1793115483.2805576
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "injective-protocol",
+      "symbol": "INJ",
+      "name": "Injective",
       "direction": "long",
-      "entry": 1.150855,
-      "tp": 1.152307,
-      "sl": 1.149887,
-      "generated_at": 1793092367.542496
+      "entry": 8.115153,
+      "tp": 8.212302,
+      "sl": 8.050387,
+      "generated_at": 1793115483.2805612
+    },
+    {
+      "id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "direction": "long",
+      "entry": 78.992069,
+      "tp": 79.353436,
+      "sl": 78.751158,
+      "generated_at": 1793115483.2805643
     }
   ]
 }
