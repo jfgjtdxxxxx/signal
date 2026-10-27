@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793047556.7434165,
+  "generated_at": 1793061761.2700324,
   "signals": [
     {
-      "id": "open-usd",
-      "symbol": "OUSD",
-      "name": "Open USD",
+      "id": "quack-ai",
+      "symbol": "Q",
+      "name": "Quack AI",
       "direction": "long",
-      "entry": 1.000996,
-      "tp": 1.00125,
-      "sl": 1.000827,
-      "generated_at": 1793047556.7430263
+      "entry": 0.215718,
+      "tp": 0.233196,
+      "sl": 0.204066,
+      "generated_at": 1793061761.2696443
+    },
+    {
+      "id": "injective-protocol",
+      "symbol": "INJ",
+      "name": "Injective",
+      "direction": "long",
+      "entry": 8.01117,
+      "tp": 8.107476,
+      "sl": 7.946967,
+      "generated_at": 1793061761.2696528
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
       "name": "BNB",
       "direction": "long",
-      "entry": 741.432166,
-      "tp": 744.077704,
-      "sl": 739.668475,
-      "generated_at": 1793047556.7430348
+      "entry": 743.479953,
+      "tp": 746.322519,
+      "sl": 741.584909,
+      "generated_at": 1793061761.2696624
     },
     {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
+      "id": "dogecoin",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "direction": "long",
-      "entry": 77.788112,
-      "tp": 78.453948,
-      "sl": 77.344222,
-      "generated_at": 1793047556.7430441
+      "entry": 0.077748,
+      "tp": 0.078174,
+      "sl": 0.077464,
+      "generated_at": 1793061761.269668
     },
     {
-      "id": "okb",
-      "symbol": "OKB",
-      "name": "OKB",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 108.881795,
-      "tp": 109.402788,
-      "sl": 108.534466,
-      "generated_at": 1793047556.7430491
-    },
-    {
-      "id": "ondo-finance",
-      "symbol": "ONDO",
-      "name": "Ondo",
-      "direction": "long",
-      "entry": 0.413573,
-      "tp": 0.417336,
-      "sl": 0.411064,
-      "generated_at": 1793047556.7430542
+      "entry": 9.019905,
+      "tp": 9.045215,
+      "sl": 9.003032,
+      "generated_at": 1793061761.2696726
     }
   ]
 }
