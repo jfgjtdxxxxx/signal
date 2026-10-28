@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793165727.9139183,
+  "generated_at": 1793192038.5671787,
   "signals": [
     {
       "id": "pepe",
@@ -9,47 +9,47 @@
       "entry": 5e-06,
       "tp": 5e-06,
       "sl": 5e-06,
-      "generated_at": 1793165727.9135292
+      "generated_at": 1793192038.5667417
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 4.668118,
-      "tp": 4.701879,
-      "sl": 4.64561,
-      "generated_at": 1793165727.9135385
+      "entry": 101.780511,
+      "tp": 102.132728,
+      "sl": 101.545699,
+      "generated_at": 1793192038.56675
     },
     {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 0.041602,
-      "tp": 0.042051,
-      "sl": 0.041302,
-      "generated_at": 1793165727.9135473
+      "entry": 0.331407,
+      "tp": 0.331677,
+      "sl": 0.331227,
+      "generated_at": 1793192038.5667586
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
       "direction": "long",
-      "entry": 80864.71229,
-      "tp": 81036.119634,
-      "sl": 80750.440727,
-      "generated_at": 1793165727.913553
+      "entry": 754.719479,
+      "tp": 757.950781,
+      "sl": 752.565278,
+      "generated_at": 1793192038.566764
     },
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "litecoin",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "direction": "long",
-      "entry": 2351.897099,
-      "tp": 2357.439342,
-      "sl": 2348.202271,
-      "generated_at": 1793165727.9135575
+      "entry": 57.262375,
+      "tp": 57.485505,
+      "sl": 57.113621,
+      "generated_at": 1793192038.5667684
     }
   ]
 }
