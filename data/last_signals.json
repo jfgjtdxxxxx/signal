@@ -1,16 +1,6 @@
 {
-  "generated_at": 1793139928.37309,
+  "generated_at": 1793165727.9139183,
   "signals": [
-    {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "direction": "long",
-      "entry": 1303.269676,
-      "tp": 1316.47965,
-      "sl": 1294.463027,
-      "generated_at": 1793139928.372692
-    },
     {
       "id": "pepe",
       "symbol": "PEPE",
@@ -18,38 +8,48 @@
       "direction": "long",
       "entry": 5e-06,
       "tp": 5e-06,
-      "sl": 4e-06,
-      "generated_at": 1793139928.3726988
+      "sl": 5e-06,
+      "generated_at": 1793165727.9135292
+    },
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "direction": "long",
+      "entry": 4.668118,
+      "tp": 4.701879,
+      "sl": 4.64561,
+      "generated_at": 1793165727.9135385
+    },
+    {
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
+      "direction": "long",
+      "entry": 0.041602,
+      "tp": 0.042051,
+      "sl": 0.041302,
+      "generated_at": 1793165727.9135473
     },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 80800.180985,
-      "tp": 81054.863566,
-      "sl": 80630.392597,
-      "generated_at": 1793139928.3727067
+      "entry": 80864.71229,
+      "tp": 81036.119634,
+      "sl": 80750.440727,
+      "generated_at": 1793165727.913553
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "direction": "long",
-      "entry": 2347.233164,
-      "tp": 2356.846634,
-      "sl": 2340.824184,
-      "generated_at": 1793139928.3727107
-    },
-    {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
-      "direction": "long",
-      "entry": 1.322421,
-      "tp": 1.327915,
-      "sl": 1.318758,
-      "generated_at": 1793139928.3727143
+      "entry": 2351.897099,
+      "tp": 2357.439342,
+      "sl": 2348.202271,
+      "generated_at": 1793165727.9135575
     }
   ]
 }
