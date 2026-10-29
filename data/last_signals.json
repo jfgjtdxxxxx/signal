@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793219639.2310836,
+  "generated_at": 1793236012.545083,
   "signals": [
-    {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
-      "direction": "long",
-      "entry": 0.101356,
-      "tp": 0.103608,
-      "sl": 0.099854,
-      "generated_at": 1793219639.2307804
-    },
-    {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
-      "direction": "long",
-      "entry": 0.004479,
-      "tp": 0.00455,
-      "sl": 0.004432,
-      "generated_at": 1793219639.2307875
-    },
-    {
-      "id": "arbitrum",
-      "symbol": "ARB",
-      "name": "Arbitrum",
-      "direction": "long",
-      "entry": 0.174059,
-      "tp": 0.176328,
-      "sl": 0.172546,
-      "generated_at": 1793219639.2307956
-    },
     {
       "id": "kaspa",
       "symbol": "KAS",
       "name": "Kaspa",
       "direction": "long",
-      "entry": 0.036368,
-      "tp": 0.036578,
-      "sl": 0.036229,
-      "generated_at": 1793219639.2307994
+      "entry": 0.037001,
+      "tp": 0.037344,
+      "sl": 0.036773,
+      "generated_at": 1793236012.5447338
     },
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
       "direction": "long",
-      "entry": 1.334968,
-      "tp": 1.341024,
-      "sl": 1.330931,
-      "generated_at": 1793219639.2308033
+      "entry": 9.814465,
+      "tp": 9.866175,
+      "sl": 9.779992,
+      "generated_at": 1793236012.5447423
+    },
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "direction": "long",
+      "entry": 1301.155827,
+      "tp": 1310.613904,
+      "sl": 1294.850442,
+      "generated_at": 1793236012.5447524
+    },
+    {
+      "id": "stellar",
+      "symbol": "XLM",
+      "name": "Stellar",
+      "direction": "long",
+      "entry": 0.171831,
+      "tp": 0.172759,
+      "sl": 0.171212,
+      "generated_at": 1793236012.5447578
+    },
+    {
+      "id": "sui",
+      "symbol": "SUI",
+      "name": "Sui",
+      "direction": "long",
+      "entry": 0.941858,
+      "tp": 0.949061,
+      "sl": 0.937057,
+      "generated_at": 1793236012.5447621
     }
   ]
 }
