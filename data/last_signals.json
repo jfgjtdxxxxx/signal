@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793236012.545083,
+  "generated_at": 1793268463.6063807,
   "signals": [
     {
-      "id": "kaspa",
-      "symbol": "KAS",
-      "name": "Kaspa",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 0.037001,
-      "tp": 0.037344,
-      "sl": 0.036773,
-      "generated_at": 1793236012.5447338
+      "entry": 0.331177,
+      "tp": 0.331535,
+      "sl": 0.330938,
+      "generated_at": 1793268463.6058924
     },
     {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
+      "id": "htx-dao",
+      "symbol": "HTX",
+      "name": "HTX DAO",
       "direction": "long",
-      "entry": 9.814465,
-      "tp": 9.866175,
-      "sl": 9.779992,
-      "generated_at": 1793236012.5447423
+      "entry": 2e-06,
+      "tp": 2e-06,
+      "sl": 2e-06,
+      "generated_at": 1793268463.6058993
     },
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 1301.155827,
-      "tp": 1310.613904,
-      "sl": 1294.850442,
-      "generated_at": 1793236012.5447524
+      "entry": 595.997314,
+      "tp": 599.829227,
+      "sl": 593.442705,
+      "generated_at": 1793268463.605907
     },
     {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
       "direction": "long",
-      "entry": 0.171831,
-      "tp": 0.172759,
-      "sl": 0.171212,
-      "generated_at": 1793236012.5447578
+      "entry": 0.006911,
+      "tp": 0.007082,
+      "sl": 0.006798,
+      "generated_at": 1793268463.605911
     },
     {
-      "id": "sui",
-      "symbol": "SUI",
-      "name": "Sui",
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
       "direction": "long",
-      "entry": 0.941858,
-      "tp": 0.949061,
-      "sl": 0.937057,
-      "generated_at": 1793236012.5447621
+      "entry": 1.875856,
+      "tp": 1.898129,
+      "sl": 1.861007,
+      "generated_at": 1793268463.605914
     }
   ]
 }
