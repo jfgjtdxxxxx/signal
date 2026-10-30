@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793384325.8998215,
+  "generated_at": 1793399582.2971487,
   "signals": [
     {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
+      "id": "polygon-ecosystem-token",
+      "symbol": "POL",
+      "name": "POL (ex-MATIC)",
       "direction": "long",
-      "entry": 0.068885,
-      "tp": 0.069955,
-      "sl": 0.068172,
-      "generated_at": 1793384325.8994155
+      "entry": 0.095912,
+      "tp": 0.097436,
+      "sl": 0.094896,
+      "generated_at": 1793399582.2967935
     },
     {
-      "id": "nexo",
-      "symbol": "NEXO",
-      "name": "NEXO",
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "direction": "long",
-      "entry": 0.770076,
-      "tp": 0.778661,
-      "sl": 0.764353,
-      "generated_at": 1793384325.8994222
+      "entry": 289.08463,
+      "tp": 292.61263,
+      "sl": 286.732629,
+      "generated_at": 1793399582.2968018
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
       "direction": "long",
-      "entry": 77072.417409,
-      "tp": 77446.134779,
-      "sl": 76823.272495,
-      "generated_at": 1793384325.8994293
+      "entry": 6.999292,
+      "tp": 7.070369,
+      "sl": 6.951908,
+      "generated_at": 1793399582.2968102
     },
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "ondo-finance",
+      "symbol": "ONDO",
+      "name": "Ondo",
       "direction": "long",
-      "entry": 1.243286,
-      "tp": 1.252995,
-      "sl": 1.236813,
-      "generated_at": 1793384325.8994331
+      "entry": 0.412281,
+      "tp": 0.416349,
+      "sl": 0.409569,
+      "generated_at": 1793399582.296815
     },
     {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
+      "id": "internet-computer",
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "direction": "long",
-      "entry": 3878.975091,
-      "tp": 3897.749636,
-      "sl": 3866.458728,
-      "generated_at": 1793384325.8994362
+      "entry": 2.531107,
+      "tp": 2.55823,
+      "sl": 2.513025,
+      "generated_at": 1793399582.2968197
     }
   ]
 }
