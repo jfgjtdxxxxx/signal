@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793322432.9594693,
+  "generated_at": 1793355155.9334245,
   "signals": [
     {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
       "direction": "long",
-      "entry": 0.353311,
-      "tp": 0.359135,
-      "sl": 0.349428,
-      "generated_at": 1793322432.959022
-    },
-    {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
-      "direction": "long",
-      "entry": 90.194124,
-      "tp": 92.432153,
-      "sl": 88.702105,
-      "generated_at": 1793322432.9590328
+      "entry": 0.066715,
+      "tp": 0.067836,
+      "sl": 0.065967,
+      "generated_at": 1793355155.9329941
     },
     {
       "id": "usdgo",
       "symbol": "USDGO",
       "name": "USDGO",
       "direction": "long",
-      "entry": 1.000247,
-      "tp": 1.000397,
-      "sl": 1.000146,
-      "generated_at": 1793322432.9590425
+      "entry": 1.000425,
+      "tp": 1.000589,
+      "sl": 1.000315,
+      "generated_at": 1793355155.9330006
     },
     {
-      "id": "htx-dao",
-      "symbol": "HTX",
-      "name": "HTX DAO",
+      "id": "open-usd",
+      "symbol": "OUSD",
+      "name": "Open USD",
       "direction": "long",
-      "entry": 2e-06,
-      "tp": 2e-06,
-      "sl": 2e-06,
-      "generated_at": 1793322432.9590487
+      "entry": 1.002835,
+      "tp": 1.004616,
+      "sl": 1.001648,
+      "generated_at": 1793355155.933007
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
       "direction": "long",
-      "entry": 615.652853,
-      "tp": 625.987834,
-      "sl": 608.762866,
-      "generated_at": 1793322432.9590552
+      "entry": 6.770076,
+      "tp": 6.927282,
+      "sl": 6.665271,
+      "generated_at": 1793355155.9330106
+    },
+    {
+      "id": "ethena",
+      "symbol": "ENA",
+      "name": "Ethena",
+      "direction": "long",
+      "entry": 0.190787,
+      "tp": 0.197495,
+      "sl": 0.186314,
+      "generated_at": 1793355155.933014
     }
   ]
 }
