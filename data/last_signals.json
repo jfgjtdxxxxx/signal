@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793299315.2404747,
+  "generated_at": 1793322432.9594693,
   "signals": [
-    {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
-      "direction": "long",
-      "entry": 94.489121,
-      "tp": 96.770113,
-      "sl": 92.968459,
-      "generated_at": 1793299315.2400255
-    },
-    {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
-      "direction": "long",
-      "entry": 5e-06,
-      "tp": 5e-06,
-      "sl": 5e-06,
-      "generated_at": 1793299315.2400327
-    },
-    {
-      "id": "pump-fun",
-      "symbol": "PUMP",
-      "name": "Pump.fun",
-      "direction": "long",
-      "entry": 0.004449,
-      "tp": 0.004514,
-      "sl": 0.004406,
-      "generated_at": 1793299315.2400403
-    },
-    {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
-      "direction": "long",
-      "entry": 3.207495,
-      "tp": 3.300686,
-      "sl": 3.145367,
-      "generated_at": 1793299315.2400444
-    },
     {
       "id": "tron",
       "symbol": "TRX",
       "name": "TRON",
       "direction": "long",
-      "entry": 0.331097,
-      "tp": 0.331404,
-      "sl": 0.330892,
-      "generated_at": 1793299315.2400475
+      "entry": 0.353311,
+      "tp": 0.359135,
+      "sl": 0.349428,
+      "generated_at": 1793322432.959022
+    },
+    {
+      "id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "direction": "long",
+      "entry": 90.194124,
+      "tp": 92.432153,
+      "sl": 88.702105,
+      "generated_at": 1793322432.9590328
+    },
+    {
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
+      "direction": "long",
+      "entry": 1.000247,
+      "tp": 1.000397,
+      "sl": 1.000146,
+      "generated_at": 1793322432.9590425
+    },
+    {
+      "id": "htx-dao",
+      "symbol": "HTX",
+      "name": "HTX DAO",
+      "direction": "long",
+      "entry": 2e-06,
+      "tp": 2e-06,
+      "sl": 2e-06,
+      "generated_at": 1793322432.9590487
+    },
+    {
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
+      "direction": "long",
+      "entry": 615.652853,
+      "tp": 625.987834,
+      "sl": 608.762866,
+      "generated_at": 1793322432.9590552
     }
   ]
 }
