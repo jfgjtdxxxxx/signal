@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793355155.9334245,
+  "generated_at": 1793384325.8998215,
   "signals": [
     {
       "id": "sky",
       "symbol": "SKY",
       "name": "Sky",
       "direction": "long",
-      "entry": 0.066715,
-      "tp": 0.067836,
-      "sl": 0.065967,
-      "generated_at": 1793355155.9329941
+      "entry": 0.068885,
+      "tp": 0.069955,
+      "sl": 0.068172,
+      "generated_at": 1793384325.8994155
     },
     {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
+      "id": "nexo",
+      "symbol": "NEXO",
+      "name": "NEXO",
       "direction": "long",
-      "entry": 1.000425,
-      "tp": 1.000589,
-      "sl": 1.000315,
-      "generated_at": 1793355155.9330006
+      "entry": 0.770076,
+      "tp": 0.778661,
+      "sl": 0.764353,
+      "generated_at": 1793384325.8994222
     },
     {
-      "id": "open-usd",
-      "symbol": "OUSD",
-      "name": "Open USD",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 1.002835,
-      "tp": 1.004616,
-      "sl": 1.001648,
-      "generated_at": 1793355155.933007
+      "entry": 77072.417409,
+      "tp": 77446.134779,
+      "sl": 76823.272495,
+      "generated_at": 1793384325.8994293
     },
     {
-      "id": "uniswap",
-      "symbol": "UNI",
-      "name": "Uniswap",
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
       "direction": "long",
-      "entry": 6.770076,
-      "tp": 6.927282,
-      "sl": 6.665271,
-      "generated_at": 1793355155.9330106
+      "entry": 1.243286,
+      "tp": 1.252995,
+      "sl": 1.236813,
+      "generated_at": 1793384325.8994331
     },
     {
-      "id": "ethena",
-      "symbol": "ENA",
-      "name": "Ethena",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 0.190787,
-      "tp": 0.197495,
-      "sl": 0.186314,
-      "generated_at": 1793355155.933014
+      "entry": 3878.975091,
+      "tp": 3897.749636,
+      "sl": 3866.458728,
+      "generated_at": 1793384325.8994362
     }
   ]
 }
