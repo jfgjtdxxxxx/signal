@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793449532.2364194,
+  "generated_at": 1793475337.665803,
   "signals": [
-    {
-      "id": "aave",
-      "symbol": "AAVE",
-      "name": "Aave",
-      "direction": "long",
-      "entry": 133.769828,
-      "tp": 135.141798,
-      "sl": 132.85518,
-      "generated_at": 1793449532.2360103
-    },
     {
       "id": "quant-network",
       "symbol": "QNT",
       "name": "Quant",
       "direction": "long",
-      "entry": 197.529097,
-      "tp": 199.559635,
-      "sl": 196.175406,
-      "generated_at": 1793449532.236018
+      "entry": 205.133373,
+      "tp": 207.375455,
+      "sl": 203.638653,
+      "generated_at": 1793475337.665387
     },
     {
       "id": "chainlink",
       "symbol": "LINK",
       "name": "Chainlink",
       "direction": "long",
-      "entry": 11.495091,
-      "tp": 11.612054,
-      "sl": 11.417116,
-      "generated_at": 1793449532.236026
+      "entry": 11.830412,
+      "tp": 11.922938,
+      "sl": 11.768729,
+      "generated_at": 1793475337.665394
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "the-open-network",
+      "symbol": "GRAM",
+      "name": "Gram (prev. Toncoin)",
       "direction": "long",
-      "entry": 4.340681,
-      "tp": 4.371162,
-      "sl": 4.32036,
-      "generated_at": 1793449532.2360308
+      "entry": 1.206975,
+      "tp": 1.216078,
+      "sl": 1.200907,
+      "generated_at": 1793475337.665401
     },
     {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
+      "id": "aave",
+      "symbol": "AAVE",
+      "name": "Aave",
       "direction": "long",
-      "entry": 3875.150103,
-      "tp": 3878.371357,
-      "sl": 3873.0026,
-      "generated_at": 1793449532.236035
+      "entry": 134.450215,
+      "tp": 135.648995,
+      "sl": 133.651029,
+      "generated_at": 1793475337.6654053
+    },
+    {
+      "id": "pump-fun",
+      "symbol": "PUMP",
+      "name": "Pump.fun",
+      "direction": "long",
+      "entry": 0.004238,
+      "tp": 0.004274,
+      "sl": 0.004215,
+      "generated_at": 1793475337.6654086
     }
   ]
 }
