@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793424604.5889971,
+  "generated_at": 1793449532.2364194,
   "signals": [
+    {
+      "id": "aave",
+      "symbol": "AAVE",
+      "name": "Aave",
+      "direction": "long",
+      "entry": 133.769828,
+      "tp": 135.141798,
+      "sl": 132.85518,
+      "generated_at": 1793449532.2360103
+    },
+    {
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
+      "direction": "long",
+      "entry": 197.529097,
+      "tp": 199.559635,
+      "sl": 196.175406,
+      "generated_at": 1793449532.236018
+    },
+    {
+      "id": "chainlink",
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "direction": "long",
+      "entry": 11.495091,
+      "tp": 11.612054,
+      "sl": 11.417116,
+      "generated_at": 1793449532.236026
+    },
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "direction": "long",
+      "entry": 4.340681,
+      "tp": 4.371162,
+      "sl": 4.32036,
+      "generated_at": 1793449532.2360308
+    },
     {
       "id": "tether-gold",
       "symbol": "XAUT",
       "name": "Tether Gold",
       "direction": "long",
-      "entry": 3875.442492,
-      "tp": 3881.383547,
-      "sl": 3871.481789,
-      "generated_at": 1793424604.588612
-    },
-    {
-      "id": "ondo-finance",
-      "symbol": "ONDO",
-      "name": "Ondo",
-      "direction": "long",
-      "entry": 0.408631,
-      "tp": 0.412709,
-      "sl": 0.405911,
-      "generated_at": 1793424604.5886264
-    },
-    {
-      "id": "pax-gold",
-      "symbol": "PAXG",
-      "name": "PAX Gold",
-      "direction": "long",
-      "entry": 3895.044816,
-      "tp": 3901.845094,
-      "sl": 3890.511297,
-      "generated_at": 1793424604.5886362
-    },
-    {
-      "id": "open-usd",
-      "symbol": "OUSD",
-      "name": "Open USD",
-      "direction": "long",
-      "entry": 1.001823,
-      "tp": 1.002536,
-      "sl": 1.001347,
-      "generated_at": 1793424604.5886416
-    },
-    {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "direction": "long",
-      "entry": 77159.429207,
-      "tp": 77557.61967,
-      "sl": 76893.968899,
-      "generated_at": 1793424604.5886474
+      "entry": 3875.150103,
+      "tp": 3878.371357,
+      "sl": 3873.0026,
+      "generated_at": 1793449532.236035
     }
   ]
 }
