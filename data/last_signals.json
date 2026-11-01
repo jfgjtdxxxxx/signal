@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793539551.745609,
+  "generated_at": 1793562662.9119337,
   "signals": [
     {
-      "id": "whitebit",
-      "symbol": "WBT",
-      "name": "WhiteBIT Coin",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 74.758036,
-      "tp": 74.861371,
-      "sl": 74.689147,
-      "generated_at": 1793539551.7450662
-    },
-    {
-      "id": "uniswap",
-      "symbol": "UNI",
-      "name": "Uniswap",
-      "direction": "long",
-      "entry": 7.267718,
-      "tp": 7.312826,
-      "sl": 7.237646,
-      "generated_at": 1793539551.7450736
-    },
-    {
-      "id": "the-open-network",
-      "symbol": "GRAM",
-      "name": "Gram (prev. Toncoin)",
-      "direction": "long",
-      "entry": 1.229677,
-      "tp": 1.235579,
-      "sl": 1.225742,
-      "generated_at": 1793539551.745082
-    },
-    {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
-      "direction": "long",
-      "entry": 1.151076,
-      "tp": 1.151956,
-      "sl": 1.150489,
-      "generated_at": 1793539551.7450864
+      "entry": 9.412747,
+      "tp": 9.428742,
+      "sl": 9.402084,
+      "generated_at": 1793562662.9113631
     },
     {
       "id": "okb",
       "symbol": "OKB",
       "name": "OKB",
       "direction": "long",
-      "entry": 112.384818,
-      "tp": 112.723032,
-      "sl": 112.159342,
-      "generated_at": 1793539551.7450902
+      "entry": 113.45171,
+      "tp": 114.091977,
+      "sl": 113.024865,
+      "generated_at": 1793562662.9113722
+    },
+    {
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
+      "direction": "long",
+      "entry": 9.666907,
+      "tp": 9.716434,
+      "sl": 9.633889,
+      "generated_at": 1793562662.9113815
+    },
+    {
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
+      "direction": "long",
+      "entry": 0.042351,
+      "tp": 0.042633,
+      "sl": 0.042164,
+      "generated_at": 1793562662.9113867
+    },
+    {
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
+      "direction": "long",
+      "entry": 0.137864,
+      "tp": 0.138145,
+      "sl": 0.137676,
+      "generated_at": 1793562662.9114254
     }
   ]
 }
