@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793513624.2250502,
+  "generated_at": 1793539551.745609,
   "signals": [
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "whitebit",
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
       "direction": "long",
-      "entry": 23.576867,
-      "tp": 23.73301,
-      "sl": 23.472771,
-      "generated_at": 1793513624.2246833
+      "entry": 74.758036,
+      "tp": 74.861371,
+      "sl": 74.689147,
+      "generated_at": 1793539551.7450662
     },
     {
-      "id": "layerzero",
-      "symbol": "ZRO",
-      "name": "LayerZero",
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
       "direction": "long",
-      "entry": 1.857977,
-      "tp": 1.87969,
-      "sl": 1.843501,
-      "generated_at": 1793513624.2246916
+      "entry": 7.267718,
+      "tp": 7.312826,
+      "sl": 7.237646,
+      "generated_at": 1793539551.7450736
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "the-open-network",
+      "symbol": "GRAM",
+      "name": "Gram (prev. Toncoin)",
       "direction": "long",
-      "entry": 77767.714616,
-      "tp": 77858.682516,
-      "sl": 77707.06935,
-      "generated_at": 1793513624.2247014
+      "entry": 1.229677,
+      "tp": 1.235579,
+      "sl": 1.225742,
+      "generated_at": 1793539551.745082
     },
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 2266.165103,
-      "tp": 2269.972394,
-      "sl": 2263.626909,
-      "generated_at": 1793513624.2247071
+      "entry": 1.151076,
+      "tp": 1.151956,
+      "sl": 1.150489,
+      "generated_at": 1793539551.7450864
     },
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "okb",
+      "symbol": "OKB",
+      "name": "OKB",
       "direction": "long",
-      "entry": 1.253774,
-      "tp": 1.256892,
-      "sl": 1.251696,
-      "generated_at": 1793513624.2247121
+      "entry": 112.384818,
+      "tp": 112.723032,
+      "sl": 112.159342,
+      "generated_at": 1793539551.7450902
     }
   ]
 }
