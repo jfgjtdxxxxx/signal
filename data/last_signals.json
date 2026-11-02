@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793562662.9119337,
+  "generated_at": 1793580801.8552833,
   "signals": [
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 9.412747,
-      "tp": 9.428742,
-      "sl": 9.402084,
-      "generated_at": 1793562662.9113631
+      "entry": 78041.375955,
+      "tp": 78240.310167,
+      "sl": 77908.753146,
+      "generated_at": 1793580801.854834
     },
     {
-      "id": "okb",
-      "symbol": "OKB",
-      "name": "OKB",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 113.45171,
-      "tp": 114.091977,
-      "sl": 113.024865,
-      "generated_at": 1793562662.9113722
-    },
-    {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
-      "direction": "long",
-      "entry": 9.666907,
-      "tp": 9.716434,
-      "sl": 9.633889,
-      "generated_at": 1793562662.9113815
-    },
-    {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
-      "direction": "long",
-      "entry": 0.042351,
-      "tp": 0.042633,
-      "sl": 0.042164,
-      "generated_at": 1793562662.9113867
+      "entry": 200.8838,
+      "tp": 202.747079,
+      "sl": 199.641614,
+      "generated_at": 1793580801.854842
     },
     {
       "id": "just",
       "symbol": "JST",
       "name": "JUST",
       "direction": "long",
-      "entry": 0.137864,
-      "tp": 0.138145,
-      "sl": 0.137676,
-      "generated_at": 1793562662.9114254
+      "entry": 0.137942,
+      "tp": 0.13812,
+      "sl": 0.137824,
+      "generated_at": 1793580801.854848
+    },
+    {
+      "id": "whitebit",
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
+      "direction": "long",
+      "entry": 74.953022,
+      "tp": 75.109086,
+      "sl": 74.848979,
+      "generated_at": 1793580801.8548512
+    },
+    {
+      "id": "pax-gold",
+      "symbol": "PAXG",
+      "name": "PAX Gold",
+      "direction": "long",
+      "entry": 3905.064675,
+      "tp": 3908.067219,
+      "sl": 3903.062978,
+      "generated_at": 1793580801.8548546
     }
   ]
 }
