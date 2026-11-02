@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793580801.8552833,
+  "generated_at": 1793618011.312247,
   "signals": [
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
       "direction": "long",
-      "entry": 78041.375955,
-      "tp": 78240.310167,
-      "sl": 77908.753146,
-      "generated_at": 1793580801.854834
+      "entry": 0.006228,
+      "tp": 0.006464,
+      "sl": 0.006071,
+      "generated_at": 1793618011.3119204
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "tron",
+      "symbol": "TRX",
+      "name": "TRON",
       "direction": "long",
-      "entry": 200.8838,
-      "tp": 202.747079,
-      "sl": 199.641614,
-      "generated_at": 1793580801.854842
+      "entry": 0.315569,
+      "tp": 0.316159,
+      "sl": 0.315176,
+      "generated_at": 1793618011.311927
     },
     {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 0.137942,
-      "tp": 0.13812,
-      "sl": 0.137824,
-      "generated_at": 1793580801.854848
+      "entry": 608.570858,
+      "tp": 611.732906,
+      "sl": 606.462826,
+      "generated_at": 1793618011.3119342
     },
     {
-      "id": "whitebit",
-      "symbol": "WBT",
-      "name": "WhiteBIT Coin",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 74.953022,
-      "tp": 75.109086,
-      "sl": 74.848979,
-      "generated_at": 1793580801.8548512
+      "entry": 3890.511834,
+      "tp": 3898.274854,
+      "sl": 3885.336487,
+      "generated_at": 1793618011.3119388
     },
     {
       "id": "pax-gold",
       "symbol": "PAXG",
       "name": "PAX Gold",
       "direction": "long",
-      "entry": 3905.064675,
-      "tp": 3908.067219,
-      "sl": 3903.062978,
-      "generated_at": 1793580801.8548546
+      "entry": 3910.055249,
+      "tp": 3917.928159,
+      "sl": 3904.806642,
+      "generated_at": 1793618011.311943
     }
   ]
 }
