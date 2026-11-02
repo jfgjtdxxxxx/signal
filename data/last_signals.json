@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793618011.312247,
+  "generated_at": 1793656823.0231419,
   "signals": [
-    {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
-      "direction": "long",
-      "entry": 0.006228,
-      "tp": 0.006464,
-      "sl": 0.006071,
-      "generated_at": 1793618011.3119204
-    },
     {
       "id": "tron",
       "symbol": "TRX",
       "name": "TRON",
       "direction": "long",
-      "entry": 0.315569,
-      "tp": 0.316159,
-      "sl": 0.315176,
-      "generated_at": 1793618011.311927
+      "entry": 0.318425,
+      "tp": 0.319253,
+      "sl": 0.317872,
+      "generated_at": 1793656823.0227182
     },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 608.570858,
-      "tp": 611.732906,
-      "sl": 606.462826,
-      "generated_at": 1793618011.3119342
+      "entry": 607.9517,
+      "tp": 612.268718,
+      "sl": 605.073688,
+      "generated_at": 1793656823.0227275
     },
     {
       "id": "tether-gold",
       "symbol": "XAUT",
       "name": "Tether Gold",
       "direction": "long",
-      "entry": 3890.511834,
-      "tp": 3898.274854,
-      "sl": 3885.336487,
-      "generated_at": 1793618011.3119388
+      "entry": 3931.763278,
+      "tp": 3943.243468,
+      "sl": 3924.109819,
+      "generated_at": 1793656823.022736
+    },
+    {
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
+      "direction": "long",
+      "entry": 1.150849,
+      "tp": 1.1518,
+      "sl": 1.150215,
+      "generated_at": 1793656823.0227413
     },
     {
       "id": "pax-gold",
       "symbol": "PAXG",
       "name": "PAX Gold",
       "direction": "long",
-      "entry": 3910.055249,
-      "tp": 3917.928159,
-      "sl": 3904.806642,
-      "generated_at": 1793618011.311943
+      "entry": 3947.140043,
+      "tp": 3958.500783,
+      "sl": 3939.566216,
+      "generated_at": 1793656823.0227456
     }
   ]
 }
