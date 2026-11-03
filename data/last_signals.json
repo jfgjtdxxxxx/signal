@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793687946.1823235,
+  "generated_at": 1793725939.932823,
   "signals": [
-    {
-      "id": "tron",
-      "symbol": "TRX",
-      "name": "TRON",
-      "direction": "long",
-      "entry": 0.320472,
-      "tp": 0.321255,
-      "sl": 0.31995,
-      "generated_at": 1793687946.1819408
-    },
-    {
-      "id": "htx-dao",
-      "symbol": "HTX",
-      "name": "HTX DAO",
-      "direction": "long",
-      "entry": 2e-06,
-      "tp": 2e-06,
-      "sl": 2e-06,
-      "generated_at": 1793687946.1819494
-    },
     {
       "id": "ripple",
       "symbol": "XRP",
       "name": "XRP",
       "direction": "long",
-      "entry": 1.24699,
-      "tp": 1.251772,
-      "sl": 1.243801,
-      "generated_at": 1793687946.1819592
+      "entry": 1.27822,
+      "tp": 1.284852,
+      "sl": 1.273798,
+      "generated_at": 1793725939.9324052
     },
     {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 91.384162,
-      "tp": 91.939347,
-      "sl": 91.014038,
-      "generated_at": 1793687946.1819646
+      "entry": 623.270439,
+      "tp": 628.314316,
+      "sl": 619.907855,
+      "generated_at": 1793725939.932419
     },
     {
-      "id": "chainlink",
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 11.009913,
-      "tp": 11.070572,
-      "sl": 10.969474,
-      "generated_at": 1793687946.1819718
+      "entry": 3919.452798,
+      "tp": 3934.662357,
+      "sl": 3909.313092,
+      "generated_at": 1793725939.9324353
+    },
+    {
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
+      "direction": "long",
+      "entry": 1.151495,
+      "tp": 1.152713,
+      "sl": 1.150683,
+      "generated_at": 1793725939.9324422
+    },
+    {
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "direction": "long",
+      "entry": 5e-06,
+      "tp": 5e-06,
+      "sl": 5e-06,
+      "generated_at": 1793725939.932447
     }
   ]
 }
