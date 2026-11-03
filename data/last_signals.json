@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793656823.0231419,
+  "generated_at": 1793687946.1823235,
   "signals": [
     {
       "id": "tron",
       "symbol": "TRX",
       "name": "TRON",
       "direction": "long",
-      "entry": 0.318425,
-      "tp": 0.319253,
-      "sl": 0.317872,
-      "generated_at": 1793656823.0227182
+      "entry": 0.320472,
+      "tp": 0.321255,
+      "sl": 0.31995,
+      "generated_at": 1793687946.1819408
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "htx-dao",
+      "symbol": "HTX",
+      "name": "HTX DAO",
       "direction": "long",
-      "entry": 607.9517,
-      "tp": 612.268718,
-      "sl": 605.073688,
-      "generated_at": 1793656823.0227275
+      "entry": 2e-06,
+      "tp": 2e-06,
+      "sl": 2e-06,
+      "generated_at": 1793687946.1819494
     },
     {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
       "direction": "long",
-      "entry": 3931.763278,
-      "tp": 3943.243468,
-      "sl": 3924.109819,
-      "generated_at": 1793656823.022736
+      "entry": 1.24699,
+      "tp": 1.251772,
+      "sl": 1.243801,
+      "generated_at": 1793687946.1819592
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 1.150849,
-      "tp": 1.1518,
-      "sl": 1.150215,
-      "generated_at": 1793656823.0227413
+      "entry": 91.384162,
+      "tp": 91.939347,
+      "sl": 91.014038,
+      "generated_at": 1793687946.1819646
     },
     {
-      "id": "pax-gold",
-      "symbol": "PAXG",
-      "name": "PAX Gold",
+      "id": "chainlink",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "direction": "long",
-      "entry": 3947.140043,
-      "tp": 3958.500783,
-      "sl": 3939.566216,
-      "generated_at": 1793656823.0227456
+      "entry": 11.009913,
+      "tp": 11.070572,
+      "sl": 10.969474,
+      "generated_at": 1793687946.1819718
     }
   ]
 }
