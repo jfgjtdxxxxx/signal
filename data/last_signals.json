@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793725939.932823,
+  "generated_at": 1793748484.2923155,
   "signals": [
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
       "direction": "long",
-      "entry": 1.27822,
-      "tp": 1.284852,
-      "sl": 1.273798,
-      "generated_at": 1793725939.9324052
+      "entry": 0.042903,
+      "tp": 0.043411,
+      "sl": 0.042565,
+      "generated_at": 1793748484.2918875
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "polygon-ecosystem-token",
+      "symbol": "POL",
+      "name": "POL (ex-MATIC)",
       "direction": "long",
-      "entry": 623.270439,
-      "tp": 628.314316,
-      "sl": 619.907855,
-      "generated_at": 1793725939.932419
+      "entry": 0.092331,
+      "tp": 0.093489,
+      "sl": 0.091559,
+      "generated_at": 1793748484.2918944
     },
     {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
+      "id": "lighter",
+      "symbol": "LIT",
+      "name": "Lighter",
       "direction": "long",
-      "entry": 3919.452798,
-      "tp": 3934.662357,
-      "sl": 3909.313092,
-      "generated_at": 1793725939.9324353
+      "entry": 3.404595,
+      "tp": 3.480224,
+      "sl": 3.354175,
+      "generated_at": 1793748484.2919014
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "layerzero",
+      "symbol": "ZRO",
+      "name": "LayerZero",
       "direction": "long",
-      "entry": 1.151495,
-      "tp": 1.152713,
-      "sl": 1.150683,
-      "generated_at": 1793725939.9324422
+      "entry": 1.893328,
+      "tp": 1.918248,
+      "sl": 1.876714,
+      "generated_at": 1793748484.291905
     },
     {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
       "direction": "long",
-      "entry": 5e-06,
-      "tp": 5e-06,
-      "sl": 5e-06,
-      "generated_at": 1793725939.932447
+      "entry": 0.006586,
+      "tp": 0.00674,
+      "sl": 0.006482,
+      "generated_at": 1793748484.291909
     }
   ]
 }
