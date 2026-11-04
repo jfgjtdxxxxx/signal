@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793802951.2257261,
+  "generated_at": 1793827990.8885336,
   "signals": [
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 1276.531772,
-      "tp": 1299.372209,
-      "sl": 1261.304813,
-      "generated_at": 1793802951.2254114
+      "entry": 202.535506,
+      "tp": 205.796467,
+      "sl": 200.361531,
+      "generated_at": 1793827990.8881185
     },
     {
-      "id": "polygon-ecosystem-token",
-      "symbol": "POL",
-      "name": "POL (ex-MATIC)",
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
       "direction": "long",
-      "entry": 0.094301,
-      "tp": 0.095603,
-      "sl": 0.093433,
-      "generated_at": 1793802951.225417
+      "entry": 7.606151,
+      "tp": 7.699032,
+      "sl": 7.54423,
+      "generated_at": 1793827990.8881266
     },
     {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
+      "id": "pancakeswap-token",
+      "symbol": "CAKE",
+      "name": "PancakeSwap",
       "direction": "long",
-      "entry": 0.043514,
-      "tp": 0.04404,
-      "sl": 0.043163,
-      "generated_at": 1793802951.2254224
+      "entry": 2.012951,
+      "tp": 2.034091,
+      "sl": 1.998858,
+      "generated_at": 1793827990.8881354
     },
     {
-      "id": "blockstack",
-      "symbol": "STX",
-      "name": "Stacks",
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "direction": "long",
-      "entry": 0.346725,
-      "tp": 0.350999,
-      "sl": 0.343876,
-      "generated_at": 1793802951.2254255
+      "entry": 2423.737437,
+      "tp": 2445.953107,
+      "sl": 2408.926991,
+      "generated_at": 1793827990.8881404
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 78209.823186,
-      "tp": 78635.669957,
-      "sl": 77925.925339,
-      "generated_at": 1793802951.2254283
+      "entry": 94.881507,
+      "tp": 95.802719,
+      "sl": 94.267365,
+      "generated_at": 1793827990.888145
     }
   ]
 }
