@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793748484.2923155,
+  "generated_at": 1793772948.624965,
   "signals": [
     {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 0.042903,
-      "tp": 0.043411,
-      "sl": 0.042565,
-      "generated_at": 1793748484.2918875
+      "entry": 1250.677858,
+      "tp": 1270.36032,
+      "sl": 1237.556217,
+      "generated_at": 1793772948.624651
+    },
+    {
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "direction": "long",
+      "entry": 5e-06,
+      "tp": 5e-06,
+      "sl": 5e-06,
+      "generated_at": 1793772948.6246579
+    },
+    {
+      "id": "arbitrum",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "direction": "long",
+      "entry": 0.159283,
+      "tp": 0.160696,
+      "sl": 0.158341,
+      "generated_at": 1793772948.624665
     },
     {
       "id": "polygon-ecosystem-token",
       "symbol": "POL",
       "name": "POL (ex-MATIC)",
       "direction": "long",
-      "entry": 0.092331,
-      "tp": 0.093489,
-      "sl": 0.091559,
-      "generated_at": 1793748484.2918944
+      "entry": 0.09302,
+      "tp": 0.093962,
+      "sl": 0.092391,
+      "generated_at": 1793772948.6246688
     },
     {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
+      "id": "injective-protocol",
+      "symbol": "INJ",
+      "name": "Injective",
       "direction": "long",
-      "entry": 3.404595,
-      "tp": 3.480224,
-      "sl": 3.354175,
-      "generated_at": 1793748484.2919014
-    },
-    {
-      "id": "layerzero",
-      "symbol": "ZRO",
-      "name": "LayerZero",
-      "direction": "long",
-      "entry": 1.893328,
-      "tp": 1.918248,
-      "sl": 1.876714,
-      "generated_at": 1793748484.291905
-    },
-    {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
-      "direction": "long",
-      "entry": 0.006586,
-      "tp": 0.00674,
-      "sl": 0.006482,
-      "generated_at": 1793748484.291909
+      "entry": 7.387503,
+      "tp": 7.465729,
+      "sl": 7.335353,
+      "generated_at": 1793772948.6246727
     }
   ]
 }
