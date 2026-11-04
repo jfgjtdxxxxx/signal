@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793772948.624965,
+  "generated_at": 1793802951.2257261,
   "signals": [
     {
       "id": "zcash",
       "symbol": "ZEC",
       "name": "Zcash",
       "direction": "long",
-      "entry": 1250.677858,
-      "tp": 1270.36032,
-      "sl": 1237.556217,
-      "generated_at": 1793772948.624651
-    },
-    {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
-      "direction": "long",
-      "entry": 5e-06,
-      "tp": 5e-06,
-      "sl": 5e-06,
-      "generated_at": 1793772948.6246579
-    },
-    {
-      "id": "arbitrum",
-      "symbol": "ARB",
-      "name": "Arbitrum",
-      "direction": "long",
-      "entry": 0.159283,
-      "tp": 0.160696,
-      "sl": 0.158341,
-      "generated_at": 1793772948.624665
+      "entry": 1276.531772,
+      "tp": 1299.372209,
+      "sl": 1261.304813,
+      "generated_at": 1793802951.2254114
     },
     {
       "id": "polygon-ecosystem-token",
       "symbol": "POL",
       "name": "POL (ex-MATIC)",
       "direction": "long",
-      "entry": 0.09302,
-      "tp": 0.093962,
-      "sl": 0.092391,
-      "generated_at": 1793772948.6246688
+      "entry": 0.094301,
+      "tp": 0.095603,
+      "sl": 0.093433,
+      "generated_at": 1793802951.225417
     },
     {
-      "id": "injective-protocol",
-      "symbol": "INJ",
-      "name": "Injective",
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
       "direction": "long",
-      "entry": 7.387503,
-      "tp": 7.465729,
-      "sl": 7.335353,
-      "generated_at": 1793772948.6246727
+      "entry": 0.043514,
+      "tp": 0.04404,
+      "sl": 0.043163,
+      "generated_at": 1793802951.2254224
+    },
+    {
+      "id": "blockstack",
+      "symbol": "STX",
+      "name": "Stacks",
+      "direction": "long",
+      "entry": 0.346725,
+      "tp": 0.350999,
+      "sl": 0.343876,
+      "generated_at": 1793802951.2254255
+    },
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "direction": "long",
+      "entry": 78209.823186,
+      "tp": 78635.669957,
+      "sl": 77925.925339,
+      "generated_at": 1793802951.2254283
     }
   ]
 }
