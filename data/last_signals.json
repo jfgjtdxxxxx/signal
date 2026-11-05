@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793860577.5523348,
+  "generated_at": 1793900108.227012,
   "signals": [
     {
-      "id": "cosmos",
-      "symbol": "ATOM",
-      "name": "Cosmos Hub",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1.513061,
-      "tp": 1.527922,
-      "sl": 1.503154,
-      "generated_at": 1793860577.5519042
+      "entry": 1.151932,
+      "tp": 1.153239,
+      "sl": 1.15106,
+      "generated_at": 1793900108.2265844
     },
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
       "direction": "long",
-      "entry": 0.104173,
-      "tp": 0.105273,
-      "sl": 0.10344,
-      "generated_at": 1793860577.5519106
+      "entry": 0.005955,
+      "tp": 0.006092,
+      "sl": 0.005863,
+      "generated_at": 1793900108.2265944
     },
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
       "direction": "long",
-      "entry": 2423.11831,
-      "tp": 2434.386639,
-      "sl": 2415.60609,
-      "generated_at": 1793860577.551917
+      "entry": 1.09938,
+      "tp": 1.125765,
+      "sl": 1.081789,
+      "generated_at": 1793900108.2266042
     },
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "united-stables",
+      "symbol": "U",
+      "name": "United Stables",
       "direction": "long",
-      "entry": 1317.150035,
-      "tp": 1334.156147,
-      "sl": 1305.812628,
-      "generated_at": 1793860577.5519204
+      "entry": 0.999207,
+      "tp": 0.999474,
+      "sl": 0.999028,
+      "generated_at": 1793900108.226611
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
-      "direction": "long",
-      "entry": 9.354625,
-      "tp": 9.363915,
-      "sl": 9.348432,
-      "generated_at": 1793860577.5519235
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
+      "direction": "short",
+      "entry": 692.718546,
+      "tp": 688.011291,
+      "sl": 695.856717,
+      "generated_at": 1793900108.2266173
     }
   ]
 }
