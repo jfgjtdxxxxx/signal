@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793900108.227012,
+  "generated_at": 1793922816.4517252,
   "signals": [
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
       "direction": "long",
-      "entry": 1.151932,
-      "tp": 1.153239,
-      "sl": 1.15106,
-      "generated_at": 1793900108.2265844
+      "entry": 1.103464,
+      "tp": 1.13371,
+      "sl": 1.0833,
+      "generated_at": 1793922816.4513533
+    },
+    {
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
+      "direction": "long",
+      "entry": 1.000385,
+      "tp": 1.00047,
+      "sl": 1.000328,
+      "generated_at": 1793922816.4513607
+    },
+    {
+      "id": "lighter",
+      "symbol": "LIT",
+      "name": "Lighter",
+      "direction": "long",
+      "entry": 3.446482,
+      "tp": 3.525874,
+      "sl": 3.393554,
+      "generated_at": 1793922816.4513671
+    },
+    {
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
+      "direction": "long",
+      "entry": 9.357236,
+      "tp": 9.377885,
+      "sl": 9.343469,
+      "generated_at": 1793922816.4513702
     },
     {
       "id": "rain",
       "symbol": "RAIN",
       "name": "Rain",
       "direction": "long",
-      "entry": 0.005955,
-      "tp": 0.006092,
-      "sl": 0.005863,
-      "generated_at": 1793900108.2265944
-    },
-    {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "direction": "long",
-      "entry": 1.09938,
-      "tp": 1.125765,
-      "sl": 1.081789,
-      "generated_at": 1793900108.2266042
-    },
-    {
-      "id": "united-stables",
-      "symbol": "U",
-      "name": "United Stables",
-      "direction": "long",
-      "entry": 0.999207,
-      "tp": 0.999474,
-      "sl": 0.999028,
-      "generated_at": 1793900108.226611
-    },
-    {
-      "id": "binancecoin",
-      "symbol": "BNB",
-      "name": "BNB",
-      "direction": "short",
-      "entry": 692.718546,
-      "tp": 688.011291,
-      "sl": 695.856717,
-      "generated_at": 1793900108.2266173
+      "entry": 0.006179,
+      "tp": 0.006317,
+      "sl": 0.006087,
+      "generated_at": 1793922816.4513736
     }
   ]
 }
