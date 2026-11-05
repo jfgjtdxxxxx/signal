@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793827990.8885336,
+  "generated_at": 1793860577.5523348,
   "signals": [
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "cosmos",
+      "symbol": "ATOM",
+      "name": "Cosmos Hub",
       "direction": "long",
-      "entry": 202.535506,
-      "tp": 205.796467,
-      "sl": 200.361531,
-      "generated_at": 1793827990.8881185
+      "entry": 1.513061,
+      "tp": 1.527922,
+      "sl": 1.503154,
+      "generated_at": 1793860577.5519042
     },
     {
-      "id": "uniswap",
-      "symbol": "UNI",
-      "name": "Uniswap",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 7.606151,
-      "tp": 7.699032,
-      "sl": 7.54423,
-      "generated_at": 1793827990.8881266
-    },
-    {
-      "id": "pancakeswap-token",
-      "symbol": "CAKE",
-      "name": "PancakeSwap",
-      "direction": "long",
-      "entry": 2.012951,
-      "tp": 2.034091,
-      "sl": 1.998858,
-      "generated_at": 1793827990.8881354
+      "entry": 0.104173,
+      "tp": 0.105273,
+      "sl": 0.10344,
+      "generated_at": 1793860577.5519106
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "direction": "long",
-      "entry": 2423.737437,
-      "tp": 2445.953107,
-      "sl": 2408.926991,
-      "generated_at": 1793827990.8881404
+      "entry": 2423.11831,
+      "tp": 2434.386639,
+      "sl": 2415.60609,
+      "generated_at": 1793860577.551917
     },
     {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 94.881507,
-      "tp": 95.802719,
-      "sl": 94.267365,
-      "generated_at": 1793827990.888145
+      "entry": 1317.150035,
+      "tp": 1334.156147,
+      "sl": 1305.812628,
+      "generated_at": 1793860577.5519204
+    },
+    {
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
+      "direction": "long",
+      "entry": 9.354625,
+      "tp": 9.363915,
+      "sl": 9.348432,
+      "generated_at": 1793860577.5519235
     }
   ]
 }
