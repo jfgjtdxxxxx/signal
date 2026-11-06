@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793984604.7705488,
+  "generated_at": 1794007221.1676075,
   "signals": [
-    {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
-      "direction": "long",
-      "entry": 5e-06,
-      "tp": 5e-06,
-      "sl": 5e-06,
-      "generated_at": 1793984604.7701292
-    },
-    {
-      "id": "arbitrum",
-      "symbol": "ARB",
-      "name": "Arbitrum",
-      "direction": "long",
-      "entry": 0.168702,
-      "tp": 0.169998,
-      "sl": 0.167839,
-      "generated_at": 1793984604.7701359
-    },
     {
       "id": "zcash",
       "symbol": "ZEC",
       "name": "Zcash",
       "direction": "long",
-      "entry": 1348.057634,
-      "tp": 1367.968714,
-      "sl": 1334.783581,
-      "generated_at": 1793984604.7701437
+      "entry": 1319.758994,
+      "tp": 1341.747556,
+      "sl": 1305.099952,
+      "generated_at": 1794007221.1670194
     },
     {
       "id": "just",
       "symbol": "JST",
       "name": "JUST",
       "direction": "long",
-      "entry": 0.141937,
-      "tp": 0.14247,
-      "sl": 0.141581,
-      "generated_at": 1793984604.7701476
+      "entry": 0.143463,
+      "tp": 0.144057,
+      "sl": 0.143067,
+      "generated_at": 1794007221.1670258
     },
     {
       "id": "ondo-us-dollar-yield",
       "symbol": "USDY",
       "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1.152137,
-      "tp": 1.154405,
-      "sl": 1.150625,
-      "generated_at": 1793984604.770151
+      "entry": 1.15234,
+      "tp": 1.153738,
+      "sl": 1.151408,
+      "generated_at": 1794007221.1670344
+    },
+    {
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
+      "direction": "long",
+      "entry": 1.224189,
+      "tp": 1.26475,
+      "sl": 1.197149,
+      "generated_at": 1794007221.167039
+    },
+    {
+      "id": "injective-protocol",
+      "symbol": "INJ",
+      "name": "Injective",
+      "direction": "long",
+      "entry": 8.347935,
+      "tp": 8.442939,
+      "sl": 8.284599,
+      "generated_at": 1794007221.1670427
     }
   ]
 }
