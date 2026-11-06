@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793922816.4517252,
+  "generated_at": 1793946606.031558,
   "signals": [
     {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 1.103464,
-      "tp": 1.13371,
-      "sl": 1.0833,
-      "generated_at": 1793922816.4513533
+      "entry": 9.349144,
+      "tp": 9.378728,
+      "sl": 9.329422,
+      "generated_at": 1793946606.0311162
     },
     {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 1.000385,
-      "tp": 1.00047,
-      "sl": 1.000328,
-      "generated_at": 1793922816.4513607
+      "entry": 0.141816,
+      "tp": 0.142395,
+      "sl": 0.14143,
+      "generated_at": 1793946606.0311232
     },
     {
       "id": "lighter",
       "symbol": "LIT",
       "name": "Lighter",
       "direction": "long",
-      "entry": 3.446482,
-      "tp": 3.525874,
-      "sl": 3.393554,
-      "generated_at": 1793922816.4513671
+      "entry": 3.452359,
+      "tp": 3.537875,
+      "sl": 3.395349,
+      "generated_at": 1793946606.03113
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 9.357236,
-      "tp": 9.377885,
-      "sl": 9.343469,
-      "generated_at": 1793922816.4513702
+      "entry": 1256.560914,
+      "tp": 1281.295765,
+      "sl": 1240.071014,
+      "generated_at": 1793946606.0311344
     },
     {
       "id": "rain",
       "symbol": "RAIN",
       "name": "Rain",
       "direction": "long",
-      "entry": 0.006179,
-      "tp": 0.006317,
-      "sl": 0.006087,
-      "generated_at": 1793922816.4513736
+      "entry": 0.006056,
+      "tp": 0.00621,
+      "sl": 0.005953,
+      "generated_at": 1793946606.0311377
     }
   ]
 }
