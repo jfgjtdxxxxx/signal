@@ -1,55 +1,55 @@
 {
-  "generated_at": 1793946606.031558,
+  "generated_at": 1793984604.7705488,
   "signals": [
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
       "direction": "long",
-      "entry": 9.349144,
-      "tp": 9.378728,
-      "sl": 9.329422,
-      "generated_at": 1793946606.0311162
+      "entry": 5e-06,
+      "tp": 5e-06,
+      "sl": 5e-06,
+      "generated_at": 1793984604.7701292
     },
     {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
+      "id": "arbitrum",
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "direction": "long",
-      "entry": 0.141816,
-      "tp": 0.142395,
-      "sl": 0.14143,
-      "generated_at": 1793946606.0311232
-    },
-    {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
-      "direction": "long",
-      "entry": 3.452359,
-      "tp": 3.537875,
-      "sl": 3.395349,
-      "generated_at": 1793946606.03113
+      "entry": 0.168702,
+      "tp": 0.169998,
+      "sl": 0.167839,
+      "generated_at": 1793984604.7701359
     },
     {
       "id": "zcash",
       "symbol": "ZEC",
       "name": "Zcash",
       "direction": "long",
-      "entry": 1256.560914,
-      "tp": 1281.295765,
-      "sl": 1240.071014,
-      "generated_at": 1793946606.0311344
+      "entry": 1348.057634,
+      "tp": 1367.968714,
+      "sl": 1334.783581,
+      "generated_at": 1793984604.7701437
     },
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 0.006056,
-      "tp": 0.00621,
-      "sl": 0.005953,
-      "generated_at": 1793946606.0311377
+      "entry": 0.141937,
+      "tp": 0.14247,
+      "sl": 0.141581,
+      "generated_at": 1793984604.7701476
+    },
+    {
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
+      "direction": "long",
+      "entry": 1.152137,
+      "tp": 1.154405,
+      "sl": 1.150625,
+      "generated_at": 1793984604.770151
     }
   ]
 }
