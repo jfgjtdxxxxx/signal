@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794057096.4515414,
+  "generated_at": 1794080557.0139303,
   "signals": [
-    {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
-      "direction": "long",
-      "entry": 197.046611,
-      "tp": 198.713053,
-      "sl": 195.93565,
-      "generated_at": 1794057096.451114
-    },
     {
       "id": "aave",
       "symbol": "AAVE",
       "name": "Aave",
       "direction": "long",
-      "entry": 131.369804,
-      "tp": 132.08663,
-      "sl": 130.89192,
-      "generated_at": 1794057096.4511228
+      "entry": 131.617072,
+      "tp": 132.223791,
+      "sl": 131.212592,
+      "generated_at": 1794080557.013462
     },
     {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 9.752872,
-      "tp": 9.814993,
-      "sl": 9.711458,
-      "generated_at": 1794057096.451132
+      "entry": 0.143528,
+      "tp": 0.143851,
+      "sl": 0.143313,
+      "generated_at": 1794080557.013469
     },
     {
-      "id": "falcon-finance",
-      "symbol": "USDF",
-      "name": "Falcon USD",
+      "id": "chainlink",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "direction": "long",
-      "entry": 0.994545,
-      "tp": 0.994608,
-      "sl": 0.994503,
-      "generated_at": 1794057096.4511375
+      "entry": 10.85826,
+      "tp": 10.902717,
+      "sl": 10.828623,
+      "generated_at": 1794080557.0134754
     },
     {
-      "id": "mantle",
-      "symbol": "MNT",
-      "name": "Mantle",
+      "id": "uniswap",
+      "symbol": "UNI",
+      "name": "Uniswap",
       "direction": "long",
-      "entry": 0.454663,
-      "tp": 0.456209,
-      "sl": 0.453633,
-      "generated_at": 1794057096.4511423
+      "entry": 7.147138,
+      "tp": 7.19363,
+      "sl": 7.116143,
+      "generated_at": 1794080557.0134785
+    },
+    {
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
+      "direction": "long",
+      "entry": 4059.802541,
+      "tp": 4061.858911,
+      "sl": 4058.431628,
+      "generated_at": 1794080557.0134816
     }
   ]
 }
