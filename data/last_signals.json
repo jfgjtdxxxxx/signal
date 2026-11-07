@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794031237.9863904,
+  "generated_at": 1794057096.4515414,
   "signals": [
     {
-      "id": "bittensor",
-      "symbol": "TAO",
-      "name": "Bittensor",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 224.858203,
-      "tp": 225.832942,
-      "sl": 224.208376,
-      "generated_at": 1794031237.9861228
+      "entry": 197.046611,
+      "tp": 198.713053,
+      "sl": 195.93565,
+      "generated_at": 1794057096.451114
     },
     {
-      "id": "open-usd",
-      "symbol": "OUSD",
-      "name": "Open USD",
+      "id": "aave",
+      "symbol": "AAVE",
+      "name": "Aave",
       "direction": "long",
-      "entry": 1.001153,
-      "tp": 1.003047,
-      "sl": 0.99989,
-      "generated_at": 1794031237.9861267
+      "entry": 131.369804,
+      "tp": 132.08663,
+      "sl": 130.89192,
+      "generated_at": 1794057096.4511228
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
       "direction": "long",
-      "entry": 75963.479388,
-      "tp": 76084.283936,
-      "sl": 75882.943023,
-      "generated_at": 1794031237.9861312
+      "entry": 9.752872,
+      "tp": 9.814993,
+      "sl": 9.711458,
+      "generated_at": 1794057096.451132
     },
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "falcon-finance",
+      "symbol": "USDF",
+      "name": "Falcon USD",
       "direction": "long",
-      "entry": 2246.802111,
-      "tp": 2252.958575,
-      "sl": 2242.697801,
-      "generated_at": 1794031237.9861336
+      "entry": 0.994545,
+      "tp": 0.994608,
+      "sl": 0.994503,
+      "generated_at": 1794057096.4511375
     },
     {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
+      "id": "mantle",
+      "symbol": "MNT",
+      "name": "Mantle",
       "direction": "long",
-      "entry": 90.066345,
-      "tp": 90.408052,
-      "sl": 89.838541,
-      "generated_at": 1794031237.9861352
+      "entry": 0.454663,
+      "tp": 0.456209,
+      "sl": 0.453633,
+      "generated_at": 1794057096.4511423
     }
   ]
 }
