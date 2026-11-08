@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794161540.4866183,
+  "generated_at": 1794176259.3704026,
   "signals": [
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 199.090967,
-      "tp": 200.717301,
-      "sl": 198.006744,
-      "generated_at": 1794161540.4862368
+      "entry": 1.152244,
+      "tp": 1.154009,
+      "sl": 1.151068,
+      "generated_at": 1794176259.3700397
     },
     {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
+      "id": "whitebit",
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
       "direction": "long",
-      "entry": 9.899446,
-      "tp": 9.964269,
-      "sl": 9.856231,
-      "generated_at": 1794161540.4862437
+      "entry": 71.733218,
+      "tp": 71.9438,
+      "sl": 71.592829,
+      "generated_at": 1794176259.3700492
     },
     {
-      "id": "open-usd",
-      "symbol": "OUSD",
-      "name": "Open USD",
+      "id": "mantle",
+      "symbol": "MNT",
+      "name": "Mantle",
       "direction": "long",
-      "entry": 1.003756,
-      "tp": 1.005898,
-      "sl": 1.002329,
-      "generated_at": 1794161540.4862502
+      "entry": 0.440067,
+      "tp": 0.442655,
+      "sl": 0.438342,
+      "generated_at": 1794176259.3700578
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "direction": "long",
+      "entry": 2177.822767,
+      "tp": 2187.636426,
+      "sl": 2171.280327,
+      "generated_at": 1794176259.370063
     },
     {
       "id": "solana",
       "symbol": "SOL",
       "name": "Solana",
       "direction": "long",
-      "entry": 88.962619,
-      "tp": 89.28122,
-      "sl": 88.750218,
-      "generated_at": 1794161540.4862537
-    },
-    {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "direction": "long",
-      "entry": 1248.831555,
-      "tp": 1258.195503,
-      "sl": 1242.588923,
-      "generated_at": 1794161540.4862576
+      "entry": 86.993085,
+      "tp": 87.554685,
+      "sl": 86.618686,
+      "generated_at": 1794176259.3700676
     }
   ]
 }
