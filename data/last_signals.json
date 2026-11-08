@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794133677.5124311,
+  "generated_at": 1794161540.4866183,
   "signals": [
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 9.325903,
-      "tp": 9.352355,
-      "sl": 9.308269,
-      "generated_at": 1794133677.5119834
+      "entry": 199.090967,
+      "tp": 200.717301,
+      "sl": 198.006744,
+      "generated_at": 1794161540.4862368
     },
     {
-      "id": "bitget-token",
-      "symbol": "BGB",
-      "name": "Bitget Token",
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
       "direction": "long",
-      "entry": 1.743881,
-      "tp": 1.745653,
-      "sl": 1.742699,
-      "generated_at": 1794133677.5119927
-    },
-    {
-      "id": "arbitrum",
-      "symbol": "ARB",
-      "name": "Arbitrum",
-      "direction": "long",
-      "entry": 0.170113,
-      "tp": 0.171156,
-      "sl": 0.169417,
-      "generated_at": 1794133677.5120022
+      "entry": 9.899446,
+      "tp": 9.964269,
+      "sl": 9.856231,
+      "generated_at": 1794161540.4862437
     },
     {
       "id": "open-usd",
       "symbol": "OUSD",
       "name": "Open USD",
       "direction": "long",
-      "entry": 1.002077,
-      "tp": 1.004198,
-      "sl": 1.000663,
-      "generated_at": 1794133677.5120072
+      "entry": 1.003756,
+      "tp": 1.005898,
+      "sl": 1.002329,
+      "generated_at": 1794161540.4862502
     },
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 2233.084958,
-      "tp": 2237.7069,
-      "sl": 2230.003664,
-      "generated_at": 1794133677.5120125
+      "entry": 88.962619,
+      "tp": 89.28122,
+      "sl": 88.750218,
+      "generated_at": 1794161540.4862537
+    },
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "direction": "long",
+      "entry": 1248.831555,
+      "tp": 1258.195503,
+      "sl": 1242.588923,
+      "generated_at": 1794161540.4862576
     }
   ]
 }
