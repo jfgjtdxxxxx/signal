@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794080557.0139303,
+  "generated_at": 1794098548.3343346,
   "signals": [
-    {
-      "id": "aave",
-      "symbol": "AAVE",
-      "name": "Aave",
-      "direction": "long",
-      "entry": 131.617072,
-      "tp": 132.223791,
-      "sl": 131.212592,
-      "generated_at": 1794080557.013462
-    },
     {
       "id": "just",
       "symbol": "JST",
       "name": "JUST",
       "direction": "long",
-      "entry": 0.143528,
-      "tp": 0.143851,
-      "sl": 0.143313,
-      "generated_at": 1794080557.013469
-    },
-    {
-      "id": "chainlink",
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "direction": "long",
-      "entry": 10.85826,
-      "tp": 10.902717,
-      "sl": 10.828623,
-      "generated_at": 1794080557.0134754
+      "entry": 0.143831,
+      "tp": 0.144081,
+      "sl": 0.143663,
+      "generated_at": 1794098548.3334863
     },
     {
       "id": "uniswap",
       "symbol": "UNI",
       "name": "Uniswap",
       "direction": "long",
-      "entry": 7.147138,
-      "tp": 7.19363,
-      "sl": 7.116143,
-      "generated_at": 1794080557.0134785
+      "entry": 7.156357,
+      "tp": 7.226283,
+      "sl": 7.109739,
+      "generated_at": 1794098548.3334959
     },
     {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
+      "id": "arbitrum",
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "direction": "long",
-      "entry": 4059.802541,
-      "tp": 4061.858911,
-      "sl": 4058.431628,
-      "generated_at": 1794080557.0134816
+      "entry": 0.167881,
+      "tp": 0.169284,
+      "sl": 0.166946,
+      "generated_at": 1794098548.3335037
+    },
+    {
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
+      "direction": "long",
+      "entry": 0.040154,
+      "tp": 0.040522,
+      "sl": 0.039908,
+      "generated_at": 1794098548.3335075
+    },
+    {
+      "id": "layerzero",
+      "symbol": "ZRO",
+      "name": "LayerZero",
+      "direction": "long",
+      "entry": 1.634751,
+      "tp": 1.651934,
+      "sl": 1.623295,
+      "generated_at": 1794098548.333511
     }
   ]
 }
