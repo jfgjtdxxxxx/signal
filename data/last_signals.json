@@ -1,6 +1,46 @@
 {
-  "generated_at": 1794204785.1031954,
+  "generated_at": 1794240859.1221902,
   "signals": [
+    {
+      "id": "arbitrum",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "direction": "long",
+      "entry": 0.183863,
+      "tp": 0.18691,
+      "sl": 0.181832,
+      "generated_at": 1794240859.1218126
+    },
+    {
+      "id": "whitebit",
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
+      "direction": "long",
+      "entry": 72.767189,
+      "tp": 73.208103,
+      "sl": 72.473247,
+      "generated_at": 1794240859.1218202
+    },
+    {
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
+      "direction": "long",
+      "entry": 4101.845604,
+      "tp": 4112.090977,
+      "sl": 4095.015355,
+      "generated_at": 1794240859.1218276
+    },
+    {
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
+      "direction": "long",
+      "entry": 199.931482,
+      "tp": 203.014768,
+      "sl": 197.875958,
+      "generated_at": 1794240859.1218312
+    },
     {
       "id": "pepe",
       "symbol": "PEPE",
@@ -9,47 +49,7 @@
       "entry": 5e-06,
       "tp": 5e-06,
       "sl": 5e-06,
-      "generated_at": 1794204785.102649
-    },
-    {
-      "id": "pax-gold",
-      "symbol": "PAXG",
-      "name": "PAX Gold",
-      "direction": "long",
-      "entry": 4108.783172,
-      "tp": 4121.508583,
-      "sl": 4100.299565,
-      "generated_at": 1794204785.1026566
-    },
-    {
-      "id": "mantle",
-      "symbol": "MNT",
-      "name": "Mantle",
-      "direction": "long",
-      "entry": 0.447899,
-      "tp": 0.450491,
-      "sl": 0.446171,
-      "generated_at": 1794204785.1026647
-    },
-    {
-      "id": "arbitrum",
-      "symbol": "ARB",
-      "name": "Arbitrum",
-      "direction": "long",
-      "entry": 0.172605,
-      "tp": 0.175167,
-      "sl": 0.170897,
-      "generated_at": 1794204785.1026695
-    },
-    {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "direction": "long",
-      "entry": 1228.615768,
-      "tp": 1243.592381,
-      "sl": 1218.63136,
-      "generated_at": 1794204785.102674
+      "generated_at": 1794240859.1218345
     }
   ]
 }
