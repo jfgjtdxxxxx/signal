@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794240859.1221902,
+  "generated_at": 1794275279.346316,
   "signals": [
     {
-      "id": "arbitrum",
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "id": "avalanche-2",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "direction": "long",
-      "entry": 0.183863,
-      "tp": 0.18691,
-      "sl": 0.181832,
-      "generated_at": 1794240859.1218126
+      "entry": 8.728077,
+      "tp": 8.900971,
+      "sl": 8.612814,
+      "generated_at": 1794275279.3459644
     },
     {
-      "id": "whitebit",
-      "symbol": "WBT",
-      "name": "WhiteBIT Coin",
+      "id": "ondo-finance",
+      "symbol": "ONDO",
+      "name": "Ondo",
       "direction": "long",
-      "entry": 72.767189,
-      "tp": 73.208103,
-      "sl": 72.473247,
-      "generated_at": 1794240859.1218202
+      "entry": 0.37303,
+      "tp": 0.380086,
+      "sl": 0.368326,
+      "generated_at": 1794275279.345971
     },
     {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 4101.845604,
-      "tp": 4112.090977,
-      "sl": 4095.015355,
-      "generated_at": 1794240859.1218276
+      "entry": 21.475994,
+      "tp": 21.726839,
+      "sl": 21.308763,
+      "generated_at": 1794275279.345977
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "jupiter-exchange-solana",
+      "symbol": "JUP",
+      "name": "Jupiter",
       "direction": "long",
-      "entry": 199.931482,
-      "tp": 203.014768,
-      "sl": 197.875958,
-      "generated_at": 1794240859.1218312
+      "entry": 0.25381,
+      "tp": 0.256627,
+      "sl": 0.251932,
+      "generated_at": 1794275279.3459806
     },
     {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 5e-06,
-      "tp": 5e-06,
-      "sl": 5e-06,
-      "generated_at": 1794240859.1218345
+      "entry": 0.144944,
+      "tp": 0.145203,
+      "sl": 0.144771,
+      "generated_at": 1794275279.3459842
     }
   ]
 }
