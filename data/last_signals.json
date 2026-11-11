@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794360743.4864435,
+  "generated_at": 1794394801.2857296,
   "signals": [
+    {
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
+      "direction": "long",
+      "entry": 576.076903,
+      "tp": 580.679715,
+      "sl": 573.008361,
+      "generated_at": 1794394801.2852986
+    },
     {
       "id": "the-open-network",
       "symbol": "GRAM",
       "name": "Gram (prev. Toncoin)",
       "direction": "long",
-      "entry": 1.126249,
-      "tp": 1.140912,
-      "sl": 1.116473,
-      "generated_at": 1794360743.486109
-    },
-    {
-      "id": "pepe",
-      "symbol": "PEPE",
-      "name": "Pepe",
-      "direction": "long",
-      "entry": 5e-06,
-      "tp": 6e-06,
-      "sl": 5e-06,
-      "generated_at": 1794360743.4861193
-    },
-    {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "direction": "long",
-      "entry": 1.156928,
-      "tp": 1.218481,
-      "sl": 1.115892,
-      "generated_at": 1794360743.4861298
-    },
-    {
-      "id": "lighter",
-      "symbol": "LIT",
-      "name": "Lighter",
-      "direction": "long",
-      "entry": 3.461311,
-      "tp": 3.509958,
-      "sl": 3.42888,
-      "generated_at": 1794360743.4861376
+      "entry": 1.198826,
+      "tp": 1.215129,
+      "sl": 1.187958,
+      "generated_at": 1794394801.2853055
     },
     {
       "id": "pi-network",
       "symbol": "PI",
       "name": "Pi Network",
       "direction": "long",
-      "entry": 0.070967,
-      "tp": 0.071591,
-      "sl": 0.070551,
-      "generated_at": 1794360743.4861443
+      "entry": 0.072175,
+      "tp": 0.073026,
+      "sl": 0.071607,
+      "generated_at": 1794394801.2853143
+    },
+    {
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
+      "direction": "long",
+      "entry": 0.044309,
+      "tp": 0.044712,
+      "sl": 0.044041,
+      "generated_at": 1794394801.2853186
+    },
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "direction": "long",
+      "entry": 73997.147253,
+      "tp": 74271.518287,
+      "sl": 73814.23323,
+      "generated_at": 1794394801.2853234
     }
   ]
 }
