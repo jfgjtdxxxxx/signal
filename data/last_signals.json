@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794340669.958102,
+  "generated_at": 1794360743.4864435,
   "signals": [
     {
       "id": "the-open-network",
       "symbol": "GRAM",
       "name": "Gram (prev. Toncoin)",
       "direction": "long",
-      "entry": 1.103994,
-      "tp": 1.115484,
-      "sl": 1.096335,
-      "generated_at": 1794340669.957747
+      "entry": 1.126249,
+      "tp": 1.140912,
+      "sl": 1.116473,
+      "generated_at": 1794360743.486109
     },
     {
-      "id": "pi-network",
-      "symbol": "PI",
-      "name": "Pi Network",
+      "id": "pepe",
+      "symbol": "PEPE",
+      "name": "Pepe",
       "direction": "long",
-      "entry": 0.070345,
-      "tp": 0.071161,
-      "sl": 0.069801,
-      "generated_at": 1794340669.957755
+      "entry": 5e-06,
+      "tp": 6e-06,
+      "sl": 5e-06,
+      "generated_at": 1794360743.4861193
     },
     {
       "id": "bitway",
       "symbol": "BTW",
       "name": "Bitway",
       "direction": "long",
-      "entry": 1.137614,
-      "tp": 1.193361,
-      "sl": 1.100449,
-      "generated_at": 1794340669.9577644
-    },
-    {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
-      "direction": "long",
-      "entry": 1.000292,
-      "tp": 1.000403,
-      "sl": 1.000218,
-      "generated_at": 1794340669.9577696
+      "entry": 1.156928,
+      "tp": 1.218481,
+      "sl": 1.115892,
+      "generated_at": 1794360743.4861298
     },
     {
       "id": "lighter",
       "symbol": "LIT",
       "name": "Lighter",
       "direction": "long",
-      "entry": 3.363629,
-      "tp": 3.41098,
-      "sl": 3.332061,
-      "generated_at": 1794340669.9577754
+      "entry": 3.461311,
+      "tp": 3.509958,
+      "sl": 3.42888,
+      "generated_at": 1794360743.4861376
+    },
+    {
+      "id": "pi-network",
+      "symbol": "PI",
+      "name": "Pi Network",
+      "direction": "long",
+      "entry": 0.070967,
+      "tp": 0.071591,
+      "sl": 0.070551,
+      "generated_at": 1794360743.4861443
     }
   ]
 }
