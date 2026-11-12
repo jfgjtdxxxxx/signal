@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794426707.6757317,
+  "generated_at": 1794450782.4818118,
   "signals": [
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "gatechain-token",
+      "symbol": "GT",
+      "name": "Gate",
       "direction": "long",
-      "entry": 588.235089,
-      "tp": 592.966948,
-      "sl": 585.080515,
-      "generated_at": 1794426707.6753395
+      "entry": 9.876494,
+      "tp": 9.950669,
+      "sl": 9.827044,
+      "generated_at": 1794450782.481435
+    },
+    {
+      "id": "open-usd",
+      "symbol": "OUSD",
+      "name": "Open USD",
+      "direction": "long",
+      "entry": 1.002163,
+      "tp": 1.003112,
+      "sl": 1.001531,
+      "generated_at": 1794450782.4814425
     },
     {
       "id": "the-open-network",
       "symbol": "GRAM",
       "name": "Gram (prev. Toncoin)",
       "direction": "long",
-      "entry": 1.210099,
-      "tp": 1.238305,
-      "sl": 1.191294,
-      "generated_at": 1794426707.6753483
+      "entry": 1.19998,
+      "tp": 1.225971,
+      "sl": 1.182654,
+      "generated_at": 1794450782.4814498
     },
     {
-      "id": "aster-2",
-      "symbol": "ASTER",
-      "name": "Aster",
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
       "direction": "long",
-      "entry": 0.659277,
-      "tp": 0.662742,
-      "sl": 0.656966,
-      "generated_at": 1794426707.6753561
+      "entry": 0.046972,
+      "tp": 0.047762,
+      "sl": 0.046445,
+      "generated_at": 1794450782.4814537
     },
     {
-      "id": "nexo",
-      "symbol": "NEXO",
-      "name": "NEXO",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 0.730199,
-      "tp": 0.737234,
-      "sl": 0.725509,
-      "generated_at": 1794426707.6753607
-    },
-    {
-      "id": "avalanche-2",
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "direction": "long",
-      "entry": 8.559456,
-      "tp": 8.630984,
-      "sl": 8.51177,
-      "generated_at": 1794426707.6753652
+      "entry": 9.281235,
+      "tp": 9.327276,
+      "sl": 9.250541,
+      "generated_at": 1794450782.481457
     }
   ]
 }
