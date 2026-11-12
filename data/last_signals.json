@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794450782.4818118,
+  "generated_at": 1794481963.9739497,
   "signals": [
-    {
-      "id": "gatechain-token",
-      "symbol": "GT",
-      "name": "Gate",
-      "direction": "long",
-      "entry": 9.876494,
-      "tp": 9.950669,
-      "sl": 9.827044,
-      "generated_at": 1794450782.481435
-    },
-    {
-      "id": "open-usd",
-      "symbol": "OUSD",
-      "name": "Open USD",
-      "direction": "long",
-      "entry": 1.002163,
-      "tp": 1.003112,
-      "sl": 1.001531,
-      "generated_at": 1794450782.4814425
-    },
     {
       "id": "the-open-network",
       "symbol": "GRAM",
       "name": "Gram (prev. Toncoin)",
       "direction": "long",
-      "entry": 1.19998,
-      "tp": 1.225971,
-      "sl": 1.182654,
-      "generated_at": 1794450782.4814498
+      "entry": 1.237864,
+      "tp": 1.253292,
+      "sl": 1.227579,
+      "generated_at": 1794481963.9735317
+    },
+    {
+      "id": "okb",
+      "symbol": "OKB",
+      "name": "OKB",
+      "direction": "long",
+      "entry": 98.863134,
+      "tp": 99.334729,
+      "sl": 98.548737,
+      "generated_at": 1794481963.973539
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
+      "direction": "long",
+      "entry": 1.049928,
+      "tp": 1.055655,
+      "sl": 1.04611,
+      "generated_at": 1794481963.9735465
     },
     {
       "id": "midnight-3",
       "symbol": "NIGHT",
       "name": "Midnight",
       "direction": "long",
-      "entry": 0.046972,
-      "tp": 0.047762,
-      "sl": 0.046445,
-      "generated_at": 1794450782.4814537
+      "entry": 0.047153,
+      "tp": 0.047773,
+      "sl": 0.046739,
+      "generated_at": 1794481963.9735503
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "direction": "long",
-      "entry": 9.281235,
-      "tp": 9.327276,
-      "sl": 9.250541,
-      "generated_at": 1794450782.481457
+      "entry": 0.065904,
+      "tp": 0.066257,
+      "sl": 0.065669,
+      "generated_at": 1794481963.9735537
     }
   ]
 }
