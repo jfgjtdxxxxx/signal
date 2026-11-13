@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794535599.5561347,
+  "generated_at": 1794568188.8805997,
   "signals": [
-    {
-      "id": "aster-2",
-      "symbol": "ASTER",
-      "name": "Aster",
-      "direction": "long",
-      "entry": 0.665944,
-      "tp": 0.670053,
-      "sl": 0.663205,
-      "generated_at": 1794535599.5556328
-    },
-    {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
-      "direction": "long",
-      "entry": 0.146308,
-      "tp": 0.14679,
-      "sl": 0.145987,
-      "generated_at": 1794535599.5556386
-    },
     {
       "id": "jupiter-exchange-solana",
       "symbol": "JUP",
       "name": "Jupiter",
       "direction": "long",
-      "entry": 0.264406,
-      "tp": 0.266736,
-      "sl": 0.262852,
-      "generated_at": 1794535599.5556455
+      "entry": 0.263773,
+      "tp": 0.267894,
+      "sl": 0.261026,
+      "generated_at": 1794568188.8801646
     },
     {
       "id": "ondo-us-dollar-yield",
       "symbol": "USDY",
       "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1.152601,
-      "tp": 1.153449,
-      "sl": 1.152036,
-      "generated_at": 1794535599.555649
+      "entry": 1.152753,
+      "tp": 1.153267,
+      "sl": 1.15241,
+      "generated_at": 1794568188.8801713
     },
     {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
+      "id": "falcon-finance",
+      "symbol": "USDF",
+      "name": "Falcon USD",
       "direction": "long",
-      "entry": 81.335672,
-      "tp": 81.684744,
-      "sl": 81.102958,
-      "generated_at": 1794535599.5556526
+      "entry": 0.995271,
+      "tp": 0.995354,
+      "sl": 0.995215,
+      "generated_at": 1794568188.8801785
+    },
+    {
+      "id": "internet-computer",
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "direction": "long",
+      "entry": 2.612484,
+      "tp": 2.644417,
+      "sl": 2.591195,
+      "generated_at": 1794568188.880182
+    },
+    {
+      "id": "bfusd",
+      "symbol": "BFUSD",
+      "name": "BFUSD",
+      "direction": "long",
+      "entry": 0.998998,
+      "tp": 0.999073,
+      "sl": 0.998948,
+      "generated_at": 1794568188.8801854
     }
   ]
 }
