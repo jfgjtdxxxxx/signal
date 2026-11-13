@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794568188.8805997,
+  "generated_at": 1794599573.4261148,
   "signals": [
     {
-      "id": "jupiter-exchange-solana",
-      "symbol": "JUP",
-      "name": "Jupiter",
+      "id": "layerzero",
+      "symbol": "ZRO",
+      "name": "LayerZero",
       "direction": "long",
-      "entry": 0.263773,
-      "tp": 0.267894,
-      "sl": 0.261026,
-      "generated_at": 1794568188.8801646
+      "entry": 1.607959,
+      "tp": 1.64213,
+      "sl": 1.585179,
+      "generated_at": 1794599573.4257376
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 1.152753,
-      "tp": 1.153267,
-      "sl": 1.15241,
-      "generated_at": 1794568188.8801713
+      "entry": 9.284321,
+      "tp": 9.290921,
+      "sl": 9.27992,
+      "generated_at": 1794599573.4257462
     },
     {
-      "id": "falcon-finance",
-      "symbol": "USDF",
-      "name": "Falcon USD",
+      "id": "injective-protocol",
+      "symbol": "INJ",
+      "name": "Injective",
       "direction": "long",
-      "entry": 0.995271,
-      "tp": 0.995354,
-      "sl": 0.995215,
-      "generated_at": 1794568188.8801785
+      "entry": 8.287827,
+      "tp": 8.430142,
+      "sl": 8.192951,
+      "generated_at": 1794599573.4257557
     },
     {
-      "id": "internet-computer",
-      "symbol": "ICP",
-      "name": "Internet Computer",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 2.612484,
-      "tp": 2.644417,
-      "sl": 2.591195,
-      "generated_at": 1794568188.880182
+      "entry": 68976.824718,
+      "tp": 69397.228046,
+      "sl": 68696.555833,
+      "generated_at": 1794599573.4257615
     },
     {
-      "id": "bfusd",
-      "symbol": "BFUSD",
-      "name": "BFUSD",
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "direction": "long",
-      "entry": 0.998998,
-      "tp": 0.999073,
-      "sl": 0.998948,
-      "generated_at": 1794568188.8801854
+      "entry": 1948.100465,
+      "tp": 1962.447604,
+      "sl": 1938.535705,
+      "generated_at": 1794599573.4257665
     }
   ]
 }
