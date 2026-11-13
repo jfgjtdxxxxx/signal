@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794514149.2411256,
+  "generated_at": 1794535599.5561347,
   "signals": [
     {
       "id": "aster-2",
       "symbol": "ASTER",
       "name": "Aster",
       "direction": "long",
-      "entry": 0.664694,
-      "tp": 0.668459,
-      "sl": 0.662184,
-      "generated_at": 1794514149.2403884
+      "entry": 0.665944,
+      "tp": 0.670053,
+      "sl": 0.663205,
+      "generated_at": 1794535599.5556328
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 1.152574,
-      "tp": 1.153533,
-      "sl": 1.151934,
-      "generated_at": 1794514149.2403955
-    },
-    {
-      "id": "falcon-finance",
-      "symbol": "USDF",
-      "name": "Falcon USD",
-      "direction": "long",
-      "entry": 0.994992,
-      "tp": 0.995167,
-      "sl": 0.994875,
-      "generated_at": 1794514149.240404
-    },
-    {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
-      "direction": "long",
-      "entry": 1.000133,
-      "tp": 1.000219,
-      "sl": 1.000076,
-      "generated_at": 1794514149.2404087
+      "entry": 0.146308,
+      "tp": 0.14679,
+      "sl": 0.145987,
+      "generated_at": 1794535599.5556386
     },
     {
       "id": "jupiter-exchange-solana",
       "symbol": "JUP",
       "name": "Jupiter",
       "direction": "long",
-      "entry": 0.265291,
-      "tp": 0.268133,
-      "sl": 0.263397,
-      "generated_at": 1794514149.240413
+      "entry": 0.264406,
+      "tp": 0.266736,
+      "sl": 0.262852,
+      "generated_at": 1794535599.5556455
+    },
+    {
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
+      "direction": "long",
+      "entry": 1.152601,
+      "tp": 1.153449,
+      "sl": 1.152036,
+      "generated_at": 1794535599.555649
+    },
+    {
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
+      "direction": "long",
+      "entry": 81.335672,
+      "tp": 81.684744,
+      "sl": 81.102958,
+      "generated_at": 1794535599.5556526
     }
   ]
 }
