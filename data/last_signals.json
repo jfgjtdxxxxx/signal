@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794599573.4261148,
+  "generated_at": 1794620741.207426,
   "signals": [
     {
-      "id": "layerzero",
-      "symbol": "ZRO",
-      "name": "LayerZero",
+      "id": "jupiter-exchange-solana",
+      "symbol": "JUP",
+      "name": "Jupiter",
       "direction": "long",
-      "entry": 1.607959,
-      "tp": 1.64213,
-      "sl": 1.585179,
-      "generated_at": 1794599573.4257376
+      "entry": 0.263945,
+      "tp": 0.266426,
+      "sl": 0.262292,
+      "generated_at": 1794620741.2070956
     },
     {
       "id": "leo-token",
       "symbol": "LEO",
       "name": "LEO Token",
       "direction": "long",
-      "entry": 9.284321,
-      "tp": 9.290921,
-      "sl": 9.27992,
-      "generated_at": 1794599573.4257462
+      "entry": 9.296213,
+      "tp": 9.300805,
+      "sl": 9.293152,
+      "generated_at": 1794620741.207103
     },
     {
-      "id": "injective-protocol",
-      "symbol": "INJ",
-      "name": "Injective",
+      "id": "bittensor",
+      "symbol": "TAO",
+      "name": "Bittensor",
       "direction": "long",
-      "entry": 8.287827,
-      "tp": 8.430142,
-      "sl": 8.192951,
-      "generated_at": 1794599573.4257557
+      "entry": 216.16374,
+      "tp": 218.98822,
+      "sl": 214.280754,
+      "generated_at": 1794620741.2071104
+    },
+    {
+      "id": "render-token",
+      "symbol": "RENDER",
+      "name": "Render",
+      "direction": "long",
+      "entry": 1.531889,
+      "tp": 1.546876,
+      "sl": 1.521897,
+      "generated_at": 1794620741.2071152
     },
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "direction": "long",
-      "entry": 68976.824718,
-      "tp": 69397.228046,
-      "sl": 68696.555833,
-      "generated_at": 1794599573.4257615
-    },
-    {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "direction": "long",
-      "entry": 1948.100465,
-      "tp": 1962.447604,
-      "sl": 1938.535705,
-      "generated_at": 1794599573.4257665
+      "entry": 68227.636962,
+      "tp": 68518.157137,
+      "sl": 68033.956846,
+      "generated_at": 1794620741.20712
     }
   ]
 }
