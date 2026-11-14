@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794680109.531677,
+  "generated_at": 1794695769.6477618,
   "signals": [
     {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
+      "id": "bfusd",
+      "symbol": "BFUSD",
+      "name": "BFUSD",
       "direction": "long",
-      "entry": 0.048703,
-      "tp": 0.049791,
-      "sl": 0.047977,
-      "generated_at": 1794680109.5311255
+      "entry": 0.99921,
+      "tp": 0.999304,
+      "sl": 0.999147,
+      "generated_at": 1794695769.6471856
+    },
+    {
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
+      "direction": "long",
+      "entry": 9.15818,
+      "tp": 9.188682,
+      "sl": 9.137845,
+      "generated_at": 1794695769.6471932
     },
     {
       "id": "ondo-us-dollar-yield",
       "symbol": "USDY",
       "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 1.153788,
-      "tp": 1.154471,
-      "sl": 1.153333,
-      "generated_at": 1794680109.5311332
+      "entry": 1.152544,
+      "tp": 1.153091,
+      "sl": 1.152179,
+      "generated_at": 1794695769.6472442
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "united-stables",
+      "symbol": "U",
+      "name": "United Stables",
       "direction": "long",
-      "entry": 65774.263228,
-      "tp": 66203.336571,
-      "sl": 65488.214333,
-      "generated_at": 1794680109.5311422
+      "entry": 0.999631,
+      "tp": 0.999767,
+      "sl": 0.999541,
+      "generated_at": 1794695769.6472504
     },
     {
-      "id": "bfusd",
-      "symbol": "BFUSD",
-      "name": "BFUSD",
+      "id": "aster-2",
+      "symbol": "ASTER",
+      "name": "Aster",
       "direction": "long",
-      "entry": 0.999294,
-      "tp": 0.99938,
-      "sl": 0.999237,
-      "generated_at": 1794680109.5311468
-    },
-    {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
-      "direction": "long",
-      "entry": 0.999964,
-      "tp": 1.00013,
-      "sl": 0.999853,
-      "generated_at": 1794680109.531151
+      "entry": 0.49976,
+      "tp": 0.520904,
+      "sl": 0.485665,
+      "generated_at": 1794695769.6472547
     }
   ]
 }
