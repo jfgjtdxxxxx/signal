@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794723612.1136482,
+  "generated_at": 1794752035.206561,
   "signals": [
-    {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
-      "direction": "long",
-      "entry": 0.049776,
-      "tp": 0.050827,
-      "sl": 0.049075,
-      "generated_at": 1794723612.1132588
-    },
-    {
-      "id": "bfusd",
-      "symbol": "BFUSD",
-      "name": "BFUSD",
-      "direction": "long",
-      "entry": 0.999481,
-      "tp": 0.999616,
-      "sl": 0.999391,
-      "generated_at": 1794723612.1132665
-    },
     {
       "id": "venice-token",
       "symbol": "VVV",
       "name": "Venice Token",
       "direction": "long",
-      "entry": 19.507634,
-      "tp": 20.095917,
-      "sl": 19.115445,
-      "generated_at": 1794723612.1132734
+      "entry": 19.490539,
+      "tp": 20.062245,
+      "sl": 19.109401,
+      "generated_at": 1794752035.2061727
     },
     {
-      "id": "gho",
-      "symbol": "GHO",
-      "name": "GHO",
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
       "direction": "long",
-      "entry": 0.998797,
-      "tp": 0.998929,
-      "sl": 0.998709,
-      "generated_at": 1794723612.1132774
+      "entry": 0.049255,
+      "tp": 0.050279,
+      "sl": 0.048572,
+      "generated_at": 1794752035.20618
     },
     {
-      "id": "pearl-2",
-      "symbol": "PEARL",
-      "name": "Pearl",
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "direction": "long",
-      "entry": 1.523683,
-      "tp": 1.549679,
-      "sl": 1.506353,
-      "generated_at": 1794723612.1132808
+      "entry": 1833.50189,
+      "tp": 1858.078859,
+      "sl": 1817.117244,
+      "generated_at": 1794752035.2061868
+    },
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "direction": "long",
+      "entry": 3.168603,
+      "tp": 3.217482,
+      "sl": 3.136017,
+      "generated_at": 1794752035.206191
+    },
+    {
+      "id": "sui",
+      "symbol": "SUI",
+      "name": "Sui",
+      "direction": "long",
+      "entry": 0.732468,
+      "tp": 0.74229,
+      "sl": 0.725919,
+      "generated_at": 1794752035.2061942
     }
   ]
 }
