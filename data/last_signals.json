@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794752035.206561,
+  "generated_at": 1794775100.148417,
   "signals": [
     {
       "id": "venice-token",
       "symbol": "VVV",
       "name": "Venice Token",
       "direction": "long",
-      "entry": 19.490539,
-      "tp": 20.062245,
-      "sl": 19.109401,
-      "generated_at": 1794752035.2061727
+      "entry": 20.425138,
+      "tp": 20.735162,
+      "sl": 20.218456,
+      "generated_at": 1794775100.1479394
     },
     {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
+      "id": "aave",
+      "symbol": "AAVE",
+      "name": "Aave",
       "direction": "long",
-      "entry": 0.049255,
-      "tp": 0.050279,
-      "sl": 0.048572,
-      "generated_at": 1794752035.20618
+      "entry": 108.805781,
+      "tp": 109.846914,
+      "sl": 108.111692,
+      "generated_at": 1794775100.1479478
     },
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 1833.50189,
-      "tp": 1858.078859,
-      "sl": 1817.117244,
-      "generated_at": 1794752035.2061868
+      "entry": 0.083195,
+      "tp": 0.083784,
+      "sl": 0.082803,
+      "generated_at": 1794775100.1479564
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "falcon-finance",
+      "symbol": "USDF",
+      "name": "Falcon USD",
       "direction": "long",
-      "entry": 3.168603,
-      "tp": 3.217482,
-      "sl": 3.136017,
-      "generated_at": 1794752035.206191
+      "entry": 0.995347,
+      "tp": 0.995455,
+      "sl": 0.995276,
+      "generated_at": 1794775100.1479623
     },
     {
-      "id": "sui",
-      "symbol": "SUI",
-      "name": "Sui",
+      "id": "open-usd",
+      "symbol": "OUSD",
+      "name": "Open USD",
       "direction": "long",
-      "entry": 0.732468,
-      "tp": 0.74229,
-      "sl": 0.725919,
-      "generated_at": 1794752035.2061942
+      "entry": 1.000387,
+      "tp": 1.002121,
+      "sl": 0.999232,
+      "generated_at": 1794775100.1479669
     }
   ]
 }
