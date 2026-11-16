@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794827765.7025251,
+  "generated_at": 1794867325.5612512,
   "signals": [
     {
-      "id": "rain",
-      "symbol": "RAIN",
-      "name": "Rain",
+      "id": "aster-2",
+      "symbol": "ASTER",
+      "name": "Aster",
       "direction": "long",
-      "entry": 0.007385,
-      "tp": 0.00815,
-      "sl": 0.006875,
-      "generated_at": 1794827765.7023084
+      "entry": 0.569117,
+      "tp": 0.574542,
+      "sl": 0.5655,
+      "generated_at": 1794867325.560832
     },
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "internet-computer",
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "direction": "long",
-      "entry": 3.191347,
-      "tp": 3.228394,
-      "sl": 3.166648,
-      "generated_at": 1794827765.7023156
+      "entry": 2.541078,
+      "tp": 2.584191,
+      "sl": 2.512337,
+      "generated_at": 1794867325.5608392
     },
     {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
+      "id": "layerzero",
+      "symbol": "ZRO",
+      "name": "LayerZero",
       "direction": "long",
-      "entry": 67.416249,
-      "tp": 68.030563,
-      "sl": 67.006706,
-      "generated_at": 1794827765.7023225
+      "entry": 1.458875,
+      "tp": 1.482144,
+      "sl": 1.443362,
+      "generated_at": 1794867325.5608454
     },
     {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 0.999937,
-      "tp": 1.000003,
-      "sl": 0.999893,
-      "generated_at": 1794827765.7023268
+      "entry": 65315.146063,
+      "tp": 65744.662752,
+      "sl": 65028.801604,
+      "generated_at": 1794867325.5608492
     },
     {
-      "id": "arbitrum",
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "direction": "long",
-      "entry": 0.134367,
-      "tp": 0.135298,
-      "sl": 0.133746,
-      "generated_at": 1794827765.70233
+      "entry": 1828.755988,
+      "tp": 1845.007092,
+      "sl": 1817.921918,
+      "generated_at": 1794867325.5608525
     }
   ]
 }
