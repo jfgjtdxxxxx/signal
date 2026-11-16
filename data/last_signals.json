@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794775100.148417,
+  "generated_at": 1794791754.4130204,
   "signals": [
-    {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
-      "direction": "long",
-      "entry": 20.425138,
-      "tp": 20.735162,
-      "sl": 20.218456,
-      "generated_at": 1794775100.1479394
-    },
     {
       "id": "aave",
       "symbol": "AAVE",
       "name": "Aave",
       "direction": "long",
-      "entry": 108.805781,
-      "tp": 109.846914,
-      "sl": 108.111692,
-      "generated_at": 1794775100.1479478
+      "entry": 108.516206,
+      "tp": 109.430921,
+      "sl": 107.906396,
+      "generated_at": 1794791754.412611
     },
     {
       "id": "canton-network",
       "symbol": "CC",
       "name": "Canton",
       "direction": "long",
-      "entry": 0.083195,
-      "tp": 0.083784,
-      "sl": 0.082803,
-      "generated_at": 1794775100.1479564
+      "entry": 0.084944,
+      "tp": 0.085739,
+      "sl": 0.084415,
+      "generated_at": 1794791754.4126177
     },
     {
-      "id": "falcon-finance",
-      "symbol": "USDF",
-      "name": "Falcon USD",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 0.995347,
-      "tp": 0.995455,
-      "sl": 0.995276,
-      "generated_at": 1794775100.1479623
+      "entry": 155.577532,
+      "tp": 157.645749,
+      "sl": 154.198721,
+      "generated_at": 1794791754.412625
     },
     {
-      "id": "open-usd",
-      "symbol": "OUSD",
-      "name": "Open USD",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 1.000387,
-      "tp": 1.002121,
-      "sl": 0.999232,
-      "generated_at": 1794775100.1479669
+      "entry": 497.080957,
+      "tp": 501.062302,
+      "sl": 494.426727,
+      "generated_at": 1794791754.4126294
+    },
+    {
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "direction": "long",
+      "entry": 0.058917,
+      "tp": 0.059264,
+      "sl": 0.058686,
+      "generated_at": 1794791754.4126325
     }
   ]
 }
