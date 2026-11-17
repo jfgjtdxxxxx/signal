@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794867325.5612512,
+  "generated_at": 1794902226.9987442,
   "signals": [
     {
       "id": "aster-2",
       "symbol": "ASTER",
       "name": "Aster",
       "direction": "long",
-      "entry": 0.569117,
-      "tp": 0.574542,
-      "sl": 0.5655,
-      "generated_at": 1794867325.560832
+      "entry": 0.589733,
+      "tp": 0.595221,
+      "sl": 0.586074,
+      "generated_at": 1794902226.9983277
     },
     {
-      "id": "internet-computer",
-      "symbol": "ICP",
-      "name": "Internet Computer",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 2.541078,
-      "tp": 2.584191,
-      "sl": 2.512337,
-      "generated_at": 1794867325.5608392
+      "entry": 21.403508,
+      "tp": 21.683974,
+      "sl": 21.216531,
+      "generated_at": 1794902226.9983346
+    },
+    {
+      "id": "injective-protocol",
+      "symbol": "INJ",
+      "name": "Injective",
+      "direction": "long",
+      "entry": 7.361769,
+      "tp": 7.490198,
+      "sl": 7.27615,
+      "generated_at": 1794902226.9983413
     },
     {
       "id": "layerzero",
       "symbol": "ZRO",
       "name": "LayerZero",
       "direction": "long",
-      "entry": 1.458875,
-      "tp": 1.482144,
-      "sl": 1.443362,
-      "generated_at": 1794867325.5608454
-    },
-    {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "direction": "long",
-      "entry": 65315.146063,
-      "tp": 65744.662752,
-      "sl": 65028.801604,
-      "generated_at": 1794867325.5608492
+      "entry": 1.506852,
+      "tp": 1.523761,
+      "sl": 1.49558,
+      "generated_at": 1794902226.9983454
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "direction": "long",
-      "entry": 1828.755988,
-      "tp": 1845.007092,
-      "sl": 1817.921918,
-      "generated_at": 1794867325.5608525
+      "entry": 1827.976047,
+      "tp": 1836.007893,
+      "sl": 1822.621482,
+      "generated_at": 1794902226.9983497
     }
   ]
 }
