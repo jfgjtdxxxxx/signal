@@ -1,55 +1,55 @@
 {
-  "generated_at": 1794902226.9987442,
+  "generated_at": 1794941097.8426409,
   "signals": [
     {
-      "id": "aster-2",
-      "symbol": "ASTER",
-      "name": "Aster",
+      "id": "htx-dao",
+      "symbol": "HTX",
+      "name": "HTX DAO",
       "direction": "long",
-      "entry": 0.589733,
-      "tp": 0.595221,
-      "sl": 0.586074,
-      "generated_at": 1794902226.9983277
+      "entry": 1e-06,
+      "tp": 1e-06,
+      "sl": 1e-06,
+      "generated_at": 1794941097.8419728
     },
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
       "direction": "long",
-      "entry": 21.403508,
-      "tp": 21.683974,
-      "sl": 21.216531,
-      "generated_at": 1794902226.9983346
+      "entry": 0.053817,
+      "tp": 0.054386,
+      "sl": 0.053438,
+      "generated_at": 1794941097.8419843
     },
     {
-      "id": "injective-protocol",
-      "symbol": "INJ",
-      "name": "Injective",
+      "id": "open-usd",
+      "symbol": "OUSD",
+      "name": "Open USD",
       "direction": "long",
-      "entry": 7.361769,
-      "tp": 7.490198,
-      "sl": 7.27615,
-      "generated_at": 1794902226.9983413
+      "entry": 0.999647,
+      "tp": 0.999977,
+      "sl": 0.999427,
+      "generated_at": 1794941097.8419948
     },
     {
-      "id": "layerzero",
-      "symbol": "ZRO",
-      "name": "LayerZero",
+      "id": "xdce-crowd-sale",
+      "symbol": "XDC",
+      "name": "XDC Network",
       "direction": "long",
-      "entry": 1.506852,
-      "tp": 1.523761,
-      "sl": 1.49558,
-      "generated_at": 1794902226.9983454
+      "entry": 0.03029,
+      "tp": 0.030635,
+      "sl": 0.030059,
+      "generated_at": 1794941097.842001
     },
     {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "memecore",
+      "symbol": "M",
+      "name": "MemeCore",
       "direction": "long",
-      "entry": 1827.976047,
-      "tp": 1836.007893,
-      "sl": 1822.621482,
-      "generated_at": 1794902226.9983497
+      "entry": 0.89331,
+      "tp": 0.910071,
+      "sl": 0.882137,
+      "generated_at": 1794941097.842006
     }
   ]
 }
