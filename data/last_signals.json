@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795002524.2908344,
+  "generated_at": 1795034487.113883,
   "signals": [
+    {
+      "id": "pearl-2",
+      "symbol": "PEARL",
+      "name": "Pearl",
+      "direction": "long",
+      "entry": 2.19332,
+      "tp": 2.273808,
+      "sl": 2.139661,
+      "generated_at": 1795034487.113351
+    },
+    {
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
+      "direction": "long",
+      "entry": 0.144845,
+      "tp": 0.14527,
+      "sl": 0.144562,
+      "generated_at": 1795034487.1133597
+    },
     {
       "id": "pieverse",
       "symbol": "PIEVERSE",
       "name": "Pieverse",
       "direction": "long",
-      "entry": 2.422329,
-      "tp": 2.488769,
-      "sl": 2.378036,
-      "generated_at": 1795002524.290499
+      "entry": 3.379383,
+      "tp": 3.527999,
+      "sl": 3.280306,
+      "generated_at": 1795034487.1133676
     },
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
       "direction": "long",
-      "entry": 0.986867,
-      "tp": 0.99411,
-      "sl": 0.982038,
-      "generated_at": 1795002524.2905083
+      "entry": 0.497026,
+      "tp": 0.518411,
+      "sl": 0.48277,
+      "generated_at": 1795034487.1133718
     },
     {
-      "id": "stellar",
-      "symbol": "XLM",
-      "name": "Stellar",
+      "id": "rain",
+      "symbol": "RAIN",
+      "name": "Rain",
       "direction": "long",
-      "entry": 0.140245,
-      "tp": 0.141351,
-      "sl": 0.139508,
-      "generated_at": 1795002524.290517
-    },
-    {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
-      "direction": "long",
-      "entry": 0.083509,
-      "tp": 0.084469,
-      "sl": 0.082869,
-      "generated_at": 1795002524.2905223
-    },
-    {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
-      "direction": "long",
-      "entry": 1.15233,
-      "tp": 1.153399,
-      "sl": 1.151618,
-      "generated_at": 1795002524.2905273
+      "entry": 0.00451,
+      "tp": 0.00468,
+      "sl": 0.004397,
+      "generated_at": 1795034487.1133757
     }
   ]
 }
