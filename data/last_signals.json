@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795056498.5184422,
+  "generated_at": 1795088846.571512,
   "signals": [
     {
       "id": "venice-token",
       "symbol": "VVV",
       "name": "Venice Token",
       "direction": "long",
-      "entry": 21.976272,
-      "tp": 22.361796,
-      "sl": 21.719257,
-      "generated_at": 1795056498.5180387
+      "entry": 23.192392,
+      "tp": 23.645491,
+      "sl": 22.890325,
+      "generated_at": 1795088846.5711498
     },
     {
-      "id": "pearl-2",
-      "symbol": "PEARL",
-      "name": "Pearl",
+      "id": "jupiter-exchange-solana",
+      "symbol": "JUP",
+      "name": "Jupiter",
       "direction": "long",
-      "entry": 2.178825,
-      "tp": 2.269405,
-      "sl": 2.118437,
-      "generated_at": 1795056498.5180454
+      "entry": 0.271423,
+      "tp": 0.275225,
+      "sl": 0.268888,
+      "generated_at": 1795088846.571157
     },
     {
       "id": "leo-token",
       "symbol": "LEO",
       "name": "LEO Token",
       "direction": "long",
-      "entry": 9.346716,
-      "tp": 9.366963,
-      "sl": 9.333218,
-      "generated_at": 1795056498.5180519
+      "entry": 9.340465,
+      "tp": 9.378513,
+      "sl": 9.3151,
+      "generated_at": 1795088846.5711641
     },
     {
       "id": "near",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 3.322003,
-      "tp": 3.3679,
-      "sl": 3.291405,
-      "generated_at": 1795056498.5180552
+      "entry": 3.391513,
+      "tp": 3.436483,
+      "sl": 3.361533,
+      "generated_at": 1795088846.5711675
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 1.152632,
-      "tp": 1.153219,
-      "sl": 1.152241,
-      "generated_at": 1795056498.5180585
+      "entry": 0.083353,
+      "tp": 0.083914,
+      "sl": 0.08298,
+      "generated_at": 1795088846.5711708
     }
   ]
 }
