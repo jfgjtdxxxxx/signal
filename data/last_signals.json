@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795142100.767857,
+  "generated_at": 1795174518.3508801,
   "signals": [
     {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 1.000023,
-      "tp": 1.000094,
-      "sl": 0.999975,
-      "generated_at": 1795142100.7674518
+      "entry": 3581.860644,
+      "tp": 3604.799179,
+      "sl": 3566.568287,
+      "generated_at": 1795174518.3505301
+    },
+    {
+      "id": "united-stables",
+      "symbol": "U",
+      "name": "United Stables",
+      "direction": "long",
+      "entry": 0.999449,
+      "tp": 0.999624,
+      "sl": 0.999332,
+      "generated_at": 1795174518.350538
     },
     {
       "id": "just",
       "symbol": "JST",
       "name": "JUST",
       "direction": "long",
-      "entry": 0.146086,
-      "tp": 0.146444,
-      "sl": 0.145847,
-      "generated_at": 1795142100.7674592
+      "entry": 0.147894,
+      "tp": 0.148325,
+      "sl": 0.147607,
+      "generated_at": 1795174518.3505452
     },
     {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 0.046022,
-      "tp": 0.047997,
-      "sl": 0.044706,
-      "generated_at": 1795142100.7674658
+      "entry": 1.000059,
+      "tp": 1.000165,
+      "sl": 0.999988,
+      "generated_at": 1795174518.35055
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 495.840779,
-      "tp": 501.418989,
-      "sl": 492.121972,
-      "generated_at": 1795142100.7674701
-    },
-    {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
-      "direction": "long",
-      "entry": 1.152784,
-      "tp": 1.153308,
-      "sl": 1.152434,
-      "generated_at": 1795142100.7674737
+      "entry": 61781.386127,
+      "tp": 62252.401082,
+      "sl": 61467.376156,
+      "generated_at": 1795174518.3505566
     }
   ]
 }
