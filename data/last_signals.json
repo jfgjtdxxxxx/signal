@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795120750.8508148,
+  "generated_at": 1795142100.767857,
   "signals": [
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 9.336812,
-      "tp": 9.368494,
-      "sl": 9.315692,
-      "generated_at": 1795120750.8504448
-    },
-    {
-      "id": "world-liberty-financial",
-      "symbol": "WLFI",
-      "name": "World Liberty Financial",
-      "direction": "long",
-      "entry": 0.046239,
-      "tp": 0.046475,
-      "sl": 0.046081,
-      "generated_at": 1795120750.8504512
+      "entry": 1.000023,
+      "tp": 1.000094,
+      "sl": 0.999975,
+      "generated_at": 1795142100.7674518
     },
     {
       "id": "just",
       "symbol": "JST",
       "name": "JUST",
       "direction": "long",
-      "entry": 0.146202,
-      "tp": 0.146717,
-      "sl": 0.145859,
-      "generated_at": 1795120750.8504581
+      "entry": 0.146086,
+      "tp": 0.146444,
+      "sl": 0.145847,
+      "generated_at": 1795142100.7674592
     },
     {
       "id": "sky",
       "symbol": "SKY",
       "name": "Sky",
       "direction": "long",
-      "entry": 0.046654,
-      "tp": 0.048606,
-      "sl": 0.045352,
-      "generated_at": 1795120750.8504617
+      "entry": 0.046022,
+      "tp": 0.047997,
+      "sl": 0.044706,
+      "generated_at": 1795142100.7674658
     },
     {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 0.999899,
-      "tp": 0.999986,
-      "sl": 0.999841,
-      "generated_at": 1795120750.8504653
+      "entry": 495.840779,
+      "tp": 501.418989,
+      "sl": 492.121972,
+      "generated_at": 1795142100.7674701
+    },
+    {
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
+      "direction": "long",
+      "entry": 1.152784,
+      "tp": 1.153308,
+      "sl": 1.152434,
+      "generated_at": 1795142100.7674737
     }
   ]
 }
