@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795174518.3508801,
+  "generated_at": 1795205859.2094574,
   "signals": [
     {
       "id": "tether-gold",
       "symbol": "XAUT",
       "name": "Tether Gold",
       "direction": "long",
-      "entry": 3581.860644,
-      "tp": 3604.799179,
-      "sl": 3566.568287,
-      "generated_at": 1795174518.3505301
+      "entry": 3514.728606,
+      "tp": 3531.461991,
+      "sl": 3503.573015,
+      "generated_at": 1795205859.2092497
     },
     {
-      "id": "united-stables",
-      "symbol": "U",
-      "name": "United Stables",
+      "id": "pax-gold",
+      "symbol": "PAXG",
+      "name": "PAX Gold",
       "direction": "long",
-      "entry": 0.999449,
-      "tp": 0.999624,
-      "sl": 0.999332,
-      "generated_at": 1795174518.350538
+      "entry": 3512.236514,
+      "tp": 3529.307148,
+      "sl": 3500.85609,
+      "generated_at": 1795205859.2092557
     },
     {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
       "direction": "long",
-      "entry": 0.147894,
-      "tp": 0.148325,
-      "sl": 0.147607,
-      "generated_at": 1795174518.3505452
+      "entry": 0.663618,
+      "tp": 0.679191,
+      "sl": 0.653235,
+      "generated_at": 1795205859.2092626
     },
     {
       "id": "usdgo",
       "symbol": "USDGO",
       "name": "USDGO",
       "direction": "long",
-      "entry": 1.000059,
-      "tp": 1.000165,
-      "sl": 0.999988,
-      "generated_at": 1795174518.35055
+      "entry": 1.000161,
+      "tp": 1.000327,
+      "sl": 1.00005,
+      "generated_at": 1795205859.2092667
     },
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "direction": "long",
-      "entry": 61781.386127,
-      "tp": 62252.401082,
-      "sl": 61467.376156,
-      "generated_at": 1795174518.3505566
+      "id": "crypto-com-chain",
+      "symbol": "CRO",
+      "name": "Cronos",
+      "direction": "short",
+      "entry": 0.039418,
+      "tp": 0.038984,
+      "sl": 0.039708,
+      "generated_at": 1795205859.2092707
     }
   ]
 }
