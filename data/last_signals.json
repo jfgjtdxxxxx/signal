@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795259626.474368,
+  "generated_at": 1795289002.474835,
   "signals": [
     {
-      "id": "pieverse",
-      "symbol": "PIEVERSE",
-      "name": "Pieverse",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 2.90781,
-      "tp": 2.970045,
-      "sl": 2.866319,
-      "generated_at": 1795259626.4738333
-    },
-    {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "direction": "long",
-      "entry": 0.728974,
-      "tp": 0.746314,
-      "sl": 0.717414,
-      "generated_at": 1795259626.4738402
+      "entry": 484.758811,
+      "tp": 492.373568,
+      "sl": 479.682307,
+      "generated_at": 1795289002.4745069
     },
     {
       "id": "venice-token",
       "symbol": "VVV",
       "name": "Venice Token",
       "direction": "long",
-      "entry": 21.858674,
-      "tp": 22.421661,
-      "sl": 21.483349,
-      "generated_at": 1795259626.473848
+      "entry": 23.995931,
+      "tp": 24.553163,
+      "sl": 23.624442,
+      "generated_at": 1795289002.4745162
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 469.338768,
-      "tp": 477.791426,
-      "sl": 463.703663,
-      "generated_at": 1795259626.473852
+      "entry": 1.000264,
+      "tp": 1.00038,
+      "sl": 1.000186,
+      "generated_at": 1795289002.4745252
     },
     {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
+      "id": "pieverse",
+      "symbol": "PIEVERSE",
+      "name": "Pieverse",
       "direction": "long",
-      "entry": 0.04453,
-      "tp": 0.045206,
-      "sl": 0.044079,
-      "generated_at": 1795259626.4738562
+      "entry": 3.365618,
+      "tp": 3.450031,
+      "sl": 3.309343,
+      "generated_at": 1795289002.4745305
+    },
+    {
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
+      "direction": "long",
+      "entry": 0.045456,
+      "tp": 0.046316,
+      "sl": 0.044882,
+      "generated_at": 1795289002.4745352
     }
   ]
 }
