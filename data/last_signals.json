@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795205859.2094574,
+  "generated_at": 1795228225.8223252,
   "signals": [
-    {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
-      "direction": "long",
-      "entry": 3514.728606,
-      "tp": 3531.461991,
-      "sl": 3503.573015,
-      "generated_at": 1795205859.2092497
-    },
-    {
-      "id": "pax-gold",
-      "symbol": "PAXG",
-      "name": "PAX Gold",
-      "direction": "long",
-      "entry": 3512.236514,
-      "tp": 3529.307148,
-      "sl": 3500.85609,
-      "generated_at": 1795205859.2092557
-    },
-    {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "direction": "long",
-      "entry": 0.663618,
-      "tp": 0.679191,
-      "sl": 0.653235,
-      "generated_at": 1795205859.2092626
-    },
     {
       "id": "usdgo",
       "symbol": "USDGO",
       "name": "USDGO",
       "direction": "long",
-      "entry": 1.000161,
-      "tp": 1.000327,
-      "sl": 1.00005,
-      "generated_at": 1795205859.2092667
+      "entry": 1.000311,
+      "tp": 1.000519,
+      "sl": 1.000172,
+      "generated_at": 1795228225.8221228
     },
     {
-      "id": "crypto-com-chain",
-      "symbol": "CRO",
-      "name": "Cronos",
-      "direction": "short",
-      "entry": 0.039418,
-      "tp": 0.038984,
-      "sl": 0.039708,
-      "generated_at": 1795205859.2092707
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
+      "direction": "long",
+      "entry": 138.194771,
+      "tp": 140.463472,
+      "sl": 136.682303,
+      "generated_at": 1795228225.8221297
+    },
+    {
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
+      "direction": "long",
+      "entry": 0.04449,
+      "tp": 0.045138,
+      "sl": 0.044058,
+      "generated_at": 1795228225.8221364
+    },
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "direction": "long",
+      "entry": 746.947463,
+      "tp": 764.948111,
+      "sl": 734.947031,
+      "generated_at": 1795228225.8221397
+    },
+    {
+      "id": "dogecoin",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "direction": "long",
+      "entry": 0.054556,
+      "tp": 0.055311,
+      "sl": 0.054053,
+      "generated_at": 1795228225.8221426
     }
   ]
 }
