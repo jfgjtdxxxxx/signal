@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795289002.474835,
+  "generated_at": 1795310985.333241,
   "signals": [
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 484.758811,
-      "tp": 492.373568,
-      "sl": 479.682307,
-      "generated_at": 1795289002.4745069
-    },
-    {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
-      "direction": "long",
-      "entry": 23.995931,
-      "tp": 24.553163,
-      "sl": 23.624442,
-      "generated_at": 1795289002.4745162
-    },
-    {
-      "id": "usdgo",
-      "symbol": "USDGO",
-      "name": "USDGO",
-      "direction": "long",
-      "entry": 1.000264,
-      "tp": 1.00038,
-      "sl": 1.000186,
-      "generated_at": 1795289002.4745252
+      "entry": 491.753126,
+      "tp": 496.266257,
+      "sl": 488.744372,
+      "generated_at": 1795310985.3327513
     },
     {
       "id": "pieverse",
       "symbol": "PIEVERSE",
       "name": "Pieverse",
       "direction": "long",
-      "entry": 3.365618,
-      "tp": 3.450031,
-      "sl": 3.309343,
-      "generated_at": 1795289002.4745305
+      "entry": 3.392981,
+      "tp": 3.465167,
+      "sl": 3.344856,
+      "generated_at": 1795310985.3327582
     },
     {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 0.045456,
-      "tp": 0.046316,
-      "sl": 0.044882,
-      "generated_at": 1795289002.4745352
+      "entry": 1.153247,
+      "tp": 1.153828,
+      "sl": 1.15286,
+      "generated_at": 1795310985.3327649
+    },
+    {
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
+      "direction": "long",
+      "entry": 25.057608,
+      "tp": 25.531365,
+      "sl": 24.74177,
+      "generated_at": 1795310985.3327684
+    },
+    {
+      "id": "morpho",
+      "symbol": "MORPHO",
+      "name": "Morpho",
+      "direction": "long",
+      "entry": 1.562999,
+      "tp": 1.575377,
+      "sl": 1.554746,
+      "generated_at": 1795310985.3327718
     }
   ]
 }
