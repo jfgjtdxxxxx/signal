@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795346502.8256755,
+  "generated_at": 1795376754.9826338,
   "signals": [
     {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 60831.550677,
-      "tp": 61285.966334,
-      "sl": 60528.606907,
-      "generated_at": 1795346502.8253033
+      "entry": 3.006891,
+      "tp": 3.038154,
+      "sl": 2.986049,
+      "generated_at": 1795376754.9822643
+    },
+    {
+      "id": "midnight-3",
+      "symbol": "NIGHT",
+      "name": "Midnight",
+      "direction": "long",
+      "entry": 0.047941,
+      "tp": 0.048918,
+      "sl": 0.04729,
+      "generated_at": 1795376754.9822707
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
+      "direction": "long",
+      "entry": 0.926954,
+      "tp": 0.93297,
+      "sl": 0.922944,
+      "generated_at": 1795376754.9822767
     },
     {
       "id": "hyperliquid",
       "symbol": "HYPE",
       "name": "Hyperliquid",
       "direction": "long",
-      "entry": 62.292125,
-      "tp": 62.807764,
-      "sl": 61.948366,
-      "generated_at": 1795346502.8253145
+      "entry": 62.458758,
+      "tp": 63.046513,
+      "sl": 62.066921,
+      "generated_at": 1795376754.982281
     },
     {
-      "id": "binancecoin",
-      "symbol": "BNB",
-      "name": "BNB",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 552.160137,
-      "tp": 555.883812,
-      "sl": 549.677687,
-      "generated_at": 1795346502.8253264
-    },
-    {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "direction": "long",
-      "entry": 793.14078,
-      "tp": 800.363408,
-      "sl": 788.325694,
-      "generated_at": 1795346502.8253343
-    },
-    {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
-      "direction": "long",
-      "entry": 3.004962,
-      "tp": 3.031102,
-      "sl": 2.987535,
-      "generated_at": 1795346502.825341
+      "entry": 142.807393,
+      "tp": 143.77436,
+      "sl": 142.162748,
+      "generated_at": 1795376754.982284
     }
   ]
 }
