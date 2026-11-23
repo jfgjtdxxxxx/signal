@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795399818.0627313,
+  "generated_at": 1795437016.827213,
   "signals": [
     {
-      "id": "pearl-2",
-      "symbol": "PEARL",
-      "name": "Pearl",
+      "id": "jupiter-exchange-solana",
+      "symbol": "JUP",
+      "name": "Jupiter",
       "direction": "long",
-      "entry": 2.06827,
-      "tp": 2.103715,
-      "sl": 2.044639,
-      "generated_at": 1795399818.0624812
+      "entry": 0.240757,
+      "tp": 0.244411,
+      "sl": 0.238321,
+      "generated_at": 1795437016.8267393
     },
     {
-      "id": "binancecoin",
-      "symbol": "BNB",
-      "name": "BNB",
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
       "direction": "long",
-      "entry": 558.093093,
-      "tp": 560.567434,
-      "sl": 556.443532,
-      "generated_at": 1795399818.062488
+      "entry": 0.939882,
+      "tp": 0.945815,
+      "sl": 0.935927,
+      "generated_at": 1795437016.8267467
     },
     {
-      "id": "solana",
-      "symbol": "SOL",
-      "name": "Solana",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 70.582154,
-      "tp": 70.865921,
-      "sl": 70.392977,
-      "generated_at": 1795399818.0624945
+      "entry": 503.532557,
+      "tp": 506.583581,
+      "sl": 501.498541,
+      "generated_at": 1795437016.8267553
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "cardano",
+      "symbol": "ADA",
+      "name": "Cardano",
       "direction": "long",
-      "entry": 9.214156,
-      "tp": 9.245813,
-      "sl": 9.193051,
-      "generated_at": 1795399818.062498
+      "entry": 0.145709,
+      "tp": 0.146614,
+      "sl": 0.145106,
+      "generated_at": 1795437016.8267593
     },
     {
-      "id": "whitebit",
-      "symbol": "WBT",
-      "name": "WhiteBIT Coin",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 58.638988,
-      "tp": 58.823872,
-      "sl": 58.515733,
-      "generated_at": 1795399818.0625014
+      "entry": 155.301931,
+      "tp": 157.548341,
+      "sl": 153.804324,
+      "generated_at": 1795437016.826763
     }
   ]
 }
