@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795376754.9826338,
+  "generated_at": 1795399818.0627313,
   "signals": [
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "pearl-2",
+      "symbol": "PEARL",
+      "name": "Pearl",
       "direction": "long",
-      "entry": 3.006891,
-      "tp": 3.038154,
-      "sl": 2.986049,
-      "generated_at": 1795376754.9822643
+      "entry": 2.06827,
+      "tp": 2.103715,
+      "sl": 2.044639,
+      "generated_at": 1795399818.0624812
     },
     {
-      "id": "midnight-3",
-      "symbol": "NIGHT",
-      "name": "Midnight",
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
       "direction": "long",
-      "entry": 0.047941,
-      "tp": 0.048918,
-      "sl": 0.04729,
-      "generated_at": 1795376754.9822707
+      "entry": 558.093093,
+      "tp": 560.567434,
+      "sl": 556.443532,
+      "generated_at": 1795399818.062488
     },
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
       "direction": "long",
-      "entry": 0.926954,
-      "tp": 0.93297,
-      "sl": 0.922944,
-      "generated_at": 1795376754.9822767
+      "entry": 70.582154,
+      "tp": 70.865921,
+      "sl": 70.392977,
+      "generated_at": 1795399818.0624945
     },
     {
-      "id": "hyperliquid",
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 62.458758,
-      "tp": 63.046513,
-      "sl": 62.066921,
-      "generated_at": 1795376754.982281
+      "entry": 9.214156,
+      "tp": 9.245813,
+      "sl": 9.193051,
+      "generated_at": 1795399818.062498
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "whitebit",
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
       "direction": "long",
-      "entry": 142.807393,
-      "tp": 143.77436,
-      "sl": 142.162748,
-      "generated_at": 1795376754.982284
+      "entry": 58.638988,
+      "tp": 58.823872,
+      "sl": 58.515733,
+      "generated_at": 1795399818.0625014
     }
   ]
 }
