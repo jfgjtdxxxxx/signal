@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795487325.0357146,
+  "generated_at": 1795528327.2155957,
   "signals": [
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "open-usd",
+      "symbol": "OUSD",
+      "name": "Open USD",
       "direction": "long",
-      "entry": 0.079688,
-      "tp": 0.080595,
-      "sl": 0.079084,
-      "generated_at": 1795487325.0352905
+      "entry": 1.000257,
+      "tp": 1.000751,
+      "sl": 0.999927,
+      "generated_at": 1795528327.215216
     },
     {
-      "id": "leo-token",
-      "symbol": "LEO",
-      "name": "LEO Token",
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
       "direction": "long",
-      "entry": 9.161688,
-      "tp": 9.17064,
-      "sl": 9.15572,
-      "generated_at": 1795487325.035297
+      "entry": 496.990841,
+      "tp": 500.930764,
+      "sl": 494.364226,
+      "generated_at": 1795528327.2152247
     },
     {
-      "id": "internet-computer",
-      "symbol": "ICP",
-      "name": "Internet Computer",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 2.07769,
-      "tp": 2.104009,
-      "sl": 2.060143,
-      "generated_at": 1795487325.035303
+      "entry": 25.499306,
+      "tp": 25.90007,
+      "sl": 25.23213,
+      "generated_at": 1795528327.2152338
     },
     {
-      "id": "cardano",
-      "symbol": "ADA",
-      "name": "Cardano",
+      "id": "just",
+      "symbol": "JST",
+      "name": "JUST",
       "direction": "long",
-      "entry": 0.149587,
-      "tp": 0.15172,
-      "sl": 0.148166,
-      "generated_at": 1795487325.0353072
+      "entry": 0.145858,
+      "tp": 0.146644,
+      "sl": 0.145334,
+      "generated_at": 1795528327.2152388
     },
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "janus-henderson-anemoy-aaa-clo-fund",
+      "symbol": "JAAA",
+      "name": "Janus Henderson Anemoy AAA CLO Fund",
       "direction": "long",
-      "entry": 154.49396,
-      "tp": 156.655781,
-      "sl": 153.052746,
-      "generated_at": 1795487325.0353107
+      "entry": 1.05791,
+      "tp": 1.057927,
+      "sl": 1.057899,
+      "generated_at": 1795528327.2152436
     }
   ]
 }
