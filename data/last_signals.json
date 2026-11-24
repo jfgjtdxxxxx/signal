@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795437016.827213,
+  "generated_at": 1795487325.0357146,
   "signals": [
     {
-      "id": "jupiter-exchange-solana",
-      "symbol": "JUP",
-      "name": "Jupiter",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 0.240757,
-      "tp": 0.244411,
-      "sl": 0.238321,
-      "generated_at": 1795437016.8267393
+      "entry": 0.079688,
+      "tp": 0.080595,
+      "sl": 0.079084,
+      "generated_at": 1795487325.0352905
     },
     {
-      "id": "ripple",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
       "direction": "long",
-      "entry": 0.939882,
-      "tp": 0.945815,
-      "sl": 0.935927,
-      "generated_at": 1795437016.8267467
+      "entry": 9.161688,
+      "tp": 9.17064,
+      "sl": 9.15572,
+      "generated_at": 1795487325.035297
     },
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "internet-computer",
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "direction": "long",
-      "entry": 503.532557,
-      "tp": 506.583581,
-      "sl": 501.498541,
-      "generated_at": 1795437016.8267553
+      "entry": 2.07769,
+      "tp": 2.104009,
+      "sl": 2.060143,
+      "generated_at": 1795487325.035303
     },
     {
       "id": "cardano",
       "symbol": "ADA",
       "name": "Cardano",
       "direction": "long",
-      "entry": 0.145709,
-      "tp": 0.146614,
-      "sl": 0.145106,
-      "generated_at": 1795437016.8267593
+      "entry": 0.149587,
+      "tp": 0.15172,
+      "sl": 0.148166,
+      "generated_at": 1795487325.0353072
     },
     {
       "id": "quant-network",
       "symbol": "QNT",
       "name": "Quant",
       "direction": "long",
-      "entry": 155.301931,
-      "tp": 157.548341,
-      "sl": 153.804324,
-      "generated_at": 1795437016.826763
+      "entry": 154.49396,
+      "tp": 156.655781,
+      "sl": 153.052746,
+      "generated_at": 1795487325.0353107
     }
   ]
 }
