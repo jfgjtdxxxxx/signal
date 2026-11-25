@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795528327.2155957,
+  "generated_at": 1795566131.82146,
   "signals": [
-    {
-      "id": "open-usd",
-      "symbol": "OUSD",
-      "name": "Open USD",
-      "direction": "long",
-      "entry": 1.000257,
-      "tp": 1.000751,
-      "sl": 0.999927,
-      "generated_at": 1795528327.215216
-    },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 496.990841,
-      "tp": 500.930764,
-      "sl": 494.364226,
-      "generated_at": 1795528327.2152247
-    },
-    {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
-      "direction": "long",
-      "entry": 25.499306,
-      "tp": 25.90007,
-      "sl": 25.23213,
-      "generated_at": 1795528327.2152338
+      "entry": 507.637501,
+      "tp": 511.612559,
+      "sl": 504.987463,
+      "generated_at": 1795566131.8212252
     },
     {
       "id": "just",
       "symbol": "JST",
       "name": "JUST",
       "direction": "long",
-      "entry": 0.145858,
-      "tp": 0.146644,
-      "sl": 0.145334,
-      "generated_at": 1795528327.2152388
+      "entry": 0.147015,
+      "tp": 0.147494,
+      "sl": 0.146696,
+      "generated_at": 1795566131.8212323
     },
     {
-      "id": "janus-henderson-anemoy-aaa-clo-fund",
-      "symbol": "JAAA",
-      "name": "Janus Henderson Anemoy AAA CLO Fund",
+      "id": "open-usd",
+      "symbol": "OUSD",
+      "name": "Open USD",
       "direction": "long",
-      "entry": 1.05791,
-      "tp": 1.057927,
-      "sl": 1.057899,
-      "generated_at": 1795528327.2152436
+      "entry": 0.998952,
+      "tp": 0.999666,
+      "sl": 0.998475,
+      "generated_at": 1795566131.8212397
+    },
+    {
+      "id": "aave",
+      "symbol": "AAVE",
+      "name": "Aave",
+      "direction": "long",
+      "entry": 93.620126,
+      "tp": 94.586796,
+      "sl": 92.97568,
+      "generated_at": 1795566131.8212433
+    },
+    {
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
+      "direction": "long",
+      "entry": 0.041268,
+      "tp": 0.041773,
+      "sl": 0.040931,
+      "generated_at": 1795566131.8212461
     }
   ]
 }
