@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795566131.82146,
+  "generated_at": 1795595070.379385,
   "signals": [
-    {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
-      "direction": "long",
-      "entry": 507.637501,
-      "tp": 511.612559,
-      "sl": 504.987463,
-      "generated_at": 1795566131.8212252
-    },
     {
       "id": "just",
       "symbol": "JST",
       "name": "JUST",
       "direction": "long",
-      "entry": 0.147015,
-      "tp": 0.147494,
-      "sl": 0.146696,
-      "generated_at": 1795566131.8212323
-    },
-    {
-      "id": "open-usd",
-      "symbol": "OUSD",
-      "name": "Open USD",
-      "direction": "long",
-      "entry": 0.998952,
-      "tp": 0.999666,
-      "sl": 0.998475,
-      "generated_at": 1795566131.8212397
-    },
-    {
-      "id": "aave",
-      "symbol": "AAVE",
-      "name": "Aave",
-      "direction": "long",
-      "entry": 93.620126,
-      "tp": 94.586796,
-      "sl": 92.97568,
-      "generated_at": 1795566131.8212433
+      "entry": 0.146993,
+      "tp": 0.147309,
+      "sl": 0.146783,
+      "generated_at": 1795595070.3789542
     },
     {
       "id": "sky",
       "symbol": "SKY",
       "name": "Sky",
       "direction": "long",
-      "entry": 0.041268,
-      "tp": 0.041773,
-      "sl": 0.040931,
-      "generated_at": 1795566131.8212461
+      "entry": 0.040791,
+      "tp": 0.041263,
+      "sl": 0.040476,
+      "generated_at": 1795595070.3789616
+    },
+    {
+      "id": "monero",
+      "symbol": "XMR",
+      "name": "Monero",
+      "direction": "long",
+      "entry": 506.881454,
+      "tp": 510.493494,
+      "sl": 504.473427,
+      "generated_at": 1795595070.3789694
+    },
+    {
+      "id": "sui",
+      "symbol": "SUI",
+      "name": "Sui",
+      "direction": "long",
+      "entry": 0.640668,
+      "tp": 0.643757,
+      "sl": 0.638608,
+      "generated_at": 1795595070.3789732
+    },
+    {
+      "id": "aave",
+      "symbol": "AAVE",
+      "name": "Aave",
+      "direction": "long",
+      "entry": 91.99686,
+      "tp": 92.558733,
+      "sl": 91.622278,
+      "generated_at": 1795595070.378977
     }
   ]
 }
