@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795595070.379385,
+  "generated_at": 1795634885.3883414,
   "signals": [
-    {
-      "id": "just",
-      "symbol": "JST",
-      "name": "JUST",
-      "direction": "long",
-      "entry": 0.146993,
-      "tp": 0.147309,
-      "sl": 0.146783,
-      "generated_at": 1795595070.3789542
-    },
-    {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
-      "direction": "long",
-      "entry": 0.040791,
-      "tp": 0.041263,
-      "sl": 0.040476,
-      "generated_at": 1795595070.3789616
-    },
     {
       "id": "monero",
       "symbol": "XMR",
       "name": "Monero",
       "direction": "long",
-      "entry": 506.881454,
-      "tp": 510.493494,
-      "sl": 504.473427,
-      "generated_at": 1795595070.3789694
+      "entry": 515.917601,
+      "tp": 519.907542,
+      "sl": 513.25764,
+      "generated_at": 1795634885.3879924
     },
     {
-      "id": "sui",
-      "symbol": "SUI",
-      "name": "Sui",
+      "id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
       "direction": "long",
-      "entry": 0.640668,
-      "tp": 0.643757,
-      "sl": 0.638608,
-      "generated_at": 1795595070.3789732
+      "entry": 3544.199824,
+      "tp": 3576.145821,
+      "sl": 3522.902492,
+      "generated_at": 1795634885.3880005
     },
     {
-      "id": "aave",
-      "symbol": "AAVE",
-      "name": "Aave",
+      "id": "ondo-us-dollar-yield",
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
       "direction": "long",
-      "entry": 91.99686,
-      "tp": 92.558733,
-      "sl": 91.622278,
-      "generated_at": 1795595070.378977
+      "entry": 1.154088,
+      "tp": 1.154745,
+      "sl": 1.153651,
+      "generated_at": 1795634885.3880093
+    },
+    {
+      "id": "pax-gold",
+      "symbol": "PAXG",
+      "name": "PAX Gold",
+      "direction": "long",
+      "entry": 3548.69116,
+      "tp": 3581.138971,
+      "sl": 3527.059285,
+      "generated_at": 1795634885.3880146
+    },
+    {
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
+      "direction": "long",
+      "entry": 27.150191,
+      "tp": 27.674883,
+      "sl": 26.800396,
+      "generated_at": 1795634885.3880198
     }
   ]
 }
