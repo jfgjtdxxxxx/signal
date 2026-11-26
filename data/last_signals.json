@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795634885.3883414,
+  "generated_at": 1795665003.3072906,
   "signals": [
     {
-      "id": "monero",
-      "symbol": "XMR",
-      "name": "Monero",
+      "id": "near",
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
       "direction": "long",
-      "entry": 515.917601,
-      "tp": 519.907542,
-      "sl": 513.25764,
-      "generated_at": 1795634885.3879924
+      "entry": 3.059548,
+      "tp": 3.107722,
+      "sl": 3.027433,
+      "generated_at": 1795665003.3069239
     },
     {
-      "id": "tether-gold",
-      "symbol": "XAUT",
-      "name": "Tether Gold",
+      "id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "direction": "long",
-      "entry": 3544.199824,
-      "tp": 3576.145821,
-      "sl": 3522.902492,
-      "generated_at": 1795634885.3880005
+      "entry": 773.257812,
+      "tp": 785.544916,
+      "sl": 765.066409,
+      "generated_at": 1795665003.3069322
     },
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
       "direction": "long",
-      "entry": 1.154088,
-      "tp": 1.154745,
-      "sl": 1.153651,
-      "generated_at": 1795634885.3880093
-    },
-    {
-      "id": "pax-gold",
-      "symbol": "PAXG",
-      "name": "PAX Gold",
-      "direction": "long",
-      "entry": 3548.69116,
-      "tp": 3581.138971,
-      "sl": 3527.059285,
-      "generated_at": 1795634885.3880146
+      "entry": 0.078339,
+      "tp": 0.079174,
+      "sl": 0.077783,
+      "generated_at": 1795665003.3069406
     },
     {
       "id": "venice-token",
       "symbol": "VVV",
       "name": "Venice Token",
       "direction": "long",
-      "entry": 27.150191,
-      "tp": 27.674883,
-      "sl": 26.800396,
-      "generated_at": 1795634885.3880198
+      "entry": 26.09194,
+      "tp": 27.257538,
+      "sl": 25.314874,
+      "generated_at": 1795665003.306946
+    },
+    {
+      "id": "pieverse",
+      "symbol": "PIEVERSE",
+      "name": "Pieverse",
+      "direction": "long",
+      "entry": 3.799155,
+      "tp": 3.927716,
+      "sl": 3.713447,
+      "generated_at": 1795665003.3069513
     }
   ]
 }
