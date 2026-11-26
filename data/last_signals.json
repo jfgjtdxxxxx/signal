@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795665003.3072906,
+  "generated_at": 1795712738.3788776,
   "signals": [
     {
-      "id": "near",
-      "symbol": "NEAR",
-      "name": "NEAR Protocol",
+      "id": "quant-network",
+      "symbol": "QNT",
+      "name": "Quant",
       "direction": "long",
-      "entry": 3.059548,
-      "tp": 3.107722,
-      "sl": 3.027433,
-      "generated_at": 1795665003.3069239
+      "entry": 150.0005,
+      "tp": 151.734334,
+      "sl": 148.844611,
+      "generated_at": 1795712738.3784769
     },
     {
-      "id": "zcash",
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
       "direction": "long",
-      "entry": 773.257812,
-      "tp": 785.544916,
-      "sl": 765.066409,
-      "generated_at": 1795665003.3069322
+      "entry": 0.045594,
+      "tp": 0.046481,
+      "sl": 0.045003,
+      "generated_at": 1795712738.3784835
     },
     {
-      "id": "canton-network",
-      "symbol": "CC",
-      "name": "Canton",
+      "id": "jupiter-exchange-solana",
+      "symbol": "JUP",
+      "name": "Jupiter",
       "direction": "long",
-      "entry": 0.078339,
-      "tp": 0.079174,
-      "sl": 0.077783,
-      "generated_at": 1795665003.3069406
+      "entry": 0.236544,
+      "tp": 0.238143,
+      "sl": 0.235478,
+      "generated_at": 1795712738.37849
     },
     {
-      "id": "venice-token",
-      "symbol": "VVV",
-      "name": "Venice Token",
+      "id": "whitebit",
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
       "direction": "long",
-      "entry": 26.09194,
-      "tp": 27.257538,
-      "sl": 25.314874,
-      "generated_at": 1795665003.306946
+      "entry": 61.042245,
+      "tp": 61.565883,
+      "sl": 60.693152,
+      "generated_at": 1795712738.378494
     },
     {
-      "id": "pieverse",
-      "symbol": "PIEVERSE",
-      "name": "Pieverse",
+      "id": "falcon-finance",
+      "symbol": "USDF",
+      "name": "Falcon USD",
       "direction": "long",
-      "entry": 3.799155,
-      "tp": 3.927716,
-      "sl": 3.713447,
-      "generated_at": 1795665003.3069513
+      "entry": 0.99576,
+      "tp": 0.995873,
+      "sl": 0.995684,
+      "generated_at": 1795712738.3784971
     }
   ]
 }
