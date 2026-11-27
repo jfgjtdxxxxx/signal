@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795712738.3788776,
+  "generated_at": 1795744812.558447,
   "signals": [
     {
-      "id": "quant-network",
-      "symbol": "QNT",
-      "name": "Quant",
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
       "direction": "long",
-      "entry": 150.0005,
-      "tp": 151.734334,
-      "sl": 148.844611,
-      "generated_at": 1795712738.3784769
+      "entry": 555.987897,
+      "tp": 557.558333,
+      "sl": 554.94094,
+      "generated_at": 1795744812.5581138
     },
     {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
+      "id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
       "direction": "long",
-      "entry": 0.045594,
-      "tp": 0.046481,
-      "sl": 0.045003,
-      "generated_at": 1795712738.3784835
+      "entry": 62.655577,
+      "tp": 63.342378,
+      "sl": 62.19771,
+      "generated_at": 1795744812.558122
     },
     {
-      "id": "jupiter-exchange-solana",
-      "symbol": "JUP",
-      "name": "Jupiter",
+      "id": "okb",
+      "symbol": "OKB",
+      "name": "OKB",
       "direction": "long",
-      "entry": 0.236544,
-      "tp": 0.238143,
-      "sl": 0.235478,
-      "generated_at": 1795712738.37849
+      "entry": 83.136381,
+      "tp": 83.493071,
+      "sl": 82.898588,
+      "generated_at": 1795744812.5581303
     },
     {
-      "id": "whitebit",
-      "symbol": "WBT",
-      "name": "WhiteBIT Coin",
+      "id": "bitway",
+      "symbol": "BTW",
+      "name": "Bitway",
       "direction": "long",
-      "entry": 61.042245,
-      "tp": 61.565883,
-      "sl": 60.693152,
-      "generated_at": 1795712738.378494
+      "entry": 0.995653,
+      "tp": 1.00585,
+      "sl": 0.988855,
+      "generated_at": 1795744812.5581348
     },
     {
-      "id": "falcon-finance",
-      "symbol": "USDF",
-      "name": "Falcon USD",
+      "id": "aster-2",
+      "symbol": "ASTER",
+      "name": "Aster",
       "direction": "long",
-      "entry": 0.99576,
-      "tp": 0.995873,
-      "sl": 0.995684,
-      "generated_at": 1795712738.3784971
+      "entry": 0.50368,
+      "tp": 0.507131,
+      "sl": 0.501379,
+      "generated_at": 1795744812.558139
     }
   ]
 }
