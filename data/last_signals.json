@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795744812.558447,
+  "generated_at": 1795783332.0316792,
   "signals": [
-    {
-      "id": "binancecoin",
-      "symbol": "BNB",
-      "name": "BNB",
-      "direction": "long",
-      "entry": 555.987897,
-      "tp": 557.558333,
-      "sl": 554.94094,
-      "generated_at": 1795744812.5581138
-    },
     {
       "id": "hyperliquid",
       "symbol": "HYPE",
       "name": "Hyperliquid",
       "direction": "long",
-      "entry": 62.655577,
-      "tp": 63.342378,
-      "sl": 62.19771,
-      "generated_at": 1795744812.558122
+      "entry": 65.874333,
+      "tp": 66.660791,
+      "sl": 65.350027,
+      "generated_at": 1795783332.0314696
     },
     {
-      "id": "okb",
-      "symbol": "OKB",
-      "name": "OKB",
+      "id": "usdgo",
+      "symbol": "USDGO",
+      "name": "USDGO",
       "direction": "long",
-      "entry": 83.136381,
-      "tp": 83.493071,
-      "sl": 82.898588,
-      "generated_at": 1795744812.5581303
+      "entry": 1.000216,
+      "tp": 1.000342,
+      "sl": 1.000131,
+      "generated_at": 1795783332.0314763
     },
     {
-      "id": "bitway",
-      "symbol": "BTW",
-      "name": "Bitway",
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "direction": "long",
-      "entry": 0.995653,
-      "tp": 1.00585,
-      "sl": 0.988855,
-      "generated_at": 1795744812.5581348
+      "entry": 61564.522098,
+      "tp": 61757.879486,
+      "sl": 61435.617173,
+      "generated_at": 1795783332.0314827
     },
     {
-      "id": "aster-2",
-      "symbol": "ASTER",
-      "name": "Aster",
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "direction": "long",
-      "entry": 0.50368,
-      "tp": 0.507131,
-      "sl": 0.501379,
-      "generated_at": 1795744812.558139
+      "entry": 1721.812757,
+      "tp": 1731.263305,
+      "sl": 1715.512391,
+      "generated_at": 1795783332.0314863
+    },
+    {
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
+      "direction": "long",
+      "entry": 563.479034,
+      "tp": 565.691754,
+      "sl": 562.003888,
+      "generated_at": 1795783332.0314896
     }
   ]
 }
