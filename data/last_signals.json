@@ -1,55 +1,55 @@
 {
-  "generated_at": 1795814650.4170861,
+  "generated_at": 1795853006.1866534,
   "signals": [
     {
-      "id": "ondo-us-dollar-yield",
-      "symbol": "USDY",
-      "name": "Ondo US Dollar Yield",
+      "id": "sky",
+      "symbol": "SKY",
+      "name": "Sky",
       "direction": "long",
-      "entry": 1.154637,
-      "tp": 1.155693,
-      "sl": 1.153933,
-      "generated_at": 1795814650.4167356
+      "entry": 0.050238,
+      "tp": 0.051552,
+      "sl": 0.049362,
+      "generated_at": 1795853006.1864483
+    },
+    {
+      "id": "canton-network",
+      "symbol": "CC",
+      "name": "Canton",
+      "direction": "long",
+      "entry": 0.075242,
+      "tp": 0.075751,
+      "sl": 0.074902,
+      "generated_at": 1795853006.1864548
     },
     {
       "id": "bitway",
       "symbol": "BTW",
       "name": "Bitway",
       "direction": "long",
-      "entry": 1.158811,
-      "tp": 1.198838,
-      "sl": 1.132126,
-      "generated_at": 1795814650.4167426
+      "entry": 1.348707,
+      "tp": 1.392496,
+      "sl": 1.319514,
+      "generated_at": 1795853006.1864612
     },
     {
-      "id": "sky",
-      "symbol": "SKY",
-      "name": "Sky",
+      "id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
       "direction": "long",
-      "entry": 0.052008,
-      "tp": 0.053018,
-      "sl": 0.051336,
-      "generated_at": 1795814650.4167488
-    },
-    {
-      "id": "pieverse",
-      "symbol": "PIEVERSE",
-      "name": "Pieverse",
-      "direction": "long",
-      "entry": 4.021195,
-      "tp": 4.193485,
-      "sl": 3.906335,
-      "generated_at": 1795814650.4167526
+      "entry": 26.327518,
+      "tp": 26.694749,
+      "sl": 26.082697,
+      "generated_at": 1795853006.1864657
     },
     {
       "id": "open-usd",
       "symbol": "OUSD",
       "name": "Open USD",
       "direction": "long",
-      "entry": 0.999278,
-      "tp": 1.000734,
-      "sl": 0.998306,
-      "generated_at": 1795814650.4167564
+      "entry": 0.999138,
+      "tp": 0.999896,
+      "sl": 0.998632,
+      "generated_at": 1795853006.1864693
     }
   ]
 }
